@@ -1,0 +1,55 @@
+{
+  "algorithm": "sha256",
+  "content_file": "content/147.135.252.205_25566.zip",
+  "sha256": "d304ebdaef1c55c4449f57e53830aba62138b46d5a098420d8a9dbb0ec8fa61a",
+  "size_bytes": 2983745,
+  "file_count": 9,
+  "content_digest": "1c297e68d018886d3545207f4ddc9bc035d35ff7780650308db3ffecb0dbe8c8",
+  "inventory": [
+    {
+      "path": "WorldTools/Capture Metadata.md",
+      "size": 365,
+      "sha256": "2eb0fc0255ac10ec09c43f2b1eadcc2db410f15405954a65400cd2e2dea7a5f2"
+    },
+    {
+      "path": "entities/r.-1.-1.mca",
+      "size": 118784,
+      "sha256": "caeb1c9983508550b924843b6504900d6b253e5aab39f8a8cbee371a5a01bb32"
+    },
+    {
+      "path": "entities/r.0.-1.mca",
+      "size": 356352,
+      "sha256": "0420edf72d985d415371b8f5eface510eb167738cee1890531246144dda56ea3"
+    },
+    {
+      "path": "level.dat",
+      "size": 1324,
+      "sha256": "f74c75d8a9352bcb5da68744210d9f3d3adf77ac162551c5d98cc751b7119809"
+    },
+    {
+      "path": "playerdata/93d2d469-7e11-4249-9cae-fdbf48b6d703.dat",
+      "size": 679,
+      "sha256": "b0a93ce09db59a26627814f0a5cd01a36b916255112999b73156495dac90d141"
+    },
+    {
+      "path": "region/r.-1.-1.mca",
+      "size": 1339392,
+      "sha256": "b982517b3367ac82ca36c8419c26fe27ffc7a6be5c8581847f9eb15a829a266f"
+    },
+    {
+      "path": "region/r.0.-1.mca",
+      "size": 2707456,
+      "sha256": "bec455a5f6454a5169f44c2f44d4b442069f083c8d9b769107bfa96aabf78322"
+    },
+    {
+      "path": "session.lock",
+      "size": 3,
+      "sha256": "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+    },
+    {
+      "path": "stats/93d2d469-7e11-4249-9cae-fdbf48b6d703.json",
+      "size": 437,
+      "sha256": "48a384dcca3adc97f6a313982aae0dadc67bcc9040dcb9ba86048028231fa71e"
+    }
+  ]
+}

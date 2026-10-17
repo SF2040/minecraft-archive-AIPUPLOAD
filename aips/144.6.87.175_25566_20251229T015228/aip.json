@@ -1,0 +1,81 @@
+{
+  "schema": "autoarchiver-aip/1",
+  "aip_id": "144.6.87.175_25566_20251229T015228",
+  "created_utc": "2026-10-17T07:03:10.739405+00:00",
+  "qa_status": "unverified",
+  "qa_checks": [
+    {
+      "check": "zip_integrity",
+      "ok": true,
+      "detail": "all members readable"
+    },
+    {
+      "check": "level_dat_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "region_data_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "under_github_file_limit",
+      "ok": true,
+      "detail": "3323280 bytes"
+    },
+    {
+      "check": "capture_metadata_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "worldtools_reported_saved",
+      "ok": null,
+      "detail": "no Minecraft log evidence found"
+    },
+    {
+      "check": "no_storage_errors_in_log",
+      "ok": null,
+      "detail": ""
+    }
+  ],
+  "representation_information": "../../docs/representation_information.md",
+  "files": [
+    {
+      "path": "content/144.6.87.175_25566.zip",
+      "size": 3323280,
+      "sha256": "9b8fceb3f57ef6a609a95dff8516ca9a3997ddc4a0591ebb7e4d0b1f020083a3"
+    },
+    {
+      "path": "pdi/access_rights.json",
+      "size": 446,
+      "sha256": "d815a800cab9507a55a95061bb11714c27cdb947cd5a1a0e120729ed4927971c"
+    },
+    {
+      "path": "pdi/context.json",
+      "size": 356,
+      "sha256": "e4457e3bf544e8ea76658505e3c73b18afc22998392546f75ccd3631c64dc970"
+    },
+    {
+      "path": "pdi/fixity.json",
+      "size": 2435,
+      "sha256": "4a65593c31fef3f3b3ca6dd8eed0fa62ac7c86959664907e3717aff68b8fb031"
+    },
+    {
+      "path": "pdi/provenance.json",
+      "size": 1965,
+      "sha256": "131184e1eb1441335bdfd14ef1594b48b6da578b30c5276b58287cae26c7c654"
+    },
+    {
+      "path": "pdi/reference.json",
+      "size": 286,
+      "sha256": "b4e00d704ed9b549004fed4646a8ddcee8d7f2e5f12651c44c20ef6dc98e1ef6"
+    },
+    {
+      "path": "pdi/session_log_excerpt.txt",
+      "size": 47,
+      "sha256": "1f58fec1e73c9af59bd39cc4dc931e29258d82d4196082ea70eb57695cbc9b25"
+    }
+  ]
+}

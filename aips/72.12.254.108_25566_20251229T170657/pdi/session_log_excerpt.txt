@@ -1,0 +1,175 @@
+[17:06:26] [Render thread/INFO]: Connecting to 72.12.254.108, 25566
+[17:06:32] [Render thread/INFO]: Loading client level [Wrapped{ClientLevel@fqtlc4rn0kup8@minecraft:overworld}]-[fqtlc4rn0kup8@minecraft:overworld].
+[17:06:32] [Render thread/INFO]: Started 1 worker threads
+[17:06:32] [Render thread/INFO]: [STDOUT]: World seems to be a replay. Not loading Baritone cache.
+[17:06:32] [Render thread/INFO]: Cleared hot cache
+[17:06:32] [Render thread/INFO]: Client on ClientOnly mode connecting.
+[17:06:32] [Render thread/INFO]: Started DhWorld of type CLIENT_ONLY
+[17:06:32] [Render thread/INFO]: Shutting down PriorityTaskPicker thread pool...
+[17:06:32] [Render thread/INFO]: Loading [1] waiting client level wrappers.
+[17:06:32] [Render thread/INFO]: Loading client level [Wrapped{ClientLevel@fqtlc4rn0kup8@minecraft:overworld}]-[fqtlc4rn0kup8@minecraft:overworld].
+[17:06:32] [Render thread/WARN]: unable to create data folder.
+[17:06:32] [Render thread/INFO]: Running SQL update script: [sqlScripts/0010-sqlite-createInitialDataTables.sql], for repo: [C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\fqtlc4rn0kup8@minecraft@@overworld\DistantHorizons.sqlite]
+[17:06:32] [Render thread/INFO]: Running SQL update script: [sqlScripts/0020-sqlite-createFullDataSourceV2Tables.sql], for repo: [C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\fqtlc4rn0kup8@minecraft@@overworld\DistantHorizons.sqlite]
+[17:06:32] [Render thread/INFO]: Running SQL update script: [sqlScripts/0030-sqlite-changeTableJournaling.sql], for repo: [C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\fqtlc4rn0kup8@minecraft@@overworld\DistantHorizons.sqlite]
+[17:06:32] [Render thread/INFO]: Running SQL update script: [sqlScripts/0031-sqlite-useSqliteWalJournaling.sql], for repo: [C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\fqtlc4rn0kup8@minecraft@@overworld\DistantHorizons.sqlite]
+[17:06:32] [Render thread/INFO]: Running SQL update script: [sqlScripts/0040-sqlite-removeRenderCache.sql], for repo: [C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\fqtlc4rn0kup8@minecraft@@overworld\DistantHorizons.sqlite]
+[17:06:32] [Render thread/INFO]: Running SQL update script: [sqlScripts/0050-sqlite-addApplyToParentIndex.sql], for repo: [C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\fqtlc4rn0kup8@minecraft@@overworld\DistantHorizons.sqlite]
+[17:06:32] [Render thread/INFO]: Running SQL update script: [sqlScripts/0060-sqlite-createChunkHashTable.sql], for repo: [C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\fqtlc4rn0kup8@minecraft@@overworld\DistantHorizons.sqlite]
+[17:06:32] [Render thread/INFO]: Running SQL update script: [sqlScripts/0070-sqlite-createBeaconBeamTable.sql], for repo: [C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\fqtlc4rn0kup8@minecraft@@overworld\DistantHorizons.sqlite]
+[17:06:32] [Render thread/INFO]: Running SQL update script: [sqlScripts/0080-sqlite-addApplyToChildrenColumn.sql], for repo: [C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\fqtlc4rn0kup8@minecraft@@overworld\DistantHorizons.sqlite]
+[17:06:32] [Render thread/INFO]: Running SQL update script: [sqlScripts/0090-sqlite-addAdjacentFullDataColumns.sql], for repo: [C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\fqtlc4rn0kup8@minecraft@@overworld\DistantHorizons.sqlite]
+[17:06:32] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
+[17:06:32] [Render thread/INFO]: Started DHLevel for Wrapped{ClientLevel@fqtlc4rn0kup8@minecraft:overworld} with saves at [ClientOnlySaveStructure@(C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\fqtlc4rn0kup8@minecraft@@overworld)]
+[17:06:32] [Render thread/INFO]: Loaded [0] waiting chunk wrappers.
+[17:06:32] [Render thread/INFO]: Stopping worker threads
+[17:06:32] [Render thread/INFO]: Started 1 worker threads
+[17:06:32] [Render thread/INFO]: Loaded 2 advancements
+[17:06:32] [Render thread/INFO]: [STDOUT]: Retrying to load Baritone cache
+[17:06:32] [Render thread/INFO]: [STDOUT]: Baritone world data dir: C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\72.12.254.108_25566\minecraft\overworld_384
+[17:06:32] [Render thread/INFO]: [STDOUT]: Cached world directory: C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\72.12.254.108_25566\minecraft\overworld_384\cache
+[17:06:32] [Render thread/INFO]: [STDOUT]: Would save waypoints to C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\72.12.254.108_25566\minecraft\overworld_384\waypoints
+[17:06:32] [Render thread/INFO]: Loading shader with type: [35633]
+[17:06:32] [Render thread/INFO]: Shader loaded sucessfully.
+[17:06:32] [Render thread/INFO]: Loading shader with type: [35632]
+[17:06:32] [Render thread/INFO]: Shader loaded sucessfully.
+[17:06:32] [Render thread/INFO]: Vertex Attribute (GL43+) completed. It contains 1 binding points and a stride size of 12
+[17:06:32] [Render thread/INFO]: Loading shader with type: [35633]
+[17:06:32] [Render thread/INFO]: Shader loaded sucessfully.
+[17:06:32] [Render thread/INFO]: Loading shader with type: [35632]
+[17:06:32] [Render thread/INFO]: Shader loaded sucessfully.
+[17:06:32] [Render thread/INFO]: Vertex Attribute (GL43+) completed. It contains 1 binding points and a stride size of 12
+[17:06:43] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X56, Y11, Z184 (Block{minecraft:powered_rail})
+[17:06:46] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X56, Y11, Z168 (Block{minecraft:powered_rail})
+[17:06:50] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X56, Y11, Z152 (Block{minecraft:powered_rail})
+[17:06:53] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X88, Y71, Z216 (Block{minecraft:iron_block})
+[17:06:53] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X56, Y11, Z136 (Block{minecraft:powered_rail})
+[17:06:54] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-8, Y11, Z104 (Block{minecraft:powered_rail})
+[17:06:54] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-40, Y49, Z104 (Block{minecraft:powered_rail})
+[17:06:56] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X72, Y22, Z280 (Block{minecraft:powered_rail})
+[17:06:56] [Render thread/INFO]: [CHAT] [Baritone] > goto 56 11 184
+[17:06:56] [Render thread/INFO]: [CHAT] [Baritone] Going to: GoalBlock{x=56,y=11,z=184}
+[17:06:56] [pool-8-thread-44/INFO]: [STDOUT]: 1051390 movements considered
+[17:06:56] [pool-8-thread-44/INFO]: [STDOUT]: Open set size: 19041
+[17:06:56] [pool-8-thread-44/INFO]: [STDOUT]: PathNode map size: 66832
+[17:06:56] [pool-8-thread-44/INFO]: [STDOUT]: 119789 nodes per second
+[17:06:56] [pool-8-thread-44/INFO]: [STDOUT]: Path goes for 85.80209787645055 blocks
+[17:06:57] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-56, Y11, Z104 (Block{minecraft:powered_rail})
+[17:06:57] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X8, Y11, Z104 (Block{minecraft:powered_rail})
+[17:06:57] [Render thread/INFO]: Cleared hot cache
+[17:06:57] [Render thread/INFO]: [System] [CHAT] [WorldTools] Started capturing 72.12.254.108_25566...
+[17:06:57] [DefaultDispatcher-worker-4/INFO]: Started caching
+[17:06:58] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-72, Y49, Z104 (Block{minecraft:powered_rail})
+[17:06:58] [DefaultDispatcher-worker-2/INFO]: Saved 5 stats.
+[17:06:59] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X104, Y74, Z216 (Block{minecraft:quartz_stairs})
+[17:06:59] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X104, Y74, Z232 (Block{minecraft:quartz_stairs})
+[17:07:00] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X40, Y11, Z104 (Block{minecraft:powered_rail})
+[17:07:02] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X56, Y11, Z104 (Block{minecraft:powered_rail})
+[17:07:02] [ForkJoinPool.commonPool-worker-100/INFO]: [STDOUT]: Saving region 0,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\72.12.254.108_25566\minecraft\overworld_384\cache
+[17:07:02] [pool-8-thread-43/INFO]: [STDOUT]: Saving region -1,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\72.12.254.108_25566\minecraft\overworld_384\cache
+[17:07:02] [ForkJoinPool.commonPool-worker-100/INFO]: [STDOUT]: Saved region successfully
+[17:07:02] [pool-8-thread-43/INFO]: [STDOUT]: Saved region successfully
+[17:07:02] [pool-8-thread-43/INFO]: [STDOUT]: World save took 53ms
+[17:07:03] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X120, Y49, Z184 (Block{minecraft:enchanting_table})
+[17:07:03] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X72, Y49, Z104 (Block{minecraft:powered_rail})
+[17:07:04] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X120, Y94, Z168 (Block{minecraft:heavy_weighted_pressure_plate})
+[17:07:04] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X120, Y49, Z152 (Block{minecraft:powered_rail})
+[17:07:05] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X104, Y22, Z280 (Block{minecraft:detector_rail})
+[17:07:05] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X88, Y49, Z104 (Block{minecraft:powered_rail})
+[17:07:06] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X136, Y94, Z184 (Block{minecraft:heavy_weighted_pressure_plate})
+[17:07:06] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X120, Y49, Z136 (Block{minecraft:powered_rail})
+[17:07:06] [pool-8-thread-44/INFO]: [STDOUT]: 1604246 movements considered
+[17:07:06] [pool-8-thread-44/INFO]: [STDOUT]: Open set size: 27472
+[17:07:06] [pool-8-thread-44/INFO]: [STDOUT]: PathNode map size: 100397
+[17:07:06] [pool-8-thread-44/INFO]: [STDOUT]: 92078 nodes per second
+[17:07:06] [pool-8-thread-44/INFO]: [STDOUT]: Path goes for 6.164414002968976 blocks
+[17:07:07] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X104, Y49, Z104 (Block{minecraft:powered_rail})
+[17:07:07] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X120, Y49, Z120 (Block{minecraft:powered_rail})
+[17:07:08] [pool-8-thread-44/INFO]: [STDOUT]: 2549196 movements considered
+[17:07:08] [pool-8-thread-44/INFO]: [STDOUT]: Open set size: 39747
+[17:07:08] [pool-8-thread-44/INFO]: [STDOUT]: PathNode map size: 155625
+[17:07:08] [pool-8-thread-44/INFO]: [STDOUT]: 83788 nodes per second
+[17:07:08] [pool-8-thread-44/INFO]: [STDOUT]: Warning: cost coefficient is greater than three! Probably means that
+[17:07:08] [pool-8-thread-44/INFO]: [STDOUT]: the path I found is pretty terrible (like sneak-bridging for dozens of blocks)
+[17:07:08] [pool-8-thread-44/INFO]: [STDOUT]: But I'm going to do it anyway, because yolo
+[17:07:08] [pool-8-thread-44/INFO]: [STDOUT]: Path goes for 19.339079605813716 blocks
+[17:07:10] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X120, Y49, Z104 (Block{minecraft:powered_rail})
+[17:07:12] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X152, Y73, Z264 (Block{minecraft:oak_sign})
+[17:07:15] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X168, Y76, Z264 (Block{minecraft:enchanting_table})
+[17:07:19] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List5)Possible build located near X168, Y76, Z280 (Block{minecraft:quartz_block})
+[17:07:20] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X120, Y92, Z72 (Block{minecraft:dropper})
+[17:07:21] [pool-8-thread-27/INFO]: [STDOUT]: World save took 0ms
+[17:07:22] [pool-8-thread-44/INFO]: [STDOUT]: 10020736 movements considered
+[17:07:22] [pool-8-thread-44/INFO]: [STDOUT]: Open set size: 101994
+[17:07:22] [pool-8-thread-44/INFO]: [STDOUT]: PathNode map size: 557371
+[17:07:22] [pool-8-thread-44/INFO]: [STDOUT]: 91097 nodes per second
+[17:07:22] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X177.96875, Y81.5, Z259.5
+[17:07:23] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-88, Y49, Z104 (Block{minecraft:powered_rail})
+[17:07:24] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X168, Y74, Z296 (Block{minecraft:birch_door})
+[17:07:28] [pool-8-thread-44/INFO]: [STDOUT]: 10189696 movements considered
+[17:07:28] [pool-8-thread-44/INFO]: [STDOUT]: Open set size: 101443
+[17:07:28] [pool-8-thread-44/INFO]: [STDOUT]: PathNode map size: 564500
+[17:07:28] [pool-8-thread-44/INFO]: [STDOUT]: 92522 nodes per second
+[17:07:29] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X152, Y92, Z72 (Block{minecraft:dropper})
+[17:07:31] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X200.03125, Y68.5, Z241.5
+[17:07:31] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X200.03125, Y69.5, Z241.5
+[17:07:31] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X200.03125, Y68.5, Z242.5
+[17:07:31] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X200.03125, Y70.5, Z242.5
+[17:07:31] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X200.03125, Y69.5, Z242.5
+[17:07:31] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X200.03125, Y68.5, Z243.5
+[17:07:31] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X200.03125, Y69.5, Z243.5
+[17:07:32] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X216, Y65, Z248 (Block{minecraft:powered_rail})
+[17:07:33] [pool-8-thread-44/INFO]: [STDOUT]: 10109440 movements considered
+[17:07:33] [pool-8-thread-44/INFO]: [STDOUT]: Open set size: 100802
+[17:07:33] [pool-8-thread-44/INFO]: [STDOUT]: PathNode map size: 560211
+[17:07:33] [pool-8-thread-44/INFO]: [STDOUT]: 91904 nodes per second
+[17:07:35] [pool-8-thread-12/INFO]: [STDOUT]: World save took 0ms
+[17:07:36] [Render thread/INFO]: [System] [CHAT] oPrism has made the advancement [Monster Hunter]
+[17:07:36] [Render thread/INFO]: Loaded 41 advancements
+[17:07:38] [pool-8-thread-44/INFO]: [STDOUT]: 10369920 movements considered
+[17:07:38] [pool-8-thread-44/INFO]: [STDOUT]: Open set size: 103155
+[17:07:38] [pool-8-thread-44/INFO]: [STDOUT]: PathNode map size: 574404
+[17:07:38] [pool-8-thread-44/INFO]: [STDOUT]: 94253 nodes per second
+[17:07:38] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X232, Y5, Z152 (Block{minecraft:powered_rail})
+[17:07:39] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-104, Y49, Z104 (Block{minecraft:powered_rail})
+[17:07:40] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X232, Y65, Z232 (Block{minecraft:detector_rail})
+[17:07:43] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X232, Y59, Z248 (Block{minecraft:powered_rail})
+[17:07:45] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X232, Y5, Z104 (Block{minecraft:powered_rail})
+[17:07:46] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-120, Y49, Z104 (Block{minecraft:powered_rail})
+[17:07:47] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X232, Y5, Z88 (Block{minecraft:powered_rail})
+[17:07:47] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X232, Y27, Z280 (Block{minecraft:powered_rail})
+[17:07:55] [Render thread/INFO]: [System] [CHAT] oPrism was shot by Skeleton
+[17:07:55] [Render thread/INFO]: [CHAT] [Baritone] Death position saved.
+[17:08:01] [Render thread/INFO]: Stopping worker threads
+[17:08:01] [Render thread/INFO]: Started 1 worker threads
+[17:08:01] [Render thread/INFO]: Saving
+[17:08:01] [Render thread/INFO]: Saved in 200 milliseconds.
+[17:08:01] [Render thread/INFO]: Client on ClientOnly mode disconnecting.
+[17:08:01] [level shutdown/INFO]: Shutting down ClientRenderState
+[17:08:01] [level shutdown/INFO]: Shutting down LodQuadTree...
+[17:08:01] [level shutdown/INFO]: Finished shutting down LodQuadTree
+[17:08:01] [level shutdown/INFO]: Closed [DhClientLevel] for [Wrapped{ClientLevel@fqtlc4rn0kup8@minecraft:overworld}]
+[17:08:01] [Render thread/INFO]: Closed DhWorld of type [CLIENT_ONLY].
+[17:08:01] [Render thread/INFO]: Closed DhWorld of type [CLIENT_ONLY].
+[17:08:01] [Render thread/INFO]: Shutting down PriorityTaskPicker thread pool...
+[17:08:01] [Render thread/INFO]: Closing all [21] database connections...
+[17:08:01] [Render thread/INFO]: Closing database connection: [jdbc:dh_sqlite:C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\fqtlc4rn0kup8@minecraft@@overworld\DistantHorizons.sqlite]
+[17:08:02] [Render thread/INFO]: Unloading client level [ClientLevelWrapper]-[fqtlc4rn0kup8@minecraft:overworld].
+[17:08:02] [Render thread/INFO]: Stopping worker threads
+[17:08:03] [DefaultDispatcher-worker-4/INFO]: Saved level data.
+[17:08:03] [DefaultDispatcher-worker-4/INFO]: Saved favicon.
+[17:08:03] [DefaultDispatcher-worker-4/INFO]: Saved capture metadata.
+[17:08:03] [DefaultDispatcher-worker-4/INFO]: Zipping C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\72.12.254.108_25566\. to C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\72.12.254.108_25566-1766999283237.zip
+[17:08:03] [DefaultDispatcher-worker-4/INFO]: Finished zipping C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\72.12.254.108_25566\. with size 4.5 MB to C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\72.12.254.108_25566-1766999283237.zip with size 2.9 MB
+[17:08:03] [DefaultDispatcher-worker-4/INFO]: Canceled caching flow
+[17:08:03] [Render thread/INFO]: [System] [CHAT] [WorldTools] Saved 541 chunks, 469 entities, 2 players and 1 container in dimension overworld to saves directory 72.12.254.108_25566 (click to open)
+[17:08:03] [DefaultDispatcher-worker-4/INFO]: Cleared hot cache
+[17:08:03] [DefaultDispatcher-worker-4/INFO]: Finished caching
+[17:08:04] [pool-8-thread-18/INFO]: [STDOUT]: World save took 0ms
+[17:08:04] [pool-8-thread-18/INFO]: [STDOUT]: mc.world unloaded unnoticed! Unloading Baritone cache now.
+[17:08:04] [pool-8-thread-44/INFO]: [STDOUT]: Started saving the world in a new thread
+[17:08:04] [pool-8-thread-44/INFO]: [STDOUT]: Saving region -1,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\72.12.254.108_25566\minecraft\overworld_384\cache
+[17:08:04] [ForkJoinPool.commonPool-worker-104/INFO]: [STDOUT]: Saving region 0,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\72.12.254.108_25566\minecraft\overworld_384\cache
+[17:08:04] [pool-8-thread-44/INFO]: [STDOUT]: Saved region successfully
+[17:08:04] [ForkJoinPool.commonPool-worker-104/INFO]: [STDOUT]: Saved region successfully
+[17:08:04] [pool-8-thread-44/INFO]: [STDOUT]: World save took 148ms

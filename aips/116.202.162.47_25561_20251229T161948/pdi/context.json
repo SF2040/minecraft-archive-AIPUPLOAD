@@ -1,0 +1,11 @@
+{
+  "why_captured": "Meteor reported a possible player build",
+  "trigger_line": "[16:19:48] [Render thread/INFO]: [System] [CHAT] [Meteor] Toggled Freecam �aon.",
+  "coordinates": null,
+  "meteor_messages_during_visit": [
+    "[16:19:48] Toggled Freecam §aon.",
+    "[16:19:55] Toggled Freecam §coff."
+  ],
+  "country": "DE",
+  "minecraft_version_reported": "1.21.4"
+}

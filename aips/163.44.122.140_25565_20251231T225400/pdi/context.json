@@ -1,0 +1,10 @@
+{
+  "why_captured": "Meteor reported a possible player build",
+  "trigger_line": "[22:53:59] [Render thread/INFO]: [System] [CHAT] [Meteor] Toggled Flight �aon.",
+  "coordinates": null,
+  "meteor_messages_during_visit": [
+    "[22:53:59] Toggled Flight §aon."
+  ],
+  "country": "JP",
+  "minecraft_version_reported": "1.21.4"
+}

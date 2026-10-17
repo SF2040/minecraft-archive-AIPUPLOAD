@@ -1,0 +1,81 @@
+{
+  "schema": "autoarchiver-aip/1",
+  "aip_id": "162.55.235.169_25560_20251229T141223",
+  "created_utc": "2026-10-17T07:03:10.739405+00:00",
+  "qa_status": "complete",
+  "qa_checks": [
+    {
+      "check": "zip_integrity",
+      "ok": true,
+      "detail": "all members readable"
+    },
+    {
+      "check": "level_dat_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "region_data_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "under_github_file_limit",
+      "ok": true,
+      "detail": "3794429 bytes"
+    },
+    {
+      "check": "capture_metadata_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "worldtools_reported_saved",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no_storage_errors_in_log",
+      "ok": true,
+      "detail": "Image minecraft:entity/conduit/wind size 2,22 is not multiple of frame size 2,32; Image minecraft:entity/conduit/wind_vertical size 2,22 is not multiple of frame size 2,32"
+    }
+  ],
+  "representation_information": "../../docs/representation_information.md",
+  "files": [
+    {
+      "path": "content/162.55.235.169_25560.zip",
+      "size": 3794429,
+      "sha256": "550ce4507d519cd5735db97f4f3806dbaa7c4fa526b40031d99e05f3868d4564"
+    },
+    {
+      "path": "pdi/access_rights.json",
+      "size": 446,
+      "sha256": "d815a800cab9507a55a95061bb11714c27cdb947cd5a1a0e120729ed4927971c"
+    },
+    {
+      "path": "pdi/context.json",
+      "size": 464,
+      "sha256": "32e00ebcd8e8c55bb92adfccbcbf874974d150cbf0f2f511cfa4dd91a1b0f9d2"
+    },
+    {
+      "path": "pdi/fixity.json",
+      "size": 2624,
+      "sha256": "5f45be44ebd1a15a6a95b264e48f760f26a71772859f4057a565d307efb1e85d"
+    },
+    {
+      "path": "pdi/provenance.json",
+      "size": 2795,
+      "sha256": "3758cb547d0e480dce98e2d3edc04c5c949a03bcfd165683cf36d6f8dd04db4f"
+    },
+    {
+      "path": "pdi/reference.json",
+      "size": 306,
+      "sha256": "a908befe37c577f6cb2eb17065101f93f7d52e50ada86df53db3f4c0ad7333bd"
+    },
+    {
+      "path": "pdi/session_log_excerpt.txt",
+      "size": 14560,
+      "sha256": "b9fe77ad7e95d8e96859092eab7125fd812c4b43d319d3cbaceca2817104a625"
+    }
+  ]
+}

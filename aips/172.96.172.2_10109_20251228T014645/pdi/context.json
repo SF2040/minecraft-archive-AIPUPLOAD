@@ -1,0 +1,8 @@
+{
+  "why_captured": "Meteor reported a possible player build",
+  "trigger_line": "[01:47:22] [Render thread/INFO]: [CHAT] [Meteor] Illegal Villager located near X-374.30000001192093, Y52.0, Z173.69999998807907",
+  "coordinates": null,
+  "meteor_messages_during_visit": [],
+  "country": "US",
+  "minecraft_version_reported": "1.16.5"
+}

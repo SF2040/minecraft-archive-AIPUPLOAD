@@ -1,0 +1,57 @@
+{
+  "producer": "Auto-Archiver (Python/PyAutoGUI bot driving Minecraft)",
+  "tools": {
+    "minecraft": "1.21.4",
+    "fabric_loader": "0.18.4",
+    "mods": {
+      "baritone-meteor": "1.21.4-SNAPSHOT",
+      "cloth-config": "17.0.144",
+      "distanthorizons": "2.4.5-b",
+      "fabric-api": "0.119.4+1.21.4",
+      "fabric-language-kotlin": "1.13.7+kotlin.2.2.21",
+      "fabricloader": "0.18.4",
+      "immediatelyfast": "1.8.0+1.21.4",
+      "java": "21",
+      "lithium": "0.15.3+mc1.21.4",
+      "meteor-client": "1.21.4-42",
+      "minecraft": "1.21.4",
+      "sodium": "0.6.13+mc1.21.4",
+      "sodium-extra": "0.6.1+mc1.21.4",
+      "streak-addon": "1.4.5",
+      "viafabricplus": "4.0.4",
+      "worldtools": "1.2.8",
+      "session-id-login-mod": "1.2.0"
+    }
+  },
+  "discovery_and_visit": {
+    "processing_started": "2025-12-29 01:52:28",
+    "version": "1.21.4",
+    "country": "AU",
+    "connected": true,
+    "build_detected_line": "[01:52:46] [Netty Client IO #4/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X40, Y95, Z8 (Block{minecraft:iron_block})",
+    "coordinates": null,
+    "goto_command": null,
+    "download_triggered": true,
+    "python_log_download_timeout": true,
+    "disconnected_at": "2025-12-29 01:54:01"
+  },
+  "capture": null,
+  "custody": [
+    {
+      "event": "captured",
+      "by": "Auto-Archiver",
+      "when_local": "2025-12-29T01:52:28"
+    },
+    {
+      "event": "ingested_into_aip",
+      "by": "build_aip.py",
+      "when_utc": "2026-10-17T07:03:10.739405+00:00",
+      "source": "folder 144.6.87.175_25566"
+    }
+  ],
+  "notes": [
+    "archival_log entry matched on ip:port only (no Minecraft log timing)",
+    "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result",
+    "no WorldTools lines for this world in the supplied Minecraft logs"
+  ]
+}

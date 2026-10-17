@@ -1,0 +1,165 @@
+{
+  "algorithm": "sha256",
+  "content_file": "content/142.79.41.81_25565.zip",
+  "sha256": "396cc4a8abc8e67fe161e3bc19d89ff28bd6035a6aedfca71f9604c9a41a21ba",
+  "size_bytes": 6041305,
+  "file_count": 31,
+  "content_digest": "d524adbeb133baa13dc4986c1b3668be59a724e3852d1fd95c4a308932969113",
+  "inventory": [
+    {
+      "path": "DIM-1/data/raids.dat",
+      "size": 90,
+      "sha256": "fed23bab62769c9e4f291ff19d608103cedf50ea623795609e5c493f72345805"
+    },
+    {
+      "path": "DIM1/data/raids_end.dat",
+      "size": 90,
+      "sha256": "fed23bab62769c9e4f291ff19d608103cedf50ea623795609e5c493f72345805"
+    },
+    {
+      "path": "WorldTools/Capture Metadata.md",
+      "size": 361,
+      "sha256": "e0725fb4d5cc1abe64c26112bc0535c2f22761d2badd4a5398085e01fdb95365"
+    },
+    {
+      "path": "advancements/93d2d469-7e11-4249-9cae-fdbf48b6d703.json",
+      "size": 325,
+      "sha256": "af0a7929cc1ccc813358ee3eb335f87847f425f177b1294dc6cf57798b67e086"
+    },
+    {
+      "path": "baritone/minecraft/overworld_384/cache/r.3.3.bcr",
+      "size": 183373,
+      "sha256": "05ad10f4e433ec10e55841edb21c1a84d4fdf68943cd105034fd0406315b74ee"
+    },
+    {
+      "path": "baritone/minecraft/overworld_384/cache/r.4.3.bcr",
+      "size": 346901,
+      "sha256": "f0abcaa13febf4a360f859b1999cd120a7c25f697b52abac6cefa99b0e8299fb"
+    },
+    {
+      "path": "baritone/readme.txt",
+      "size": 38,
+      "sha256": "e8c6293d800809a9afcae2248b0921337d439f4a3c16f77dafba6d7fb524594d"
+    },
+    {
+      "path": "data/raids.dat",
+      "size": 90,
+      "sha256": "fed23bab62769c9e4f291ff19d608103cedf50ea623795609e5c493f72345805"
+    },
+    {
+      "path": "data/random_sequences.dat",
+      "size": 191,
+      "sha256": "f6865f5a4a5d164195884a02c0a86ef9fb80c687ba6f9d97544abed607ca416c"
+    },
+    {
+      "path": "data/scoreboard.dat",
+      "size": 86,
+      "sha256": "75e55e2261e5ddf47d5e73cef2c2715d605ec77aebce2c9adb664329e3bc8fa6"
+    },
+    {
+      "path": "entities/r.3.3.mca",
+      "size": 254668,
+      "sha256": "b4ebb2d324ff8d3e1dec746aeaf1f4ed726e49ec05decedaa5e5a07a283ecf85"
+    },
+    {
+      "path": "entities/r.4.3.mca",
+      "size": 393999,
+      "sha256": "632fd05666ea77121d92b96dd87e706706c1983d1233aa67d5535a366816e8f7"
+    },
+    {
+      "path": "icon.png",
+      "size": 11797,
+      "sha256": "b0d3819db28bb79d2086e43c7dc63d58436fb0520c357fd8faa98afc6dfcb69e"
+    },
+    {
+      "path": "level.dat",
+      "size": 2343,
+      "sha256": "56093d7fe782dc77245d65e40e693d543b0269b2c7922b9522030e204b0c3118"
+    },
+    {
+      "path": "level.dat_old",
+      "size": 2048,
+      "sha256": "df44630a3c5c4d65da8b229cbb674f57037da74be7d59d1fd96f01b1523d8d33"
+    },
+    {
+      "path": "playerdata/93d2d469-7e11-4249-9cae-fdbf48b6d703.dat",
+      "size": 889,
+      "sha256": "6b60539eb858b34d9eaaade622d2d41ac03918916155b864bf66a6f79114de53"
+    },
+    {
+      "path": "playerdata/93d2d469-7e11-4249-9cae-fdbf48b6d703.dat_old",
+      "size": 629,
+      "sha256": "bd838b55a0bb03085a319a0af003bde4fc3c32fe270647d5f7876b77663e0b4f"
+    },
+    {
+      "path": "poi/r.3.2.mca",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "poi/r.3.3.mca",
+      "size": 98439,
+      "sha256": "a29e375f6976185c6db38ed233dadf3ae4c0e95237a52b4dba108ed7a76e8034"
+    },
+    {
+      "path": "poi/r.3.4.mca",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "poi/r.4.2.mca",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "poi/r.4.3.mca",
+      "size": 65664,
+      "sha256": "c9aa0ac3eff6af6a73e9db43377bd8ed2c407276d5208766dae8ffdf2b91b6c2"
+    },
+    {
+      "path": "poi/r.4.4.mca",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "region/r.3.2.mca",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "region/r.3.3.mca",
+      "size": 2800107,
+      "sha256": "6b39be21b1ec9bbc7c9dfc23657cfa9502254cebce3379f4eb0db1a8d21d3fd8"
+    },
+    {
+      "path": "region/r.3.4.mca",
+      "size": 102767,
+      "sha256": "5b4b0697963d6d2c7b99bb41c2ad7f6169d765b4ec7850cfdc32cf3964f2b6e2"
+    },
+    {
+      "path": "region/r.4.2.mca",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "region/r.4.3.mca",
+      "size": 3977685,
+      "sha256": "5547bad75f2fe91e45f24ca97f0b6cb11fc60cb68eb30b01bfbd1abd1ee83e2f"
+    },
+    {
+      "path": "region/r.4.4.mca",
+      "size": 115056,
+      "sha256": "304ba8d4cb4b115755eccd4110e880b45142e8fcef400c226ee9bd4e7b3760a3"
+    },
+    {
+      "path": "session.lock",
+      "size": 3,
+      "sha256": "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+    },
+    {
+      "path": "stats/93d2d469-7e11-4249-9cae-fdbf48b6d703.json",
+      "size": 207,
+      "sha256": "ead08c790945f0b3fe560aa58877feebce1b68d74fcc4b1fa0e296c8792a39b7"
+    }
+  ]
+}

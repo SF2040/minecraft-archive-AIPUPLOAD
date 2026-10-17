@@ -1,0 +1,84 @@
+[18:30:35] [Render thread/INFO]: Connecting to 104.246.165.82, 25565
+[18:30:40] [Render thread/INFO]: [STDOUT]: World seems to be a replay. Not loading Baritone cache.
+[18:30:40] [Render thread/INFO]: Cleared hot cache
+[18:30:40] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X216, Y11, Z216 (Block{minecraft:soul_wall_torch})
+[18:30:40] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List4)Possible build located near X232, Y60, Z248 (Block{minecraft:oak_wall_sign})
+[18:30:40] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X200, Y11, Z248 (Block{minecraft:soul_torch})
+[18:30:41] [Render thread/INFO]: Loaded 2 advancements
+[18:30:41] [Render thread/INFO]: [STDOUT]: Retrying to load Baritone cache
+[18:30:41] [Render thread/INFO]: [STDOUT]: Baritone world data dir: C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\104.246.165.82_25565\minecraft\overworld_384
+[18:30:41] [Render thread/INFO]: [STDOUT]: Cached world directory: C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\104.246.165.82_25565\minecraft\overworld_384\cache
+[18:30:41] [Render thread/INFO]: [STDOUT]: Would save waypoints to C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\104.246.165.82_25565\minecraft\overworld_384\waypoints
+[18:30:41] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X248, Y58, Z232 (Block{minecraft:soul_wall_torch})
+[18:30:41] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X184, Y11, Z248 (Block{minecraft:soul_torch})
+[18:30:42] [Render thread/INFO]: [System] [CHAT] [Meteor] Illegal Boat located near X206.3125, Y62.523264638517375, Z214.31250000000006
+[18:30:42] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X222.03125, Y67.5, Z232.5
+[18:30:42] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X222.03125, Y67.5, Z234.5
+[18:30:42] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X220.96875, Y68.5, Z233.5
+[18:30:42] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X222.5, Y253.5, Z231.03125
+[18:30:42] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X219.03125, Y253.5, Z233.5
+[18:30:42] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X223.5, Y253.5, Z235.96875
+[18:30:42] [Render thread/INFO]: [System] [CHAT] [Meteor] Illegal amount of entities located near X216, Z232
+[18:30:42] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X226.03125, Y68.5, Z233.5
+[18:30:42] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X225.96875, Y253.5, Z233.5
+[18:30:42] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X216, Y11, Z184 (Block{minecraft:soul_wall_torch})
+[18:30:43] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X232, Y11, Z184 (Block{minecraft:soul_wall_torch})
+[18:30:44] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X248, Y11, Z184 (Block{minecraft:soul_wall_torch})
+[18:30:45] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X200, Y114, Z296 (Block{minecraft:oak_sign})
+[18:30:45] [Render thread/INFO]: [System] [CHAT] [Meteor] Illegal amount of entities located near X264, Z248
+[18:30:46] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X184, Y114, Z296 (Block{minecraft:oak_sign})
+[18:30:47] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X280, Y11, Z184 (Block{minecraft:soul_wall_torch})
+[18:30:48] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X200, Y114, Z312 (Block{minecraft:oak_sign})
+[18:30:49] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X184, Y114, Z312 (Block{minecraft:oak_sign})
+[18:30:49] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X152, Y65, Z296 (Block{minecraft:birch_door})
+[18:30:50] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X136, Y64, Z280 (Block{minecraft:birch_fence_gate})
+[18:30:50] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X296, Y11, Z184 (Block{minecraft:soul_wall_torch})
+[18:30:53] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X136, Y65, Z296 (Block{minecraft:soul_wall_torch})
+[18:30:53] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X312, Y11, Z184 (Block{minecraft:soul_wall_torch})
+[18:30:54] [Render thread/INFO]: [System] [CHAT] [Meteor] Illegal amount of entities located near X152, Z312
+[18:30:56] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X120, Y65, Z296 (Block{minecraft:soul_wall_torch})
+[18:30:57] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X104, Y72, Z280 (Block{minecraft:soul_torch})
+[18:30:58] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X328, Y11, Z184 (Block{minecraft:soul_wall_torch})
+[18:31:00] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X104, Y72, Z296 (Block{minecraft:cake})
+[18:31:05] [Render thread/INFO]: [CHAT] [Baritone] > goto 216 11 216
+[18:31:05] [Render thread/INFO]: [CHAT] [Baritone] Going to: GoalBlock{x=216,y=11,z=216}
+[18:31:05] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X92.03125, Y71.5, Z289.5
+[18:31:05] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X92.03125, Y70.5, Z290.5
+[18:31:05] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X92.03125, Y70.5, Z288.5
+[18:31:05] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X92.03125, Y71.5, Z291.5
+[18:31:06] [pool-8-thread-74/INFO]: [STDOUT]: 38016 movements considered
+[18:31:06] [pool-8-thread-74/INFO]: [STDOUT]: Open set size: 1258
+[18:31:06] [pool-8-thread-74/INFO]: [STDOUT]: PathNode map size: 2986
+[18:31:06] [pool-8-thread-74/INFO]: [STDOUT]: 3182 nodes per second
+[18:31:06] [pool-8-thread-74/INFO]: [STDOUT]: Path goes for 16.76305461424021 blocks
+[18:31:07] [Render thread/INFO]: Cleared hot cache
+[18:31:07] [Render thread/INFO]: [System] [CHAT] [WorldTools] Started capturing 104.246.165.82_25565...
+[18:31:07] [DefaultDispatcher-worker-3/INFO]: Started caching
+[18:31:07] [pool-8-thread-36/INFO]: [STDOUT]: World save took 0ms
+[18:31:07] [pool-8-thread-58/INFO]: [STDOUT]: World save took 0ms
+[18:31:08] [DefaultDispatcher-worker-1/INFO]: Saved 5 stats.
+[18:31:11] [pool-8-thread-73/INFO]: [STDOUT]: Saving region 0,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\104.246.165.82_25565\minecraft\overworld_384\cache
+[18:31:11] [pool-8-thread-73/INFO]: [STDOUT]: Saved region successfully
+[18:31:11] [pool-8-thread-73/INFO]: [STDOUT]: World save took 212ms
+[18:31:17] [pool-8-thread-28/INFO]: [STDOUT]: World save took 17ms
+[18:31:21] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] Possible modified spawner located near X88, Y17, Z88
+[18:31:22] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X56, Y46, Z120 (Block{minecraft:oak_sign})
+[18:31:25] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] Possible modified spawner located near X104, Y11, Z72
+[18:31:55] [pool-8-thread-25/INFO]: [STDOUT]: World save took 0ms
+[18:32:11] [Render thread/INFO]: Saving
+[18:32:11] [Render thread/INFO]: Saved in 48 milliseconds.
+[18:32:12] [DefaultDispatcher-worker-1/INFO]: Saved level data.
+[18:32:12] [DefaultDispatcher-worker-1/INFO]: Saved favicon.
+[18:32:12] [DefaultDispatcher-worker-1/INFO]: Saved capture metadata.
+[18:32:12] [DefaultDispatcher-worker-1/INFO]: Zipping C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\104.246.165.82_25565\. to C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\104.246.165.82_25565-1791023532703.zip
+[18:32:12] [DefaultDispatcher-worker-1/INFO]: Finished zipping C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\104.246.165.82_25565\. with size 4.6 MB to C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\104.246.165.82_25565-1791023532703.zip with size 3.1 MB
+[18:32:12] [DefaultDispatcher-worker-1/INFO]: Canceled caching flow
+[18:32:12] [Render thread/INFO]: [System] [CHAT] [WorldTools] Saved 543 chunks, 567 entities and 1 player in dimension overworld to saves directory 104.246.165.82_25565 (click to open)
+[18:32:12] [DefaultDispatcher-worker-1/INFO]: Cleared hot cache
+[18:32:12] [DefaultDispatcher-worker-1/INFO]: Finished caching
+[18:32:27] [pool-8-thread-15/INFO]: [STDOUT]: World save took 0ms
+[18:32:27] [pool-8-thread-15/INFO]: [STDOUT]: mc.world unloaded unnoticed! Unloading Baritone cache now.
+[18:32:27] [pool-8-thread-75/INFO]: [STDOUT]: Started saving the world in a new thread
+[18:32:27] [pool-8-thread-75/INFO]: [STDOUT]: Saving region 0,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\104.246.165.82_25565\minecraft\overworld_384\cache
+[18:32:27] [pool-8-thread-75/INFO]: [STDOUT]: Saved region successfully
+[18:32:27] [pool-8-thread-75/INFO]: [STDOUT]: World save took 218ms

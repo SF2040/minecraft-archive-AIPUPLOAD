@@ -1,0 +1,14 @@
+{
+  "why_captured": "Meteor reported a possible player build",
+  "trigger_line": "[18:27:40] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X120, Y-6, Z56 (Block{minecraft:oxidized_copper})",
+  "coordinates": {
+    "x": 120,
+    "y": -6,
+    "z": 56
+  },
+  "meteor_messages_during_visit": [
+    "[18:27:40] (List1)Possible build located near X120, Y-6, Z56 (Block{minecraft:oxidized_copper})"
+  ],
+  "country": "TW",
+  "minecraft_version_reported": "1.21.4"
+}

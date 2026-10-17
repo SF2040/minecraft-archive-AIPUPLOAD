@@ -1,0 +1,95 @@
+[16:11:50] [Render thread/INFO]: Connecting to 89.65.9.67, 25567
+[16:11:56] [Render thread/INFO]: [STDOUT]: World seems to be a replay. Not loading Baritone cache.
+[16:11:56] [Render thread/INFO]: Cleared hot cache
+[16:11:56] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X72, Y67, Z760 (Block{minecraft:pale_oak_fence})
+[16:11:57] [Render thread/INFO]: Loaded 2 advancements
+[16:11:57] [Render thread/INFO]: [STDOUT]: Retrying to load Baritone cache
+[16:11:57] [Render thread/INFO]: [STDOUT]: Baritone world data dir: C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\89.65.9.67_25567\minecraft\overworld_384
+[16:11:57] [Render thread/INFO]: [STDOUT]: Cached world directory: C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\89.65.9.67_25567\minecraft\overworld_384\cache
+[16:11:57] [Render thread/INFO]: [STDOUT]: Would save waypoints to C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\89.65.9.67_25567\minecraft\overworld_384\waypoints
+[16:11:57] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (Open Portal)Possible build located near X88, Y72, Z760
+[16:11:58] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X88, Y84, Z728 (Block{minecraft:pale_oak_planks})
+[16:11:59] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X104, Y85, Z744 (Block{minecraft:pale_oak_trapdoor})
+[16:12:00] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (Open Portal)Possible build located near X104, Y81, Z776
+[16:12:00] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X104, Y85, Z728 (Block{minecraft:pale_oak_planks})
+[16:12:01] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X88, Y93, Z712 (Block{minecraft:pale_oak_planks})
+[16:12:03] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X120, Y-10, Z776 (Block{minecraft:oxidized_copper})
+[16:12:04] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X88, Y95, Z696 (Block{minecraft:pale_oak_planks})
+[16:12:10] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X120, Y106, Z696 (Block{minecraft:pale_oak_trapdoor})
+[16:12:11] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X104, Y106, Z680 (Block{minecraft:pale_oak_trapdoor})
+[16:12:14] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X136, Y106, Z696 (Block{minecraft:pale_oak_trapdoor})
+[16:12:15] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X120, Y111, Z680 (Block{minecraft:observer})
+[16:12:16] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X104, Y106, Z664 (Block{minecraft:pale_oak_trapdoor})
+[16:12:17] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X136, Y111, Z680 (Block{minecraft:pale_oak_trapdoor})
+[16:12:20] [Render thread/INFO]: [CHAT] [Baritone] > GOTO 72 67 760
+[16:12:20] [Render thread/INFO]: [CHAT] [Baritone] Going to: GoalBlock{x=72,y=67,z=760}
+[16:12:20] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X120, Y111, Z664 (Block{minecraft:green_stained_glass})
+[16:12:20] [pool-8-thread-16/INFO]: [STDOUT]: 551936 movements considered
+[16:12:20] [pool-8-thread-16/INFO]: [STDOUT]: Open set size: 11034
+[16:12:20] [pool-8-thread-16/INFO]: [STDOUT]: PathNode map size: 36119
+[16:12:20] [pool-8-thread-16/INFO]: [STDOUT]: 49679 nodes per second
+[16:12:20] [pool-8-thread-16/INFO]: [STDOUT]: Path goes for 21.236760581595302 blocks
+[16:12:21] [Render thread/INFO]: Cleared hot cache
+[16:12:21] [Render thread/INFO]: [System] [CHAT] [WorldTools] Started capturing 89.65.9.67_25567...
+[16:12:21] [DefaultDispatcher-worker-2/INFO]: Started caching
+[16:12:24] [pool-8-thread-16/INFO]: [STDOUT]: 3803650 movements considered
+[16:12:24] [pool-8-thread-16/INFO]: [STDOUT]: Open set size: 52746
+[16:12:24] [pool-8-thread-16/INFO]: [STDOUT]: PathNode map size: 225642
+[16:12:24] [pool-8-thread-16/INFO]: [STDOUT]: 45608 nodes per second
+[16:12:24] [DefaultDispatcher-worker-1/INFO]: Saved 5 stats.
+[16:12:27] [ForkJoinPool.commonPool-worker-19/INFO]: [STDOUT]: Saving region 0,1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\89.65.9.67_25567\minecraft\overworld_384\cache
+[16:12:27] [pool-8-thread-15/INFO]: [STDOUT]: Saving region -1,1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\89.65.9.67_25567\minecraft\overworld_384\cache
+[16:12:27] [pool-8-thread-15/INFO]: [STDOUT]: Saved region successfully
+[16:12:27] [ForkJoinPool.commonPool-worker-19/INFO]: [STDOUT]: Saved region successfully
+[16:12:27] [pool-8-thread-15/INFO]: [STDOUT]: World save took 169ms
+[16:12:27] [pool-8-thread-16/INFO]: [STDOUT]: 3803566 movements considered
+[16:12:27] [pool-8-thread-16/INFO]: [STDOUT]: Open set size: 52758
+[16:12:27] [pool-8-thread-16/INFO]: [STDOUT]: PathNode map size: 225650
+[16:12:28] [pool-8-thread-16/INFO]: [STDOUT]: 50762 nodes per second
+[16:12:29] [pool-8-thread-16/INFO]: [STDOUT]: 3802642 movements considered
+[16:12:29] [pool-8-thread-16/INFO]: [STDOUT]: Open set size: 52762
+[16:12:29] [pool-8-thread-16/INFO]: [STDOUT]: PathNode map size: 225612
+[16:12:29] [pool-8-thread-16/INFO]: [STDOUT]: 102523 nodes per second
+[16:12:30] [Render thread/INFO]: Loaded 12 advancements
+[16:12:31] [pool-8-thread-16/INFO]: [STDOUT]: 3801961 movements considered
+[16:12:31] [pool-8-thread-16/INFO]: [STDOUT]: Open set size: 52757
+[16:12:31] [pool-8-thread-16/INFO]: [STDOUT]: PathNode map size: 225576
+[16:12:31] [pool-8-thread-16/INFO]: [STDOUT]: 98028 nodes per second
+[16:12:33] [pool-8-thread-16/INFO]: [STDOUT]: 3801873 movements considered
+[16:12:33] [pool-8-thread-16/INFO]: [STDOUT]: Open set size: 52756
+[16:12:33] [pool-8-thread-16/INFO]: [STDOUT]: PathNode map size: 225571
+[16:12:33] [pool-8-thread-16/INFO]: [STDOUT]: 106481 nodes per second
+[16:12:44] [Netty Client IO #1/ERROR]: Negative index in crash report handler (13/21)
+[16:12:44] [Netty Client IO #1/ERROR]: An exception occurred while handling a packet
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(Object, ChannelPromise)(Unknown Source) ~[netty-transport-4.1.115.Final.jar:?]
+[16:12:44] [Netty Client IO #1/ERROR]: An exception occurred while handling a packet
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(Object, ChannelPromise)(Unknown Source) ~[netty-transport-4.1.115.Final.jar:?]
+[16:12:44] [Netty Client IO #1/ERROR]: An exception occurred while handling a packet
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(Object, ChannelPromise)(Unknown Source) ~[netty-transport-4.1.115.Final.jar:?]
+[16:12:44] [Netty Client IO #1/ERROR]: An exception occurred while handling a packet
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(Object, ChannelPromise)(Unknown Source) ~[netty-transport-4.1.115.Final.jar:?]
+[16:12:44] [Render thread/INFO]: [System] [CHAT] [WorldTools] Stopping capture 89.65.9.67_25567...
+[16:12:44] [Render thread/INFO]: Saving
+[16:12:44] [Render thread/INFO]: Saved in 41 milliseconds.
+[16:12:44] [Render thread/WARN]: Client disconnected with reason: Internal Exception: java.net.SocketException: Connection reset
+[16:12:44] [DefaultDispatcher-worker-1/INFO]: Saved level data.
+[16:12:44] [DefaultDispatcher-worker-1/INFO]: Saved favicon.
+[16:12:44] [DefaultDispatcher-worker-1/INFO]: Saved capture metadata.
+[16:12:44] [DefaultDispatcher-worker-1/INFO]: Zipping C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\89.65.9.67_25567\. to C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\89.65.9.67_25567-1791015164880.zip
+[16:12:45] [DefaultDispatcher-worker-1/INFO]: Finished zipping C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\89.65.9.67_25567\. with size 2.3 MB to C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\89.65.9.67_25567-1791015164880.zip with size 1.6 MB
+[16:12:45] [DefaultDispatcher-worker-1/INFO]: Canceled caching flow
+[16:12:45] [Render thread/INFO]: [System] [CHAT] [WorldTools] Saved 230 chunks, 693 entities and 1 player in dimension overworld to saves directory 89.65.9.67_25567 (click to open)
+[16:12:45] [DefaultDispatcher-worker-1/INFO]: Cleared hot cache
+[16:12:45] [DefaultDispatcher-worker-1/INFO]: Finished caching
+[16:14:18] [pool-8-thread-7/INFO]: [STDOUT]: World save took 0ms
+[16:14:18] [pool-8-thread-7/INFO]: [STDOUT]: mc.world unloaded unnoticed! Unloading Baritone cache now.
+[16:14:18] [pool-8-thread-17/INFO]: [STDOUT]: Started saving the world in a new thread
+[16:14:18] [pool-8-thread-17/INFO]: [STDOUT]: Saving region -1,1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\89.65.9.67_25567\minecraft\overworld_384\cache
+[16:14:18] [ForkJoinPool.commonPool-worker-25/INFO]: [STDOUT]: Saving region 0,1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\89.65.9.67_25567\minecraft\overworld_384\cache
+[16:14:18] [pool-8-thread-17/INFO]: [STDOUT]: Saved region successfully
+[16:14:18] [ForkJoinPool.commonPool-worker-25/INFO]: [STDOUT]: Saved region successfully
+[16:14:18] [pool-8-thread-17/INFO]: [STDOUT]: World save took 89ms

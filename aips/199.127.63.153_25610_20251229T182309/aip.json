@@ -1,0 +1,81 @@
+{
+  "schema": "autoarchiver-aip/1",
+  "aip_id": "199.127.63.153_25610_20251229T182309",
+  "created_utc": "2026-10-17T07:03:10.739405+00:00",
+  "qa_status": "complete",
+  "qa_checks": [
+    {
+      "check": "zip_integrity",
+      "ok": true,
+      "detail": "all members readable"
+    },
+    {
+      "check": "level_dat_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "region_data_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "under_github_file_limit",
+      "ok": true,
+      "detail": "2260913 bytes"
+    },
+    {
+      "check": "capture_metadata_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "worldtools_reported_saved",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no_storage_errors_in_log",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "representation_information": "../../docs/representation_information.md",
+  "files": [
+    {
+      "path": "content/199.127.63.153_25610.zip",
+      "size": 2260913,
+      "sha256": "43ba777a21f101b30d30e01195c3a95c743f2856ed81f9cb5e18736a1c981780"
+    },
+    {
+      "path": "pdi/access_rights.json",
+      "size": 446,
+      "sha256": "d815a800cab9507a55a95061bb11714c27cdb947cd5a1a0e120729ed4927971c"
+    },
+    {
+      "path": "pdi/context.json",
+      "size": 3938,
+      "sha256": "ac038f3acc149bcc50263c36a3356bb36b26598395acd07cc5e0b8dabcc7c557"
+    },
+    {
+      "path": "pdi/fixity.json",
+      "size": 2434,
+      "sha256": "b5499a7f9f86225bec46a63fd9fcac315c278b91e493059987acbaf1e2c9aebc"
+    },
+    {
+      "path": "pdi/provenance.json",
+      "size": 2364,
+      "sha256": "ffba0bae2b1032f8923a53903a0b558251191abd8b6379693908d397925ab5c7"
+    },
+    {
+      "path": "pdi/reference.json",
+      "size": 306,
+      "sha256": "8dae533cd60d6155772f5a4413de1ef1f2797c7a46b6f050e93ab92f3bdd615b"
+    },
+    {
+      "path": "pdi/session_log_excerpt.txt",
+      "size": 18574,
+      "sha256": "381612f78f8210a111a5b5a50871b4103be39c26c9a1fe2d54bde27e7cbf5ebe"
+    }
+  ]
+}

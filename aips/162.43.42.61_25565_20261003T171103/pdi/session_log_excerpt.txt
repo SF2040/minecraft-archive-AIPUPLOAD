@@ -1,0 +1,73 @@
+[17:10:33] [Render thread/INFO]: Connecting to 162.43.42.61, 25565
+[17:10:37] [Render thread/INFO]: [STDOUT]: World seems to be a replay. Not loading Baritone cache.
+[17:10:37] [Render thread/INFO]: Cleared hot cache
+[17:10:37] [Render thread/INFO]: [STDOUT]: Retrying to load Baritone cache
+[17:10:37] [Render thread/INFO]: [STDOUT]: Baritone world data dir: C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.43.42.61_25565\minecraft\overworld_384
+[17:10:37] [Render thread/INFO]: [STDOUT]: Cached world directory: C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.43.42.61_25565\minecraft\overworld_384\cache
+[17:10:37] [Render thread/INFO]: [STDOUT]: Would save waypoints to C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.43.42.61_25565\minecraft\overworld_384\waypoints
+[17:10:38] [Render thread/INFO]: Loaded 3 advancements
+[17:10:46] [Netty Client IO #0/INFO]: [System] [CHAT] [Meteor] (Open Portal)Possible build located near X88, Y64, Z8
+[17:11:02] [Render thread/INFO]: [CHAT] [Baritone] > goto 88 64 8
+[17:11:02] [Render thread/INFO]: [CHAT] [Baritone] Going to: GoalBlock{x=88,y=64,z=8}
+[17:11:03] [Render thread/INFO]: Cleared hot cache
+[17:11:03] [Render thread/INFO]: [System] [CHAT] [WorldTools] Started capturing 162.43.42.61_25565...
+[17:11:03] [DefaultDispatcher-worker-4/INFO]: Started caching
+[17:11:04] [DefaultDispatcher-worker-4/INFO]: Saved 6 stats.
+[17:11:07] [pool-8-thread-36/INFO]: [STDOUT]: World save took 0ms
+[17:11:07] [ForkJoinPool.commonPool-worker-41/INFO]: [STDOUT]: Saving region 0,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.43.42.61_25565\minecraft\overworld_384\cache
+[17:11:07] [ForkJoinPool.commonPool-worker-37/INFO]: [STDOUT]: Saving region -1,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.43.42.61_25565\minecraft\overworld_384\cache
+[17:11:07] [ForkJoinPool.commonPool-worker-40/INFO]: [STDOUT]: Saving region 0,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.43.42.61_25565\minecraft\overworld_384\cache
+[17:11:07] [pool-8-thread-58/INFO]: [STDOUT]: Saving region -1,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.43.42.61_25565\minecraft\overworld_384\cache
+[17:11:07] [ForkJoinPool.commonPool-worker-40/INFO]: [STDOUT]: Saved region successfully
+[17:11:07] [ForkJoinPool.commonPool-worker-37/INFO]: [STDOUT]: Saved region successfully
+[17:11:07] [ForkJoinPool.commonPool-worker-41/INFO]: [STDOUT]: Saved region successfully
+[17:11:07] [pool-8-thread-58/INFO]: [STDOUT]: Saved region successfully
+[17:11:07] [pool-8-thread-58/INFO]: [STDOUT]: World save took 56ms
+[17:11:17] [pool-8-thread-28/INFO]: [STDOUT]: World save took 0ms
+[17:11:55] [pool-8-thread-25/INFO]: [STDOUT]: World save took 1ms
+[17:12:09] [DefaultDispatcher-worker-4/INFO]: Saved level data.
+[17:12:09] [DefaultDispatcher-worker-4/INFO]: Saved 2 advancements.
+[17:12:09] [DefaultDispatcher-worker-4/INFO]: Saved favicon.
+[17:12:09] [DefaultDispatcher-worker-4/INFO]: Saved 1 player entry list entries.
+[17:12:09] [DefaultDispatcher-worker-4/INFO]: Saved 3 dimensions in tree.
+[17:12:09] [DefaultDispatcher-worker-4/ERROR]: Unhandled storage flow error
+java.lang.NullPointerException: Cannot invoke "net.minecraft.class_2561.getString()" because "info.field_3753" is null
+	at knot/org.waste.of.time.storage.serializable.MetadataStoreable.createMetadata(MetadataStoreable.java:116) ~[WorldTools-fabric-1.2.8+1.21.4.jar:?]
+	at knot/org.waste.of.time.storage.serializable.MetadataStoreable.writeMetadata(MetadataStoreable.java:53) ~[WorldTools-fabric-1.2.8+1.21.4.jar:?]
+	at knot/org.waste.of.time.storage.serializable.MetadataStoreable.store(MetadataStoreable.java:46) ~[WorldTools-fabric-1.2.8+1.21.4.jar:?]
+	at knot/org.waste.of.time.storage.StorageFlow$launch$1$1$1.emit(StorageFlow.java:52) ~[WorldTools-fabric-1.2.8+1.21.4.jar:?]
+	at knot/org.waste.of.time.storage.StorageFlow$launch$1$1$1.emit(StorageFlow.java:44) ~[WorldTools-fabric-1.2.8+1.21.4.jar:?]
+	at knot/kotlinx.coroutines.flow.SharedFlowImpl.collect$suspendImpl(SharedFlow.kt:397) ~[org_jetbrains_kotlinx_kotlinx-co-jvm-1.10.2-dc3d13b93361afd1.jar:?]
+	at knot/kotlinx.coroutines.flow.SharedFlowImpl$collect$1.invokeSuspend(SharedFlow.kt) ~[org_jetbrains_kotlinx_kotlinx-co-jvm-1.10.2-dc3d13b93361afd1.jar:?]
+	... (8 more lines)
+[17:12:09] [DefaultDispatcher-worker-4/INFO]: Cleared hot cache
+[17:12:09] [DefaultDispatcher-worker-4/INFO]: Finished caching
+[17:12:09] [Render thread/INFO]: Saving
+[17:12:09] [Render thread/INFO]: Saved in 42 milliseconds.
+[17:12:27] [pool-8-thread-15/INFO]: [STDOUT]: World save took 0ms
+[17:12:27] [pool-8-thread-15/INFO]: [STDOUT]: mc.world unloaded unnoticed! Unloading Baritone cache now.
+[17:12:27] [pool-8-thread-60/INFO]: [STDOUT]: Started saving the world in a new thread
+[17:12:27] [ForkJoinPool.commonPool-worker-40/INFO]: [STDOUT]: Saving region 0,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.43.42.61_25565\minecraft\overworld_384\cache
+[17:12:27] [pool-8-thread-60/INFO]: [STDOUT]: Saving region -1,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.43.42.61_25565\minecraft\overworld_384\cache
+[17:12:27] [ForkJoinPool.commonPool-worker-37/INFO]: [STDOUT]: Saving region 0,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.43.42.61_25565\minecraft\overworld_384\cache
+[17:12:27] [ForkJoinPool.commonPool-worker-41/INFO]: [STDOUT]: Saving region -1,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.43.42.61_25565\minecraft\overworld_384\cache
+[17:12:27] [ForkJoinPool.commonPool-worker-41/INFO]: [STDOUT]: Saved region successfully
+[17:12:27] [pool-8-thread-60/INFO]: [STDOUT]: Saved region successfully
+[17:12:27] [ForkJoinPool.commonPool-worker-40/INFO]: [STDOUT]: Saved region successfully
+[17:12:27] [ForkJoinPool.commonPool-worker-37/INFO]: [STDOUT]: Saved region successfully
+[17:12:27] [pool-8-thread-60/INFO]: [STDOUT]: World save took 126ms
+[17:13:10] [pool-8-thread-39/INFO]: [STDOUT]: World save took 1ms
+[17:13:20] [pool-8-thread-54/INFO]: [STDOUT]: World save took 0ms
+[17:13:37] [pool-8-thread-48/INFO]: [STDOUT]: World save took 0ms
+[17:14:18] [pool-8-thread-7/INFO]: [STDOUT]: World save took 0ms
+[17:15:06] [pool-8-thread-41/INFO]: [STDOUT]: World save took 0ms
+[17:15:58] [pool-8-thread-19/INFO]: [STDOUT]: World save took 0ms
+[17:16:35] [pool-8-thread-12/INFO]: [STDOUT]: World save took 0ms
+[17:17:09] [pool-8-thread-32/INFO]: [STDOUT]: World save took 0ms
+[17:17:11] [pool-8-thread-2/INFO]: [STDOUT]: World save took 0ms
+[17:17:16] [pool-8-thread-43/INFO]: [STDOUT]: World save took 1ms
+[17:17:31] [pool-8-thread-51/INFO]: [STDOUT]: World save took 0ms
+[17:18:34] [pool-8-thread-9/INFO]: [STDOUT]: World save took 0ms
+[17:19:13] [pool-8-thread-45/INFO]: [STDOUT]: World save took 0ms
+[17:19:48] [pool-8-thread-22/INFO]: [STDOUT]: World save took 0ms
+[17:20:26] [pool-8-thread-3/INFO]: [STDOUT]: World save took 0ms

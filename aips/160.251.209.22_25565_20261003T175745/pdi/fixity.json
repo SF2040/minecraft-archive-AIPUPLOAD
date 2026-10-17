@@ -1,0 +1,220 @@
+{
+  "algorithm": "sha256",
+  "content_file": "content/160.251.209.22_25565.zip",
+  "sha256": "ebe601be49ba03e1c651799b766c912ed79f2bc1433d397322683e79980a4011",
+  "size_bytes": 6214354,
+  "file_count": 42,
+  "content_digest": "d317b0a7fac045bdc11db172e10cd432cdf5239681f34c3d99731f433f332aa0",
+  "inventory": [
+    {
+      "path": "DIM-1/data/raids.dat",
+      "size": 90,
+      "sha256": "efbf234bb47f475673c70e817dd262a541bbdf8e55c822c9fbf6956c77e04c72"
+    },
+    {
+      "path": "DIM1/data/raids_end.dat",
+      "size": 90,
+      "sha256": "efbf234bb47f475673c70e817dd262a541bbdf8e55c822c9fbf6956c77e04c72"
+    },
+    {
+      "path": "WorldTools/Capture Metadata.md",
+      "size": 363,
+      "sha256": "f58b0c95d821f57d73d12d65d51c3f6a82b52209710e035883c4ca75f7b49e70"
+    },
+    {
+      "path": "advancements/93d2d469-7e11-4249-9cae-fdbf48b6d703.json",
+      "size": 434,
+      "sha256": "754759ceda91dc392b154919e99cbf4a17c8c9d7c809d525bac2e00924132836"
+    },
+    {
+      "path": "baritone/minecraft/overworld_384/cache/r.-1.-1.bcr",
+      "size": 74175,
+      "sha256": "9f3ba9c09709fed47d1721c97ca6d27ad62496bef82b17078dc77e2388ff9ff0"
+    },
+    {
+      "path": "baritone/minecraft/overworld_384/cache/r.-1.0.bcr",
+      "size": 54775,
+      "sha256": "e5e79ad1b12ef86d82a76fb079220fcc11f221ebeb67e5f2a1d09065d5297bea"
+    },
+    {
+      "path": "baritone/minecraft/overworld_384/cache/r.0.-1.bcr",
+      "size": 251715,
+      "sha256": "dae395dc2b032d47dcbfa9741a9ee2e73a137d458b8765f97a5c818dc1b275a2"
+    },
+    {
+      "path": "baritone/minecraft/overworld_384/cache/r.0.0.bcr",
+      "size": 75099,
+      "sha256": "126e03754869e61de954b4dd084daa75028eba9d346a31b4ef610c452e4d7fbf"
+    },
+    {
+      "path": "baritone/minecraft/overworld_384/waypoints/death.mp4",
+      "size": 43,
+      "sha256": "6c27624a2aa953f04aa2c88a37db4bbf6da04f4e18122213cf5b4c1726a62ea9"
+    },
+    {
+      "path": "baritone/readme.txt",
+      "size": 38,
+      "sha256": "e8c6293d800809a9afcae2248b0921337d439f4a3c16f77dafba6d7fb524594d"
+    },
+    {
+      "path": "data/raids.dat",
+      "size": 90,
+      "sha256": "efbf234bb47f475673c70e817dd262a541bbdf8e55c822c9fbf6956c77e04c72"
+    },
+    {
+      "path": "data/random_sequences.dat",
+      "size": 101,
+      "sha256": "58768a0de7a7bc656476251c7f737ede081ac9a44e307ac9eea45f4b97b3a442"
+    },
+    {
+      "path": "data/scoreboard.dat",
+      "size": 86,
+      "sha256": "75e55e2261e5ddf47d5e73cef2c2715d605ec77aebce2c9adb664329e3bc8fa6"
+    },
+    {
+      "path": "entities/r.-1.-1.mca",
+      "size": 118784,
+      "sha256": "c19492154eb708ab02e51e88e9eb3e73278e1571b82d7a6c4a54a0d45e89e652"
+    },
+    {
+      "path": "entities/r.-1.0.mca",
+      "size": 81920,
+      "sha256": "775753a44d1f9f908f801959dc50b7d7c367d922d1c5693e53c4c5e02a60c9c4"
+    },
+    {
+      "path": "entities/r.0.-1.mca",
+      "size": 368640,
+      "sha256": "b9af6f8d666fb7d5b4e4698be4f2c551ae0c7a6a94c4eafa35b4f60a12b0a348"
+    },
+    {
+      "path": "entities/r.0.0.mca",
+      "size": 135168,
+      "sha256": "ab2a5135b0aeb6f505bfac9dfb9eb08ce3fc315101a9c49b650499de9c571a96"
+    },
+    {
+      "path": "icon.png",
+      "size": 8535,
+      "sha256": "d278ac9a6096c79e585af1855482ed602a028c80cde08f55dd110ea0371ae5e0"
+    },
+    {
+      "path": "level.dat",
+      "size": 2387,
+      "sha256": "dde577a1b12d391254504e2620cb408537053205a9b644052a90fcff2fc38dfd"
+    },
+    {
+      "path": "level.dat_old",
+      "size": 2387,
+      "sha256": "8ecf8bb604d83a7a447f5f8abee41b80e5aa84ebf2443a67cc96fe1dab418508"
+    },
+    {
+      "path": "playerdata/93d2d469-7e11-4249-9cae-fdbf48b6d703.dat",
+      "size": 932,
+      "sha256": "4228e5f0b57a50d124610b6f129999eeab61b35fe6e8fbcb64cb76bde08c0d34"
+    },
+    {
+      "path": "playerdata/93d2d469-7e11-4249-9cae-fdbf48b6d703.dat_old",
+      "size": 933,
+      "sha256": "d3c6baf19536e634a4d0d989ee32ac79ff37342e34b45e135024001412b43f9f"
+    },
+    {
+      "path": "poi/r.-1.-1.mca",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "poi/r.-1.-2.mca",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "poi/r.-1.0.mca",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "poi/r.0.-1.mca",
+      "size": 16384,
+      "sha256": "cdf669f828bcb6d4f7c1aceade6e68e09a0e8dc5f01953684cb58d7e98249dc4"
+    },
+    {
+      "path": "poi/r.0.-2.mca",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "poi/r.0.0.mca",
+      "size": 45056,
+      "sha256": "b5d27b1c8df0dd3d32e15617c49a15f44783d4f38f75fcc67b5b8bfd59a24ef2"
+    },
+    {
+      "path": "poi/r.1.-1.mca",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "poi/r.1.-2.mca",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "poi/r.1.0.mca",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "region/r.-1.-1.mca",
+      "size": 3936256,
+      "sha256": "c8acf9a5881e783228946fdff058ca6aae645b476a2c958d4d8d5e23fe657dcc"
+    },
+    {
+      "path": "region/r.-1.-2.mca",
+      "size": 159744,
+      "sha256": "890594bcbf876ab0f29fa75b9487ed16d8a1934318be3a9a2fcada6a54b00618"
+    },
+    {
+      "path": "region/r.-1.0.mca",
+      "size": 3133440,
+      "sha256": "766dca78fc08f1379dd9e94ef1c1c64d5a23424ac7a64e4ea7719d118c59421a"
+    },
+    {
+      "path": "region/r.0.-1.mca",
+      "size": 5554176,
+      "sha256": "c2cbc976798f691328465f8a3d63a0463a16264b56a024d275a17276dbb28c84"
+    },
+    {
+      "path": "region/r.0.-2.mca",
+      "size": 274432,
+      "sha256": "016012a33a26139f58a6b8ce21849014d42dde6e320b243265f47269c8b26953"
+    },
+    {
+      "path": "region/r.0.0.mca",
+      "size": 3850240,
+      "sha256": "d806ec1376a56e3f818dac9cc3d072091de72510884ff64f4a12b84d7df173a4"
+    },
+    {
+      "path": "region/r.1.-1.mca",
+      "size": 663552,
+      "sha256": "c038b67981ca11e811670e5a25a24b1c2872653e4813ff6c87fdef31aafa769e"
+    },
+    {
+      "path": "region/r.1.-2.mca",
+      "size": 49152,
+      "sha256": "b1cc5ce95b7ac4a47cb8d555157f0a7dba9a2f0b2f53e64d24634961c2322be0"
+    },
+    {
+      "path": "region/r.1.0.mca",
+      "size": 507904,
+      "sha256": "db500516b38eccebd5823683a8588add371a83184ab627f3d75322faf22c7a69"
+    },
+    {
+      "path": "session.lock",
+      "size": 3,
+      "sha256": "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+    },
+    {
+      "path": "stats/93d2d469-7e11-4249-9cae-fdbf48b6d703.json",
+      "size": 359,
+      "sha256": "e47631201eac62e768a72c7d753a118462c27ecae97004460aa9afb07720b5a6"
+    }
+  ]
+}

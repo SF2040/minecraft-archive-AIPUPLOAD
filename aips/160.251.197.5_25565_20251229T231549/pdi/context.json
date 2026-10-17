@@ -1,0 +1,14 @@
+{
+  "why_captured": "Meteor reported a possible player build",
+  "trigger_line": "[23:15:44] [Netty Client IO #0/INFO]: [System] [CHAT] [Meteor] (Open Portal)Possible build located near X-200, Y64, Z-200",
+  "coordinates": {
+    "x": -200,
+    "y": 64,
+    "z": -200
+  },
+  "meteor_messages_during_visit": [
+    "[23:15:44] (Open Portal)Possible build located near X-200, Y64, Z-200"
+  ],
+  "country": "JP",
+  "minecraft_version_reported": "1.21.4"
+}

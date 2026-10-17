@@ -1,0 +1,29 @@
+{
+  "why_captured": "Meteor reported a possible player build",
+  "trigger_line": "[15:17:34] [Netty Client IO #0/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-72, Y25, Z56 (Block{minecraft:birch_door})",
+  "coordinates": {
+    "x": -72,
+    "y": 25,
+    "z": 56
+  },
+  "meteor_messages_during_visit": [
+    "[15:17:34] (List1)Possible build located near X-72, Y25, Z56 (Block{minecraft:birch_door})",
+    "[15:17:35] (List1)Possible build located near X-88, Y64, Z-8 (Block{minecraft:oak_sign})",
+    "[15:17:36] Illegal amount of entities located near X-24, Z-8",
+    "[15:17:36] Illegal Boat located near X-17.75, Y62.52326431274413, Z22.75",
+    "[15:17:36] Illegal amount of entities located near X-8, Z-8",
+    "[15:17:38] (List1)Possible build located near X-104, Y25, Z40 (Block{minecraft:birch_door})",
+    "[15:17:41] (List1)Possible build located near X-88, Y61, Z-40 (Block{minecraft:birch_door})",
+    "[15:17:48] (List1)Possible build located near X-152, Y14, Z24 (Block{minecraft:birch_door})",
+    "[15:17:54] (List1)Possible build located near X-56, Y53, Z-104 (Block{minecraft:birch_door})",
+    "[15:17:55] (List1)Possible build located near X-72, Y53, Z-104 (Block{minecraft:birch_door})",
+    "[15:17:56] (List1)Possible build located near X-88, Y53, Z-104 (Block{minecraft:birch_door})",
+    "[15:17:59] (List1)Possible build located near X-24, Y48, Z-120 (Block{minecraft:birch_door})",
+    "[15:18:06] (List1)Possible build located near X-72, Y36, Z-120 (Block{minecraft:birch_door})",
+    "[15:18:21] (List1)Possible build located near X-200, Y83, Z-104 (Block{minecraft:birch_door})",
+    "[15:18:51] Illegal Boat located near X-237.25, Y62.52326431274413, Z49.25",
+    "[15:18:54] (List1)Possible build located near X-232, Y79, Z-88 (Block{minecraft:birch_door})"
+  ],
+  "country": "DE",
+  "minecraft_version_reported": "1.21.4"
+}

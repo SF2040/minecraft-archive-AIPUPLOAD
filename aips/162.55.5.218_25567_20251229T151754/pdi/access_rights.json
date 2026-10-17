@@ -1,0 +1,7 @@
+{
+  "repository_visibility": "private while the prototype is tested",
+  "source": "public Minecraft server joined as an ordinary client; no permission requested from owner or players",
+  "licence": "none granted; rights stay with the server owners and players",
+  "redistribution": "not cleared - do not make this repository public before review",
+  "personal_data": "world may contain player UUIDs and statistics (playerdata/, stats/)"
+}

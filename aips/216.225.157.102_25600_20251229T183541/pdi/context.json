@@ -1,0 +1,15 @@
+{
+  "why_captured": "Meteor reported a possible player build",
+  "trigger_line": "[18:35:37] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (List5)Possible build located near X360, Y64, Z1192 (Block{minecraft:pink_bed})",
+  "coordinates": {
+    "x": 360,
+    "y": 64,
+    "z": 1192
+  },
+  "meteor_messages_during_visit": [
+    "[18:35:37] (List5)Possible build located near X360, Y64, Z1192 (Block{minecraft:pink_bed})",
+    "[18:35:48] Illegal Villager located near X375.5, Y67.6875, Z1221.5"
+  ],
+  "country": "US",
+  "minecraft_version_reported": "1.21.4"
+}

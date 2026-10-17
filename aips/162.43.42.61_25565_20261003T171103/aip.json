@@ -1,0 +1,81 @@
+{
+  "schema": "autoarchiver-aip/1",
+  "aip_id": "162.43.42.61_25565_20261003T171103",
+  "created_utc": "2026-10-17T07:03:10.739405+00:00",
+  "qa_status": "incomplete",
+  "qa_checks": [
+    {
+      "check": "zip_integrity",
+      "ok": true,
+      "detail": "all members readable"
+    },
+    {
+      "check": "level_dat_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "region_data_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "under_github_file_limit",
+      "ok": true,
+      "detail": "4247941 bytes"
+    },
+    {
+      "check": "capture_metadata_present",
+      "ok": false,
+      "detail": ""
+    },
+    {
+      "check": "worldtools_reported_saved",
+      "ok": false,
+      "detail": ""
+    },
+    {
+      "check": "no_storage_errors_in_log",
+      "ok": false,
+      "detail": "Unhandled storage flow error | java.lang.NullPointerException: Cannot invoke \"net.minecraft.class_2561.getString()\" because \"info.field_3753\" is null"
+    }
+  ],
+  "representation_information": "../../docs/representation_information.md",
+  "files": [
+    {
+      "path": "content/162.43.42.61_25565.zip",
+      "size": 4247941,
+      "sha256": "fada405ce615eae533f2012cf24f9f17716356ded846c3bfe7ba1f70b3ad7104"
+    },
+    {
+      "path": "pdi/access_rights.json",
+      "size": 446,
+      "sha256": "d815a800cab9507a55a95061bb11714c27cdb947cd5a1a0e120729ed4927971c"
+    },
+    {
+      "path": "pdi/context.json",
+      "size": 450,
+      "sha256": "c866fdb220cc9e894164a27ee6845a31062b567ad867f722d5a8e38ff72fba69"
+    },
+    {
+      "path": "pdi/fixity.json",
+      "size": 2794,
+      "sha256": "b855b438d856c33e50c2547de54a43cfd93056faa73b19c60156ffa0fdf419da"
+    },
+    {
+      "path": "pdi/provenance.json",
+      "size": 2234,
+      "sha256": "b7c17ad6c2ca73a054e1b5718e94c8c36b23fba097e5e0760d0944860ed25a25"
+    },
+    {
+      "path": "pdi/reference.json",
+      "size": 270,
+      "sha256": "c2842924748b9976274a20edca6d02f8d7306e784f45c440d42eed25eba0d24c"
+    },
+    {
+      "path": "pdi/session_log_excerpt.txt",
+      "size": 7051,
+      "sha256": "38d4fdcee86a876164060f4cc46a56fe95a2fd671307f931a071235ba4e0e9a4"
+    }
+  ]
+}

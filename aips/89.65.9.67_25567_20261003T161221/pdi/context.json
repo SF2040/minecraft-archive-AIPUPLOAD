@@ -1,0 +1,29 @@
+{
+  "why_captured": "Meteor reported a possible player build",
+  "trigger_line": "[16:11:56] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X72, Y67, Z760 (Block{minecraft:pale_oak_fence})",
+  "coordinates": {
+    "x": 72,
+    "y": 67,
+    "z": 760
+  },
+  "meteor_messages_during_visit": [
+    "[16:11:56] (List1)Possible build located near X72, Y67, Z760 (Block{minecraft:pale_oak_fence})",
+    "[16:11:57] (Open Portal)Possible build located near X88, Y72, Z760",
+    "[16:11:58] (List1)Possible build located near X88, Y84, Z728 (Block{minecraft:pale_oak_planks})",
+    "[16:11:59] (List1)Possible build located near X104, Y85, Z744 (Block{minecraft:pale_oak_trapdoor})",
+    "[16:12:00] (Open Portal)Possible build located near X104, Y81, Z776",
+    "[16:12:00] (List1)Possible build located near X104, Y85, Z728 (Block{minecraft:pale_oak_planks})",
+    "[16:12:01] (List1)Possible build located near X88, Y93, Z712 (Block{minecraft:pale_oak_planks})",
+    "[16:12:03] (List1)Possible build located near X120, Y-10, Z776 (Block{minecraft:oxidized_copper})",
+    "[16:12:04] (List1)Possible build located near X88, Y95, Z696 (Block{minecraft:pale_oak_planks})",
+    "[16:12:10] (List1)Possible build located near X120, Y106, Z696 (Block{minecraft:pale_oak_trapdoor})",
+    "[16:12:11] (List1)Possible build located near X104, Y106, Z680 (Block{minecraft:pale_oak_trapdoor})",
+    "[16:12:14] (List1)Possible build located near X136, Y106, Z696 (Block{minecraft:pale_oak_trapdoor})",
+    "[16:12:15] (List1)Possible build located near X120, Y111, Z680 (Block{minecraft:observer})",
+    "[16:12:16] (List1)Possible build located near X104, Y106, Z664 (Block{minecraft:pale_oak_trapdoor})",
+    "[16:12:17] (List1)Possible build located near X136, Y111, Z680 (Block{minecraft:pale_oak_trapdoor})",
+    "[16:12:20] (List1)Possible build located near X120, Y111, Z664 (Block{minecraft:green_stained_glass})"
+  ],
+  "country": "PL",
+  "minecraft_version_reported": "1.21.4"
+}

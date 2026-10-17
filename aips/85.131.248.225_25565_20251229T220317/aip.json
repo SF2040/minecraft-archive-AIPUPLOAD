@@ -1,0 +1,81 @@
+{
+  "schema": "autoarchiver-aip/1",
+  "aip_id": "85.131.248.225_25565_20251229T220317",
+  "created_utc": "2026-10-17T07:03:10.739405+00:00",
+  "qa_status": "complete",
+  "qa_checks": [
+    {
+      "check": "zip_integrity",
+      "ok": true,
+      "detail": "all members readable"
+    },
+    {
+      "check": "level_dat_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "region_data_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "under_github_file_limit",
+      "ok": true,
+      "detail": "3852339 bytes"
+    },
+    {
+      "check": "capture_metadata_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "worldtools_reported_saved",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no_storage_errors_in_log",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "representation_information": "../../docs/representation_information.md",
+  "files": [
+    {
+      "path": "content/85.131.248.225_25565.zip",
+      "size": 3852339,
+      "sha256": "b6ff98d2799159bb874149edb780efc9ec7097ee6ba55ed28f350ec65e159c52"
+    },
+    {
+      "path": "pdi/access_rights.json",
+      "size": 446,
+      "sha256": "d815a800cab9507a55a95061bb11714c27cdb947cd5a1a0e120729ed4927971c"
+    },
+    {
+      "path": "pdi/context.json",
+      "size": 8567,
+      "sha256": "3677eb9de6a4d52ab5016dd0097e260dc081a04b962e41b4de3f56306b15300b"
+    },
+    {
+      "path": "pdi/fixity.json",
+      "size": 2627,
+      "sha256": "c854324a420381d127ad0af78b031400f590126d6d39eccb58f7a1e49f06d3e6"
+    },
+    {
+      "path": "pdi/provenance.json",
+      "size": 2391,
+      "sha256": "c6e4695ea8c2e526c988399a0418b31eef9b57b1d1d4e7424fa0bff2dbf77c7c"
+    },
+    {
+      "path": "pdi/reference.json",
+      "size": 306,
+      "sha256": "88f56d915f2e70e1eee223b66f048fddf07028ab93c7ec85112174cd3e0741f3"
+    },
+    {
+      "path": "pdi/session_log_excerpt.txt",
+      "size": 23300,
+      "sha256": "d39652e9864f66995fabdfd4f4edfb2e408a711dd409172f70d8e63d8f9da297"
+    }
+  ]
+}

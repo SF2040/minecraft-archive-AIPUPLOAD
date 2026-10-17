@@ -1,0 +1,81 @@
+{
+  "schema": "autoarchiver-aip/1",
+  "aip_id": "15.204.44.62_20144_20251229T003836",
+  "created_utc": "2026-10-17T07:03:10.739405+00:00",
+  "qa_status": "unverified",
+  "qa_checks": [
+    {
+      "check": "zip_integrity",
+      "ok": true,
+      "detail": "all members readable"
+    },
+    {
+      "check": "level_dat_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "region_data_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "under_github_file_limit",
+      "ok": true,
+      "detail": "6236675 bytes"
+    },
+    {
+      "check": "capture_metadata_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "worldtools_reported_saved",
+      "ok": null,
+      "detail": "no Minecraft log evidence found"
+    },
+    {
+      "check": "no_storage_errors_in_log",
+      "ok": null,
+      "detail": ""
+    }
+  ],
+  "representation_information": "../../docs/representation_information.md",
+  "files": [
+    {
+      "path": "content/15.204.44.62_20144.zip",
+      "size": 6236675,
+      "sha256": "e0efdf17319547d43cfc689ce56ef71806ddf2f8a15d473a6e3a1a0d7ca9433a"
+    },
+    {
+      "path": "pdi/access_rights.json",
+      "size": 446,
+      "sha256": "d815a800cab9507a55a95061bb11714c27cdb947cd5a1a0e120729ed4927971c"
+    },
+    {
+      "path": "pdi/context.json",
+      "size": 354,
+      "sha256": "5ce4d3b61020c412a607622d9b3723a7bfc87cddbad4941e2f2a603aa849b769"
+    },
+    {
+      "path": "pdi/fixity.json",
+      "size": 10090,
+      "sha256": "0462bbb751c457c17fe7f3f6fbcd4ea65c06cb4be311c31b3c71b87f738a358f"
+    },
+    {
+      "path": "pdi/provenance.json",
+      "size": 1963,
+      "sha256": "0939504ac78a0d3dd33a01bb7a1e8b989af8a066ff1438387c6213774cc77500"
+    },
+    {
+      "path": "pdi/reference.json",
+      "size": 286,
+      "sha256": "021b83fb65844f615357ed2b6b0f6751c47b38efac758ee467740d2b09b6920a"
+    },
+    {
+      "path": "pdi/session_log_excerpt.txt",
+      "size": 47,
+      "sha256": "1f58fec1e73c9af59bd39cc4dc931e29258d82d4196082ea70eb57695cbc9b25"
+    }
+  ]
+}

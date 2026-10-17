@@ -1,0 +1,14 @@
+{
+  "why_captured": "Meteor reported a possible player build",
+  "trigger_line": "[17:57:39] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X120, Y40, Z-88 (Block{minecraft:birch_door})",
+  "coordinates": {
+    "x": 120,
+    "y": 40,
+    "z": -88
+  },
+  "meteor_messages_during_visit": [
+    "[17:57:39] (List1)Possible build located near X120, Y40, Z-88 (Block{minecraft:birch_door})"
+  ],
+  "country": "JP",
+  "minecraft_version_reported": "1.21.4"
+}

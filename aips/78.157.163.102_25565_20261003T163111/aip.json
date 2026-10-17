@@ -1,0 +1,81 @@
+{
+  "schema": "autoarchiver-aip/1",
+  "aip_id": "78.157.163.102_25565_20261003T163111",
+  "created_utc": "2026-10-17T07:03:10.739405+00:00",
+  "qa_status": "complete",
+  "qa_checks": [
+    {
+      "check": "zip_integrity",
+      "ok": true,
+      "detail": "all members readable"
+    },
+    {
+      "check": "level_dat_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "region_data_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "under_github_file_limit",
+      "ok": true,
+      "detail": "2874137 bytes"
+    },
+    {
+      "check": "capture_metadata_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "worldtools_reported_saved",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no_storage_errors_in_log",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "representation_information": "../../docs/representation_information.md",
+  "files": [
+    {
+      "path": "content/78.157.163.102_25565.zip",
+      "size": 2874137,
+      "sha256": "886ba4bff60cff3f6f213bba65f84f9764d2c5f13593fea522a9d7688af6a5dc"
+    },
+    {
+      "path": "pdi/access_rights.json",
+      "size": 446,
+      "sha256": "d815a800cab9507a55a95061bb11714c27cdb947cd5a1a0e120729ed4927971c"
+    },
+    {
+      "path": "pdi/context.json",
+      "size": 709,
+      "sha256": "496c2235deec4cb18f23990e6c78cc7531c05b3d431f4c0767e6296bf08c279a"
+    },
+    {
+      "path": "pdi/fixity.json",
+      "size": 2437,
+      "sha256": "2742438ecf45501b8ad7e055cb953ee1c00289a62b325ef2eaddd0b97981b841"
+    },
+    {
+      "path": "pdi/provenance.json",
+      "size": 2357,
+      "sha256": "2e92a9bb636b7932b9552effbb31bff9c6663d2dc964a6e40f9fe4aa555b10df"
+    },
+    {
+      "path": "pdi/reference.json",
+      "size": 306,
+      "sha256": "ad0443557ee2a9610d65d60fa5011852b0290ac6fabf2f8dd60b4c340ff85d81"
+    },
+    {
+      "path": "pdi/session_log_excerpt.txt",
+      "size": 5636,
+      "sha256": "6cf972bf558fad52c7bfe76dc5a1b1f0975a1168845d2fab667f853f0455e0c7"
+    }
+  ]
+}

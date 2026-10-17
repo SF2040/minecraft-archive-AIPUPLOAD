@@ -1,0 +1,39 @@
+{
+  "why_captured": "Meteor reported a possible player build",
+  "trigger_line": "[22:55:28] [Netty Client IO #5/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-1064, Y74, Z-200 (Block{minecraft:oak_sign})",
+  "coordinates": {
+    "x": -1064,
+    "y": 74,
+    "z": -200
+  },
+  "meteor_messages_during_visit": [
+    "[22:55:28] (List1)Possible build located near X-1064, Y74, Z-200 (Block{minecraft:oak_sign})",
+    "[22:55:29] (List1)Possible build located near X-1096, Y74, Z-216 (Block{minecraft:oak_hanging_sign})",
+    "[22:55:29] (List1)Possible build located near X-1048, Y64, Z-200 (Block{minecraft:oak_wall_hanging_sign})",
+    "[22:55:30] Written Sign located near X-1070, Y72, Z-185",
+    "[22:55:31] (List1)Possible build located near X-1048, Y66, Z-184 (Block{minecraft:polished_andesite_stairs})",
+    "[22:55:32] (List2)Possible build located near X-1080, Y72, Z-184 (Block{minecraft:polished_diorite})",
+    "[22:55:33] (List2)Possible build located near X-1096, Y72, Z-184 (Block{minecraft:polished_diorite})",
+    "[22:55:33] (List1)Possible build located near X-1112, Y72, Z-200 (Block{minecraft:polished_andesite_slab})",
+    "[22:55:35] (List1)Possible build located near X-1064, Y72, Z-168 (Block{minecraft:polished_andesite_stairs})",
+    "[22:55:42] (List1)Possible build located near X-1080, Y72, Z-168 (Block{minecraft:polished_andesite_slab})",
+    "[22:55:42] (List1)Possible build located near X-1112, Y72, Z-184 (Block{minecraft:polished_andesite_slab})",
+    "[22:55:45] (List1)Possible build located near X-1096, Y72, Z-168 (Block{minecraft:polished_andesite_slab})",
+    "[22:55:51] (List1)Possible build located near X-1112, Y72, Z-168 (Block{minecraft:polished_andesite_slab})",
+    "[22:55:54] (List1)Possible build located near X-1064, Y73, Z-152 (Block{minecraft:oak_sign})",
+    "[22:55:56] (List1)Possible build located near X-1080, Y72, Z-152 (Block{minecraft:polished_andesite_stairs})",
+    "[22:56:11] (List1)Possible build located near X-1064, Y81, Z-120 (Block{minecraft:cherry_slab})",
+    "[22:56:15] (List1)Possible build located near X-1048, Y76, Z-120 (Block{minecraft:cherry_planks})",
+    "[22:56:20] (List1)Possible build located near X-1032, Y76, Z-120 (Block{minecraft:cherry_slab})",
+    "[22:56:27] (List1)Possible build located near X-1064, Y76, Z-104 (Block{minecraft:cherry_slab})",
+    "[22:56:27] (List1)Possible build located near X-1048, Y78, Z-104 (Block{minecraft:potted_cherry_sapling})",
+    "[22:56:30] (List1)Possible build located near X-1032, Y76, Z-104 (Block{minecraft:cherry_slab})",
+    "[22:56:35] Written Sign located near X-1069, Y79, Z-85",
+    "[22:56:36] (List1)Possible build located near X-1048, Y76, Z-88 (Block{minecraft:cherry_slab})",
+    "[22:56:44] (List1)Possible build located near X-1032, Y76, Z-88 (Block{minecraft:cherry_slab})",
+    "[22:56:54] (List1)Possible build located near X-1064, Y79, Z-72 (Block{minecraft:cherry_wall_sign})",
+    "[22:56:54] (List4)Possible build located near X-1080, Y78, Z-72 (Block{minecraft:oak_wall_sign})"
+  ],
+  "country": "US",
+  "minecraft_version_reported": "1.21.4"
+}

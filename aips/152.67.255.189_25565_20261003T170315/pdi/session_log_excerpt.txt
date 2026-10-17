@@ -1,0 +1,59 @@
+[17:02:44] [Render thread/INFO]: Connecting to 152.67.255.189, 25565
+[17:02:50] [Render thread/INFO]: [STDOUT]: World seems to be a replay. Not loading Baritone cache.
+[17:02:50] [Render thread/INFO]: Cleared hot cache
+[17:02:50] [Render thread/INFO]: [STDOUT]: Retrying to load Baritone cache
+[17:02:50] [Render thread/INFO]: [STDOUT]: Baritone world data dir: C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\152.67.255.189_25565\minecraft\overworld_384
+[17:02:50] [Render thread/INFO]: [STDOUT]: Cached world directory: C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\152.67.255.189_25565\minecraft\overworld_384\cache
+[17:02:50] [Render thread/INFO]: [STDOUT]: Would save waypoints to C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\152.67.255.189_25565\minecraft\overworld_384\waypoints
+[17:02:51] [Render thread/INFO]: Loaded 2 advancements
+[17:02:52] [Netty Client IO #3/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-72, Y81, Z-104 (Block{minecraft:spruce_sign})
+[17:03:10] [pool-8-thread-39/INFO]: [STDOUT]: World save took 0ms
+[17:03:14] [Render thread/INFO]: [CHAT] [Baritone] > goto -72 81 -104
+[17:03:14] [Render thread/INFO]: [CHAT] [Baritone] Going to: GoalBlock{x=-72,y=81,z=-104}
+[17:03:14] [pool-8-thread-55/INFO]: [STDOUT]: 729344 movements considered
+[17:03:14] [pool-8-thread-55/INFO]: [STDOUT]: Open set size: 12987
+[17:03:14] [pool-8-thread-55/INFO]: [STDOUT]: PathNode map size: 46139
+[17:03:14] [pool-8-thread-55/INFO]: [STDOUT]: 66171 nodes per second
+[17:03:14] [pool-8-thread-55/INFO]: [STDOUT]: Path goes for 21.2602916254693 blocks
+[17:03:15] [Render thread/INFO]: Cleared hot cache
+[17:03:15] [Render thread/INFO]: [System] [CHAT] [WorldTools] Started capturing 152.67.255.189_25565...
+[17:03:15] [DefaultDispatcher-worker-3/INFO]: Started caching
+[17:03:15] [DefaultDispatcher-worker-2/INFO]: Saved 4 stats.
+[17:03:18] [pool-8-thread-55/INFO]: [STDOUT]: 5271552 movements considered
+[17:03:18] [pool-8-thread-55/INFO]: [STDOUT]: Open set size: 70431
+[17:03:18] [pool-8-thread-55/INFO]: [STDOUT]: PathNode map size: 310041
+[17:03:18] [pool-8-thread-55/INFO]: [STDOUT]: 59889 nodes per second
+[17:03:18] [pool-8-thread-55/INFO]: [STDOUT]: Warning: cost coefficient is greater than three! Probably means that
+[17:03:18] [pool-8-thread-55/INFO]: [STDOUT]: the path I found is pretty terrible (like sneak-bridging for dozens of blocks)
+[17:03:18] [pool-8-thread-55/INFO]: [STDOUT]: But I'm going to do it anyway, because yolo
+[17:03:18] [pool-8-thread-55/INFO]: [STDOUT]: Path goes for 8.12403840463596 blocks
+[17:03:20] [ForkJoinPool.commonPool-worker-37/INFO]: [STDOUT]: Saving region 0,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\152.67.255.189_25565\minecraft\overworld_384\cache
+[17:03:20] [ForkJoinPool.commonPool-worker-40/INFO]: [STDOUT]: Saving region 0,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\152.67.255.189_25565\minecraft\overworld_384\cache
+[17:03:20] [ForkJoinPool.commonPool-worker-34/INFO]: [STDOUT]: Saving region -1,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\152.67.255.189_25565\minecraft\overworld_384\cache
+[17:03:20] [pool-8-thread-54/INFO]: [STDOUT]: Saving region -1,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\152.67.255.189_25565\minecraft\overworld_384\cache
+[17:03:20] [ForkJoinPool.commonPool-worker-40/INFO]: [STDOUT]: Saved region successfully
+[17:03:20] [ForkJoinPool.commonPool-worker-37/INFO]: [STDOUT]: Saved region successfully
+[17:03:20] [pool-8-thread-54/INFO]: [STDOUT]: Saved region successfully
+[17:03:20] [ForkJoinPool.commonPool-worker-34/INFO]: [STDOUT]: Saved region successfully
+[17:03:20] [pool-8-thread-54/INFO]: [STDOUT]: World save took 130ms
+[17:03:27] [pool-8-thread-55/INFO]: [STDOUT]: 6478208 movements considered
+[17:03:27] [pool-8-thread-55/INFO]: [STDOUT]: Open set size: 82881
+[17:03:27] [pool-8-thread-55/INFO]: [STDOUT]: PathNode map size: 377338
+[17:03:27] [pool-8-thread-55/INFO]: [STDOUT]: 58881 nodes per second
+[17:03:30] [pool-8-thread-55/INFO]: [STDOUT]: 2783616 movements considered
+[17:03:30] [pool-8-thread-55/INFO]: [STDOUT]: Open set size: 39082
+[17:03:30] [pool-8-thread-55/INFO]: [STDOUT]: PathNode map size: 165608
+[17:03:30] [pool-8-thread-55/INFO]: [STDOUT]: 63232 nodes per second
+[17:03:37] [pool-8-thread-48/INFO]: [STDOUT]: World save took 0ms
+[17:04:18] [pool-8-thread-7/INFO]: [STDOUT]: World save took 0ms
+[17:04:19] [Render thread/INFO]: Saving
+[17:04:19] [Render thread/INFO]: Saved in 44 milliseconds.
+[17:04:20] [DefaultDispatcher-worker-4/INFO]: Saved level data.
+[17:04:20] [DefaultDispatcher-worker-4/INFO]: Saved favicon.
+[17:04:20] [DefaultDispatcher-worker-4/INFO]: Saved capture metadata.
+[17:04:20] [DefaultDispatcher-worker-4/INFO]: Zipping C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\152.67.255.189_25565\. to C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\152.67.255.189_25565-1791018260937.zip
+[17:04:21] [DefaultDispatcher-worker-4/INFO]: Finished zipping C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\152.67.255.189_25565\. with size 4.4 MB to C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\152.67.255.189_25565-1791018260937.zip with size 3.2 MB
+[17:04:21] [DefaultDispatcher-worker-4/INFO]: Canceled caching flow
+[17:04:21] [DefaultDispatcher-worker-4/INFO]: Cleared hot cache
+[17:04:21] [DefaultDispatcher-worker-4/INFO]: Finished caching
+[17:04:21] [Render thread/INFO]: [System] [CHAT] [WorldTools] Saved 517 chunks, 259 entities and 1 player in dimension overworld to saves directory 152.67.255.189_25565 (click to open)

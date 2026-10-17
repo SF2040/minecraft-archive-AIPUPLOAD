@@ -1,0 +1,128 @@
+[15:17:28] [Render thread/INFO]: Connecting to 162.55.5.218, 25567
+[15:17:33] [Render thread/INFO]: Loading client level [Wrapped{ClientLevel@l1n7mtvmdbsve@minecraft:overworld}]-[l1n7mtvmdbsve@minecraft:overworld].
+[15:17:33] [Render thread/INFO]: Started 1 worker threads
+[15:17:33] [Render thread/INFO]: [STDOUT]: World seems to be a replay. Not loading Baritone cache.
+[15:17:33] [Render thread/INFO]: Cleared hot cache
+[15:17:33] [Render thread/INFO]: Client on ClientOnly mode connecting.
+[15:17:33] [Render thread/INFO]: Started DhWorld of type CLIENT_ONLY
+[15:17:33] [Render thread/INFO]: Shutting down PriorityTaskPicker thread pool...
+[15:17:33] [Render thread/INFO]: Loading [1] waiting client level wrappers.
+[15:17:33] [Render thread/INFO]: Loading client level [Wrapped{ClientLevel@l1n7mtvmdbsve@minecraft:overworld}]-[l1n7mtvmdbsve@minecraft:overworld].
+[15:17:33] [Render thread/WARN]: unable to create data folder.
+[15:17:33] [Render thread/INFO]: Running SQL update script: [sqlScripts/0010-sqlite-createInitialDataTables.sql], for repo: [C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\l1n7mtvmdbsve@minecraft@@overworld\DistantHorizons.sqlite]
+[15:17:33] [Render thread/INFO]: Running SQL update script: [sqlScripts/0020-sqlite-createFullDataSourceV2Tables.sql], for repo: [C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\l1n7mtvmdbsve@minecraft@@overworld\DistantHorizons.sqlite]
+[15:17:33] [Render thread/INFO]: Running SQL update script: [sqlScripts/0030-sqlite-changeTableJournaling.sql], for repo: [C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\l1n7mtvmdbsve@minecraft@@overworld\DistantHorizons.sqlite]
+[15:17:33] [Render thread/INFO]: Running SQL update script: [sqlScripts/0031-sqlite-useSqliteWalJournaling.sql], for repo: [C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\l1n7mtvmdbsve@minecraft@@overworld\DistantHorizons.sqlite]
+[15:17:34] [Render thread/INFO]: Running SQL update script: [sqlScripts/0040-sqlite-removeRenderCache.sql], for repo: [C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\l1n7mtvmdbsve@minecraft@@overworld\DistantHorizons.sqlite]
+[15:17:34] [Render thread/INFO]: Running SQL update script: [sqlScripts/0050-sqlite-addApplyToParentIndex.sql], for repo: [C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\l1n7mtvmdbsve@minecraft@@overworld\DistantHorizons.sqlite]
+[15:17:34] [Render thread/INFO]: Running SQL update script: [sqlScripts/0060-sqlite-createChunkHashTable.sql], for repo: [C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\l1n7mtvmdbsve@minecraft@@overworld\DistantHorizons.sqlite]
+[15:17:34] [Render thread/INFO]: Running SQL update script: [sqlScripts/0070-sqlite-createBeaconBeamTable.sql], for repo: [C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\l1n7mtvmdbsve@minecraft@@overworld\DistantHorizons.sqlite]
+[15:17:34] [Render thread/INFO]: Running SQL update script: [sqlScripts/0080-sqlite-addApplyToChildrenColumn.sql], for repo: [C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\l1n7mtvmdbsve@minecraft@@overworld\DistantHorizons.sqlite]
+[15:17:34] [Render thread/INFO]: Running SQL update script: [sqlScripts/0090-sqlite-addAdjacentFullDataColumns.sql], for repo: [C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\l1n7mtvmdbsve@minecraft@@overworld\DistantHorizons.sqlite]
+[15:17:34] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
+[15:17:34] [Render thread/INFO]: Started DHLevel for Wrapped{ClientLevel@l1n7mtvmdbsve@minecraft:overworld} with saves at [ClientOnlySaveStructure@(C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\l1n7mtvmdbsve@minecraft@@overworld)]
+[15:17:34] [Render thread/INFO]: Loaded [0] waiting chunk wrappers.
+[15:17:34] [Render thread/INFO]: Loaded 2 advancements
+[15:17:34] [Render thread/INFO]: [STDOUT]: Retrying to load Baritone cache
+[15:17:34] [Render thread/INFO]: [STDOUT]: Baritone world data dir: C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.55.5.218_25567\minecraft\overworld_384
+[15:17:34] [Render thread/INFO]: [STDOUT]: Cached world directory: C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.55.5.218_25567\minecraft\overworld_384\cache
+[15:17:34] [Render thread/INFO]: [STDOUT]: Would save waypoints to C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.55.5.218_25567\minecraft\overworld_384\waypoints
+[15:17:34] [Render thread/INFO]: Stopping worker threads
+[15:17:34] [Render thread/INFO]: Started 1 worker threads
+[15:17:34] [Render thread/INFO]: Loading shader with type: [35633]
+[15:17:34] [Render thread/INFO]: Shader loaded sucessfully.
+[15:17:34] [Render thread/INFO]: Loading shader with type: [35632]
+[15:17:34] [Render thread/INFO]: Shader loaded sucessfully.
+[15:17:34] [Render thread/INFO]: Vertex Attribute (GL43+) completed. It contains 1 binding points and a stride size of 12
+[15:17:34] [Render thread/INFO]: Loading shader with type: [35633]
+[15:17:34] [Render thread/INFO]: Shader loaded sucessfully.
+[15:17:34] [Render thread/INFO]: Loading shader with type: [35632]
+[15:17:34] [Render thread/INFO]: Shader loaded sucessfully.
+[15:17:34] [Render thread/INFO]: Vertex Attribute (GL43+) completed. It contains 1 binding points and a stride size of 12
+[15:17:34] [Netty Client IO #0/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-72, Y25, Z56 (Block{minecraft:birch_door})
+[15:17:35] [pool-8-thread-12/INFO]: [STDOUT]: World save took 0ms
+[15:17:35] [Netty Client IO #0/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-88, Y64, Z-8 (Block{minecraft:oak_sign})
+[15:17:36] [Render thread/INFO]: [System] [CHAT] [Meteor] Illegal amount of entities located near X-24, Z-8
+[15:17:36] [Render thread/INFO]: [System] [CHAT] [Meteor] Illegal Boat located near X-17.75, Y62.52326431274413, Z22.75
+[15:17:36] [Render thread/INFO]: [System] [CHAT] [Meteor] Illegal amount of entities located near X-8, Z-8
+[15:17:38] [Netty Client IO #0/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-104, Y25, Z40 (Block{minecraft:birch_door})
+[15:17:41] [Netty Client IO #0/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-88, Y61, Z-40 (Block{minecraft:birch_door})
+[15:17:48] [Netty Client IO #0/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-152, Y14, Z24 (Block{minecraft:birch_door})
+[15:17:53] [Render thread/INFO]: [CHAT] [Baritone] > goto -72 25 56
+[15:17:53] [Render thread/INFO]: [CHAT] [Baritone] Going to: GoalBlock{x=-72,y=25,z=56}
+[15:17:53] [pool-8-thread-19/INFO]: [STDOUT]: 932096 movements considered
+[15:17:53] [pool-8-thread-19/INFO]: [STDOUT]: Open set size: 19571
+[15:17:53] [pool-8-thread-19/INFO]: [STDOUT]: PathNode map size: 61935
+[15:17:53] [pool-8-thread-19/INFO]: [STDOUT]: 84736 nodes per second
+[15:17:53] [pool-8-thread-19/INFO]: [STDOUT]: Path goes for 7.0710678118654755 blocks
+[15:17:54] [Netty Client IO #0/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-56, Y53, Z-104 (Block{minecraft:birch_door})
+[15:17:54] [Render thread/INFO]: Cleared hot cache
+[15:17:54] [Render thread/INFO]: [System] [CHAT] [WorldTools] Started capturing 162.55.5.218_25567...
+[15:17:54] [DefaultDispatcher-worker-2/INFO]: Started caching
+[15:17:55] [DefaultDispatcher-worker-2/INFO]: Saved 5 stats.
+[15:17:55] [pool-8-thread-19/INFO]: [STDOUT]: 2331207 movements considered
+[15:17:55] [pool-8-thread-19/INFO]: [STDOUT]: Open set size: 48232
+[15:17:55] [pool-8-thread-19/INFO]: [STDOUT]: PathNode map size: 154165
+[15:17:55] [pool-8-thread-19/INFO]: [STDOUT]: 54707 nodes per second
+[15:17:55] [pool-8-thread-19/INFO]: [STDOUT]: Path goes for 40.3732584763727 blocks
+[15:17:55] [Netty Client IO #0/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-72, Y53, Z-104 (Block{minecraft:birch_door})
+[15:17:56] [Netty Client IO #0/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-88, Y53, Z-104 (Block{minecraft:birch_door})
+[15:17:59] [Netty Client IO #0/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-24, Y48, Z-120 (Block{minecraft:birch_door})
+[15:18:00] [Render thread/INFO]: Loaded 12 advancements
+[15:18:02] [pool-8-thread-19/INFO]: [STDOUT]: 1860536 movements considered
+[15:18:02] [pool-8-thread-19/INFO]: [STDOUT]: Open set size: 34839
+[15:18:02] [pool-8-thread-19/INFO]: [STDOUT]: PathNode map size: 119414
+[15:18:02] [pool-8-thread-19/INFO]: [STDOUT]: 92939 nodes per second
+[15:18:02] [pool-8-thread-19/INFO]: [STDOUT]: Warning: cost coefficient is greater than three! Probably means that
+[15:18:02] [pool-8-thread-19/INFO]: [STDOUT]: the path I found is pretty terrible (like sneak-bridging for dozens of blocks)
+[15:18:02] [pool-8-thread-19/INFO]: [STDOUT]: But I'm going to do it anyway, because yolo
+[15:18:02] [pool-8-thread-19/INFO]: [STDOUT]: Path goes for 26.476404589747453 blocks
+[15:18:04] [ForkJoinPool.commonPool-worker-34/INFO]: [STDOUT]: Saving region 0,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.55.5.218_25567\minecraft\overworld_384\cache
+[15:18:04] [ForkJoinPool.commonPool-worker-35/INFO]: [STDOUT]: Saving region 0,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.55.5.218_25567\minecraft\overworld_384\cache
+[15:18:04] [pool-8-thread-18/INFO]: [STDOUT]: Saving region -1,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.55.5.218_25567\minecraft\overworld_384\cache
+[15:18:04] [ForkJoinPool.commonPool-worker-36/INFO]: [STDOUT]: Saving region -1,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.55.5.218_25567\minecraft\overworld_384\cache
+[15:18:04] [ForkJoinPool.commonPool-worker-35/INFO]: [STDOUT]: Saved region successfully
+[15:18:04] [ForkJoinPool.commonPool-worker-34/INFO]: [STDOUT]: Saved region successfully
+[15:18:04] [ForkJoinPool.commonPool-worker-36/INFO]: [STDOUT]: Saved region successfully
+[15:18:04] [pool-8-thread-18/INFO]: [STDOUT]: Saved region successfully
+[15:18:04] [pool-8-thread-18/INFO]: [STDOUT]: World save took 98ms
+[15:18:06] [Netty Client IO #0/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-72, Y36, Z-120 (Block{minecraft:birch_door})
+[15:18:15] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.cod.ambient
+[15:18:21] [Netty Client IO #0/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-200, Y83, Z-104 (Block{minecraft:birch_door})
+[15:18:29] [pool-8-thread-19/INFO]: [STDOUT]: 6666880 movements considered
+[15:18:29] [pool-8-thread-19/INFO]: [STDOUT]: Open set size: 112672
+[15:18:29] [pool-8-thread-19/INFO]: [STDOUT]: PathNode map size: 415707
+[15:18:29] [pool-8-thread-19/INFO]: [STDOUT]: 75741 nodes per second
+[15:18:29] [pool-8-thread-19/INFO]: [STDOUT]: Warning: cost coefficient is greater than three! Probably means that
+[15:18:29] [pool-8-thread-19/INFO]: [STDOUT]: the path I found is pretty terrible (like sneak-bridging for dozens of blocks)
+[15:18:29] [pool-8-thread-19/INFO]: [STDOUT]: But I'm going to do it anyway, because yolo
+[15:18:29] [pool-8-thread-19/INFO]: [STDOUT]: Path goes for 14.966629547095765 blocks
+[15:18:51] [Render thread/INFO]: [System] [CHAT] [Meteor] Illegal Boat located near X-237.25, Y62.52326431274413, Z49.25
+[15:18:54] [Netty Client IO #0/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-232, Y79, Z-88 (Block{minecraft:birch_door})
+[15:18:57] [pool-8-thread-19/INFO]: [STDOUT]: 10129117 movements considered
+[15:18:57] [pool-8-thread-19/INFO]: [STDOUT]: Open set size: 170607
+[15:18:57] [pool-8-thread-19/INFO]: [STDOUT]: PathNode map size: 630981
+[15:18:57] [pool-8-thread-19/INFO]: [STDOUT]: 92083 nodes per second
+[15:18:58] [Render thread/INFO]: Saving
+[15:18:59] [Render thread/INFO]: Saved in 449 milliseconds.
+[15:18:59] [Render thread/INFO]: Client on ClientOnly mode disconnecting.
+[15:18:59] [level shutdown/INFO]: Shutting down ClientRenderState
+[15:18:59] [level shutdown/INFO]: Shutting down LodQuadTree...
+[15:18:59] [level shutdown/INFO]: Finished shutting down LodQuadTree
+[15:18:59] [level shutdown/INFO]: Closed [DhClientLevel] for [Wrapped{ClientLevel@l1n7mtvmdbsve@minecraft:overworld}]
+[15:18:59] [Render thread/INFO]: Closed DhWorld of type [CLIENT_ONLY].
+[15:18:59] [Render thread/INFO]: Closed DhWorld of type [CLIENT_ONLY].
+[15:18:59] [Render thread/INFO]: Shutting down PriorityTaskPicker thread pool...
+[15:18:59] [Render thread/INFO]: Closing all [9] database connections...
+[15:18:59] [Render thread/INFO]: Closing database connection: [jdbc:dh_sqlite:C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\l1n7mtvmdbsve@minecraft@@overworld\DistantHorizons.sqlite]
+[15:18:59] [Render thread/INFO]: Unloading client level [ClientLevelWrapper]-[l1n7mtvmdbsve@minecraft:overworld].
+[15:18:59] [Render thread/INFO]: Stopping worker threads
+[15:19:00] [DefaultDispatcher-worker-2/INFO]: Saved level data.
+[15:19:00] [DefaultDispatcher-worker-2/INFO]: Saved favicon.
+[15:19:00] [DefaultDispatcher-worker-2/INFO]: Saved capture metadata.
+[15:19:00] [DefaultDispatcher-worker-2/INFO]: Zipping C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\162.55.5.218_25567\. to C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\162.55.5.218_25567-1766992740203.zip
+[15:19:00] [DefaultDispatcher-worker-2/INFO]: Finished zipping C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\162.55.5.218_25567\. with size 4.2 MB to C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\162.55.5.218_25567-1766992740203.zip with size 2.9 MB
+[15:19:00] [DefaultDispatcher-worker-2/INFO]: Canceled caching flow
+[15:19:00] [Render thread/INFO]: [System] [CHAT] [WorldTools] Saved 670 chunks, 406 entities, 1 player and 6 containers in dimension overworld to saves directory 162.55.5.218_25567 (click to open)
+[15:19:00] [DefaultDispatcher-worker-2/INFO]: Cleared hot cache
+[15:19:00] [DefaultDispatcher-worker-2/INFO]: Finished caching

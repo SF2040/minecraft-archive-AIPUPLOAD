@@ -1,0 +1,81 @@
+{
+  "schema": "autoarchiver-aip/1",
+  "aip_id": "51.81.217.20_25571_20261003T155828",
+  "created_utc": "2026-10-17T07:03:10.739405+00:00",
+  "qa_status": "complete",
+  "qa_checks": [
+    {
+      "check": "zip_integrity",
+      "ok": true,
+      "detail": "all members readable"
+    },
+    {
+      "check": "level_dat_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "region_data_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "under_github_file_limit",
+      "ok": true,
+      "detail": "5759740 bytes"
+    },
+    {
+      "check": "capture_metadata_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "worldtools_reported_saved",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no_storage_errors_in_log",
+      "ok": true,
+      "detail": "Can't ping play.pika-network.net: Disconnected"
+    }
+  ],
+  "representation_information": "../../docs/representation_information.md",
+  "files": [
+    {
+      "path": "content/51.81.217.20_25571.zip",
+      "size": 5759740,
+      "sha256": "c174eff432ee61b41e62df8b4257f9b41c0f10a75741de5b2c7c24765da37df6"
+    },
+    {
+      "path": "pdi/access_rights.json",
+      "size": 446,
+      "sha256": "d815a800cab9507a55a95061bb11714c27cdb947cd5a1a0e120729ed4927971c"
+    },
+    {
+      "path": "pdi/context.json",
+      "size": 4104,
+      "sha256": "d7e83cc9aea445da1e2d80e1fff643ab58a571d38946ff22f47630efe7e05753"
+    },
+    {
+      "path": "pdi/fixity.json",
+      "size": 2288,
+      "sha256": "9b0af20681711dde00d271b966bce5ccc815afda58599e05feece844cc5e3479"
+    },
+    {
+      "path": "pdi/provenance.json",
+      "size": 2435,
+      "sha256": "696bb3d129a3d6dacf3058cf561194f68c5ed07a6800fe106138eb1398c898f1"
+    },
+    {
+      "path": "pdi/reference.json",
+      "size": 293,
+      "sha256": "aee545d3e3fbd6ee2d530da1e814e1930b8d940e5392312d5eb07ec564ae7cb1"
+    },
+    {
+      "path": "pdi/session_log_excerpt.txt",
+      "size": 12039,
+      "sha256": "3a7ec6c6b25f4d0d31f012284d2c096f969d888aee91539a703bf8ff87b455bb"
+    }
+  ]
+}

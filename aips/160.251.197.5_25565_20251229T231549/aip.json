@@ -1,0 +1,81 @@
+{
+  "schema": "autoarchiver-aip/1",
+  "aip_id": "160.251.197.5_25565_20251229T231549",
+  "created_utc": "2026-10-17T07:03:10.739405+00:00",
+  "qa_status": "complete",
+  "qa_checks": [
+    {
+      "check": "zip_integrity",
+      "ok": true,
+      "detail": "all members readable"
+    },
+    {
+      "check": "level_dat_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "region_data_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "under_github_file_limit",
+      "ok": true,
+      "detail": "3209514 bytes"
+    },
+    {
+      "check": "capture_metadata_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "worldtools_reported_saved",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no_storage_errors_in_log",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "representation_information": "../../docs/representation_information.md",
+  "files": [
+    {
+      "path": "content/160.251.197.5_25565.zip",
+      "size": 3209514,
+      "sha256": "9b976e42b16f3624e8844a5a788c644b7e90d867264dd71a73700cdc4b5416cd"
+    },
+    {
+      "path": "pdi/access_rights.json",
+      "size": 446,
+      "sha256": "d815a800cab9507a55a95061bb11714c27cdb947cd5a1a0e120729ed4927971c"
+    },
+    {
+      "path": "pdi/context.json",
+      "size": 465,
+      "sha256": "90e4b52df6e60b1cf2f8eb527f41a8ba25606d65c65516d258d937fb9557be31"
+    },
+    {
+      "path": "pdi/fixity.json",
+      "size": 1800,
+      "sha256": "e3eda7c73c90f83eb27458e11ea248897b59472441495e2badee5bd6609266f9"
+    },
+    {
+      "path": "pdi/provenance.json",
+      "size": 2355,
+      "sha256": "e08e56b84fbddd65979418bfc5c9ad05ea59c0aa9baa16001df6eb0a31cb9fc5"
+    },
+    {
+      "path": "pdi/reference.json",
+      "size": 303,
+      "sha256": "1a62440952e799b8d3a1a55cd528d72834488884bd51347cd5517e2241491739"
+    },
+    {
+      "path": "pdi/session_log_excerpt.txt",
+      "size": 10589,
+      "sha256": "455f8ce1dde104e3bac9d11ada58fd597feae0cb665b2f08d47617924a1305f1"
+    }
+  ]
+}

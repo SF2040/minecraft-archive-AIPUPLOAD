@@ -1,0 +1,14 @@
+{
+  "why_captured": "Meteor reported a possible player build",
+  "trigger_line": "[19:11:43] [Netty Client IO #0/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X200, Y68, Z312 (Block{minecraft:oak_sapling})",
+  "coordinates": {
+    "x": 200,
+    "y": 68,
+    "z": 312
+  },
+  "meteor_messages_during_visit": [
+    "[19:11:43] (List1)Possible build located near X200, Y68, Z312 (Block{minecraft:oak_sapling})"
+  ],
+  "country": "AU",
+  "minecraft_version_reported": "1.21.4"
+}

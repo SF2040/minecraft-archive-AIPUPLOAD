@@ -1,0 +1,65 @@
+{
+  "algorithm": "sha256",
+  "content_file": "content/216.225.157.102_25600.zip",
+  "sha256": "e4074459cb9c529a9ce202a396a005d5aa4a07ddc96c99c22f9873b5ffbbbe67",
+  "size_bytes": 3309710,
+  "file_count": 11,
+  "content_digest": "dc613999147c5ed42e61ffb79a96b8e3d9165f44d57fbbf2b5405f0f2edecb75",
+  "inventory": [
+    {
+      "path": "WorldTools/Capture Metadata.md",
+      "size": 365,
+      "sha256": "944a83a641f1c0e0e9882dbe76d6d0c4a20db29ef50b522d167e6f0e552abf9b"
+    },
+    {
+      "path": "entities/r.0.1.mca",
+      "size": 49152,
+      "sha256": "49cd5dafc4d1c7b13a483de34fad6baf0ab20b19b6694d4b06303350f49ae9c7"
+    },
+    {
+      "path": "entities/r.0.2.mca",
+      "size": 659456,
+      "sha256": "f58b72dd669aa26ab4e27e159f4d2ad0b0b0742d30dda5a9e91bbbcfe88aa28d"
+    },
+    {
+      "path": "entities/r.1.2.mca",
+      "size": 24576,
+      "sha256": "f49592e09327395bfc07b3964cf4d3447d7eb73d8c43d8c76ebd57fa2b07100d"
+    },
+    {
+      "path": "level.dat",
+      "size": 1346,
+      "sha256": "d669ef4ff879315674b4f21544927c875e573322a4b08584dd28706ed0b924c0"
+    },
+    {
+      "path": "playerdata/93d2d469-7e11-4249-9cae-fdbf48b6d703.dat",
+      "size": 698,
+      "sha256": "11b89c3bae10999b75a5fae78e5958dc18ff7ef3d8610bd65a78c9e102884c8f"
+    },
+    {
+      "path": "region/r.0.1.mca",
+      "size": 753664,
+      "sha256": "447a0b49032a23c69ca95dfe5097fd286b4e252602358c7f0fb4c477e2dae83b"
+    },
+    {
+      "path": "region/r.0.2.mca",
+      "size": 3653632,
+      "sha256": "a713d8be3c04c58882921d6f7713ba6acf9ab999458e7408539da3d748575f7d"
+    },
+    {
+      "path": "region/r.1.2.mca",
+      "size": 221184,
+      "sha256": "b241d2af9e73314c0ed6e0b5d85fa61a6b0a295bbeffbebb1bf2b7999355e285"
+    },
+    {
+      "path": "session.lock",
+      "size": 3,
+      "sha256": "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+    },
+    {
+      "path": "stats/93d2d469-7e11-4249-9cae-fdbf48b6d703.json",
+      "size": 369,
+      "sha256": "7082c705844bf3d4e824a27382686b1bf0675b7dd0f73afd788a2b4b747013d4"
+    }
+  ]
+}

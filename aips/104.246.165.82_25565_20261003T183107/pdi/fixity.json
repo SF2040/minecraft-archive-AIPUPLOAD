@@ -1,0 +1,45 @@
+{
+  "algorithm": "sha256",
+  "content_file": "content/104.246.165.82_25565.zip",
+  "sha256": "55b80fb44c0b6c362e0757ccfb6c604b890e2f02dec3124e1032fbd303a4f702",
+  "size_bytes": 3065226,
+  "file_count": 7,
+  "content_digest": "32a761b537a8311a012b3477f183cddfc9602efe85ebf47e8b67451abaa5ff90",
+  "inventory": [
+    {
+      "path": "WorldTools/Capture Metadata.md",
+      "size": 363,
+      "sha256": "ba605ac1b3cc1c8fd54c1ceadeddaa4326694b25b023b81139a76a4420476738"
+    },
+    {
+      "path": "entities/r.0.0.mca",
+      "size": 507904,
+      "sha256": "f3e634b31a8c9160e9db3708ffcec62c03306ee500f5eb2ec32d88bac72ec0a2"
+    },
+    {
+      "path": "level.dat",
+      "size": 1322,
+      "sha256": "98ada9b9189e4e782ef27a51a1aee62c9bf7696c91507cb86275cb8ad3f733c5"
+    },
+    {
+      "path": "playerdata/93d2d469-7e11-4249-9cae-fdbf48b6d703.dat",
+      "size": 677,
+      "sha256": "bbfcc7a11a93cf8f6fe55e416cf19391bc11ed9c0b360c11ee570bc7410c7a92"
+    },
+    {
+      "path": "region/r.0.0.mca",
+      "size": 4067328,
+      "sha256": "95ab847d682f58cb36c250cda4d9d74542d3e1db50a331a1b522e1c9a76b99ca"
+    },
+    {
+      "path": "session.lock",
+      "size": 3,
+      "sha256": "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+    },
+    {
+      "path": "stats/93d2d469-7e11-4249-9cae-fdbf48b6d703.json",
+      "size": 366,
+      "sha256": "d367fcb0acb019a2fdfcab7afd8ce25b65d54c21bd9826ffc1a9c69f511d3d78"
+    }
+  ]
+}

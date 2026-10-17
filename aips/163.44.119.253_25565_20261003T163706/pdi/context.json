@@ -1,0 +1,28 @@
+{
+  "why_captured": "Meteor reported a possible player build",
+  "trigger_line": "[16:36:38] [Netty Client IO #3/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X40, Y72, Z-8 (Block{minecraft:stripped_dark_oak_log})",
+  "coordinates": {
+    "x": 40,
+    "y": 72,
+    "z": -8
+  },
+  "meteor_messages_during_visit": [
+    "[16:36:38] (List1)Possible build located near X40, Y72, Z-8 (Block{minecraft:stripped_dark_oak_log})",
+    "[16:36:38] (List1)Possible build located near X40, Y70, Z-24 (Block{minecraft:stripped_dark_oak_log})",
+    "[16:36:38] (List1)Possible build located near X24, Y73, Z-40 (Block{minecraft:stripped_dark_oak_log})",
+    "[16:36:38] (List1)Possible build located near X40, Y70, Z8 (Block{minecraft:cherry_planks})",
+    "[16:36:38] (List1)Possible build located near X40, Y80, Z24 (Block{minecraft:cherry_fence})",
+    "[16:36:39] (List1)Possible build located near X56, Y72, Z-24 (Block{minecraft:stripped_dark_oak_log})",
+    "[16:36:39] (List1)Possible build located near X24, Y73, Z-56 (Block{minecraft:stripped_dark_oak_log})",
+    "[16:36:40] (List1)Possible build located near X56, Y73, Z-40 (Block{minecraft:cherry_door})",
+    "[16:36:40] (List1)Possible build located near X72, Y72, Z-8 (Block{minecraft:stripped_dark_oak_log})",
+    "[16:36:41] (List1)Possible build located near X56, Y73, Z-56 (Block{minecraft:stripped_dark_oak_log})",
+    "[16:36:47] Illegal Boat located near X57.79718526667409, Y69.0, Z-94.38608162279091",
+    "[16:36:56] (List1)Possible build located near X136, Y65, Z8 (Block{minecraft:cherry_planks})",
+    "[16:37:02] (List1)Possible build located near X152, Y65, Z8 (Block{minecraft:cherry_planks})",
+    "[16:37:18] (List1)Possible build located near X216, Y72, Z-56 (Block{minecraft:cherry_wall_sign})",
+    "[16:37:20] (List1)Possible build located near X216, Y72, Z-72 (Block{minecraft:cherry_wall_sign})"
+  ],
+  "country": "JP",
+  "minecraft_version_reported": "1.21.4"
+}

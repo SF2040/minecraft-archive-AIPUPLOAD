@@ -1,0 +1,81 @@
+{
+  "schema": "autoarchiver-aip/1",
+  "aip_id": "129.146.49.166_25565_20251229T225553",
+  "created_utc": "2026-10-17T07:03:10.739405+00:00",
+  "qa_status": "complete",
+  "qa_checks": [
+    {
+      "check": "zip_integrity",
+      "ok": true,
+      "detail": "all members readable"
+    },
+    {
+      "check": "level_dat_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "region_data_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "under_github_file_limit",
+      "ok": true,
+      "detail": "1483352 bytes"
+    },
+    {
+      "check": "capture_metadata_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "worldtools_reported_saved",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no_storage_errors_in_log",
+      "ok": true,
+      "detail": ""
+    }
+  ],
+  "representation_information": "../../docs/representation_information.md",
+  "files": [
+    {
+      "path": "content/129.146.49.166_25565.zip",
+      "size": 1483352,
+      "sha256": "21c4acabd3c1c936706c9ff1bdaabe4eb84a800e5d02da4c83ce9899ea9f8dff"
+    },
+    {
+      "path": "pdi/access_rights.json",
+      "size": 446,
+      "sha256": "d815a800cab9507a55a95061bb11714c27cdb947cd5a1a0e120729ed4927971c"
+    },
+    {
+      "path": "pdi/context.json",
+      "size": 3162,
+      "sha256": "fec668dc973135ffc6cbe87b9d3e424ef680d00b391fe80ade8411e8186951b4"
+    },
+    {
+      "path": "pdi/fixity.json",
+      "size": 1804,
+      "sha256": "5709fb798f691c3f115a28babee59180f1449f8c760643593ff2fded915b5c67"
+    },
+    {
+      "path": "pdi/provenance.json",
+      "size": 2369,
+      "sha256": "8edf7e25ef1b1a97de385c4f02fe1c54617c22798ab280d03ea5a0bd7aeb3b25"
+    },
+    {
+      "path": "pdi/reference.json",
+      "size": 306,
+      "sha256": "d5837671effee3e5f1b7b87748435151ee06ee65a35390b464c9b3873a821a74"
+    },
+    {
+      "path": "pdi/session_log_excerpt.txt",
+      "size": 15922,
+      "sha256": "ea4227af9369c900d3291c16690252507dc804b1367c13bfdace76af28c4e0a3"
+    }
+  ]
+}

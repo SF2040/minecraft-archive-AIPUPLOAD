@@ -1,0 +1,83 @@
+[16:19:11] [Render thread/INFO]: Connecting to 116.202.162.47, 25561
+[16:19:13] [Render thread/INFO]: Loading client level [Wrapped{ClientLevel@e77q80evdcm7u@minecraft:overworld}]-[e77q80evdcm7u@minecraft:overworld].
+[16:19:13] [Render thread/INFO]: Started 1 worker threads
+[16:19:13] [Render thread/INFO]: [STDOUT]: World seems to be a replay. Not loading Baritone cache.
+[16:19:13] [pool-8-thread-40/INFO]: [STDOUT]: Started saving the world in a new thread
+[16:19:13] [ForkJoinPool.commonPool-worker-73/INFO]: [STDOUT]: Saving region -1,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.55.5.218_25567\minecraft\overworld_384\cache
+[16:19:13] [pool-8-thread-40/INFO]: [STDOUT]: Saving region -1,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.55.5.218_25567\minecraft\overworld_384\cache
+[16:19:13] [ForkJoinPool.commonPool-worker-69/INFO]: [STDOUT]: Saving region 0,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.55.5.218_25567\minecraft\overworld_384\cache
+[16:19:13] [Render thread/INFO]: Cleared hot cache
+[16:19:13] [Render thread/INFO]: Client on ClientOnly mode connecting.
+[16:19:13] [Render thread/INFO]: Started DhWorld of type CLIENT_ONLY
+[16:19:13] [Render thread/INFO]: Shutting down PriorityTaskPicker thread pool...
+[16:19:13] [Render thread/INFO]: Loading [1] waiting client level wrappers.
+[16:19:13] [Render thread/INFO]: Loading client level [Wrapped{ClientLevel@e77q80evdcm7u@minecraft:overworld}]-[e77q80evdcm7u@minecraft:overworld].
+[16:19:14] [Render thread/INFO]: Started DHLevel for Wrapped{ClientLevel@e77q80evdcm7u@minecraft:overworld} with saves at [ClientOnlySaveStructure@(C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\e77q80evdcm7u@minecraft@@overworld)]
+[16:19:14] [Render thread/INFO]: Loaded [0] waiting chunk wrappers.
+[16:19:14] [Render thread/INFO]: Stopping worker threads
+[16:19:14] [ForkJoinPool.commonPool-worker-69/INFO]: [STDOUT]: Saved region successfully
+[16:19:14] [ForkJoinPool.commonPool-worker-75/INFO]: [STDOUT]: Saving region 0,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\162.55.5.218_25567\minecraft\overworld_384\cache
+[16:19:14] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
+[16:19:14] [Render thread/INFO]: Started 1 worker threads
+[16:19:14] [Render thread/INFO]: Loading shader with type: [35633]
+[16:19:14] [Render thread/INFO]: Shader loaded sucessfully.
+[16:19:14] [Render thread/INFO]: Loading shader with type: [35632]
+[16:19:14] [Render thread/INFO]: Shader loaded sucessfully.
+[16:19:14] [Render thread/INFO]: Vertex Attribute (GL43+) completed. It contains 1 binding points and a stride size of 12
+[16:19:14] [Render thread/INFO]: Loading shader with type: [35633]
+[16:19:14] [Render thread/INFO]: Shader loaded sucessfully.
+[16:19:14] [Render thread/INFO]: Loading shader with type: [35632]
+[16:19:14] [Render thread/INFO]: Shader loaded sucessfully.
+[16:19:14] [Render thread/INFO]: Vertex Attribute (GL43+) completed. It contains 1 binding points and a stride size of 12
+[16:19:14] [Render thread/INFO]: [STDOUT]: Retrying to load Baritone cache
+[16:19:14] [Render thread/INFO]: [STDOUT]: Baritone world data dir: C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\116.202.162.47_25561\minecraft\overworld_384
+[16:19:14] [ForkJoinPool.commonPool-worker-73/INFO]: [STDOUT]: Saved region successfully
+[16:19:14] [ForkJoinPool.commonPool-worker-75/INFO]: [STDOUT]: Saved region successfully
+[16:19:14] [Render thread/INFO]: Loaded 2 advancements
+[16:19:14] [pool-8-thread-40/INFO]: [STDOUT]: Saved region successfully
+[16:19:14] [pool-8-thread-40/INFO]: [STDOUT]: World save took 136ms
+[16:19:23] [pool-8-thread-30/INFO]: [STDOUT]: World save took 0ms
+[16:19:48] [Render thread/INFO]: Stopping worker threads
+[16:19:48] [Render thread/INFO]: Started 1 worker threads
+[16:19:48] [Render thread/INFO]: [System] [CHAT] [Meteor] Toggled Freecam §aon.
+[16:19:48] [Render thread/INFO]: Cleared hot cache
+[16:19:48] [Render thread/INFO]: [System] [CHAT] [WorldTools] Started capturing 116.202.162.47_25561...
+[16:19:48] [DefaultDispatcher-worker-2/INFO]: Started caching
+[16:19:49] [DefaultDispatcher-worker-4/INFO]: Saved 5 stats.
+[16:19:51] [ForkJoinPool.commonPool-worker-73/INFO]: [STDOUT]: Saving region -1,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\116.202.162.47_25561\minecraft\overworld_384\cache
+[16:19:51] [ForkJoinPool.commonPool-worker-69/INFO]: [STDOUT]: Saving region 0,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\116.202.162.47_25561\minecraft\overworld_384\cache
+[16:19:51] [pool-8-thread-21/INFO]: [STDOUT]: Saving region -1,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\116.202.162.47_25561\minecraft\overworld_384\cache
+[16:19:51] [ForkJoinPool.commonPool-worker-75/INFO]: [STDOUT]: Saving region 0,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\116.202.162.47_25561\minecraft\overworld_384\cache
+[16:19:51] [ForkJoinPool.commonPool-worker-75/INFO]: [STDOUT]: Saved region successfully
+[16:19:51] [pool-8-thread-21/INFO]: [STDOUT]: Saved region successfully
+[16:19:51] [ForkJoinPool.commonPool-worker-69/INFO]: [STDOUT]: Saved region successfully
+[16:19:51] [ForkJoinPool.commonPool-worker-73/INFO]: [STDOUT]: Saved region successfully
+[16:19:51] [pool-8-thread-21/INFO]: [STDOUT]: World save took 102ms
+[16:19:55] [Render thread/INFO]: Stopping worker threads
+[16:19:55] [Render thread/INFO]: Started 1 worker threads
+[16:19:55] [Render thread/INFO]: [System] [CHAT] [Meteor] Toggled Freecam §coff.
+[16:20:52] [Render thread/INFO]: Stopping worker threads
+[16:20:52] [Render thread/INFO]: Started 1 worker threads
+[16:20:52] [Render thread/INFO]: Saving
+[16:20:52] [Render thread/INFO]: Saved in 228 milliseconds.
+[16:20:52] [Render thread/INFO]: Client on ClientOnly mode disconnecting.
+[16:20:52] [level shutdown/INFO]: Shutting down ClientRenderState
+[16:20:52] [level shutdown/INFO]: Shutting down LodQuadTree...
+[16:20:52] [level shutdown/INFO]: Finished shutting down LodQuadTree
+[16:20:52] [level shutdown/INFO]: Closed [DhClientLevel] for [Wrapped{ClientLevel@e77q80evdcm7u@minecraft:overworld}]
+[16:20:52] [Render thread/INFO]: Closed DhWorld of type [CLIENT_ONLY].
+[16:20:52] [Render thread/INFO]: Closed DhWorld of type [CLIENT_ONLY].
+[16:20:52] [Render thread/INFO]: Shutting down PriorityTaskPicker thread pool...
+[16:20:52] [Render thread/INFO]: Closing all [20] database connections...
+[16:20:52] [Render thread/INFO]: Closing database connection: [jdbc:dh_sqlite:C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\e77q80evdcm7u@minecraft@@overworld\DistantHorizons.sqlite]
+[16:20:53] [Render thread/INFO]: Unloading client level [ClientLevelWrapper]-[e77q80evdcm7u@minecraft:overworld].
+[16:20:53] [Render thread/INFO]: Stopping worker threads
+[16:20:54] [DefaultDispatcher-worker-4/INFO]: Saved level data.
+[16:20:54] [DefaultDispatcher-worker-4/INFO]: Saved favicon.
+[16:20:54] [DefaultDispatcher-worker-4/INFO]: Saved capture metadata.
+[16:20:54] [DefaultDispatcher-worker-4/INFO]: Zipping C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\116.202.162.47_25561\. to C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\116.202.162.47_25561-1766996454377.zip
+[16:20:54] [DefaultDispatcher-worker-4/INFO]: Finished zipping C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\116.202.162.47_25561\. with size 4.5 MB to C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\116.202.162.47_25561-1766996454377.zip with size 3.3 MB
+[16:20:54] [DefaultDispatcher-worker-4/INFO]: Canceled caching flow
+[16:20:54] [Render thread/INFO]: [System] [CHAT] [WorldTools] Saved 566 chunks, 263 entities and 1 player in dimension overworld to saves directory 116.202.162.47_25561 (click to open)
+[16:20:55] [DefaultDispatcher-worker-4/INFO]: Cleared hot cache
+[16:20:55] [DefaultDispatcher-worker-4/INFO]: Finished caching

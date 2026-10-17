@@ -1,0 +1,80 @@
+{
+  "algorithm": "sha256",
+  "content_file": "content/162.55.235.169_25560.zip",
+  "sha256": "550ce4507d519cd5735db97f4f3806dbaa7c4fa526b40031d99e05f3868d4564",
+  "size_bytes": 3794429,
+  "file_count": 14,
+  "content_digest": "f621b9d9ec8e50f7ee9977f4dce45e084b6405a3b7ff07ec26b4efc076b2fbaa",
+  "inventory": [
+    {
+      "path": "WorldTools/Capture Metadata.md",
+      "size": 364,
+      "sha256": "01963e4332aa651472a0dab5f15629fca393e7a04a2b9590de8ba178627e0691"
+    },
+    {
+      "path": "entities/r.-1.-1.mca",
+      "size": 57344,
+      "sha256": "a3397d41746e89ee2378ddc05dd6b8d83eb80e1c2a70f9f51dfd1854abdd4dfd"
+    },
+    {
+      "path": "entities/r.-1.0.mca",
+      "size": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "entities/r.0.-1.mca",
+      "size": 532480,
+      "sha256": "f97a50fd04b64c37b4c5c6a6e3a28a5c6f0673c7269c5c211fd587258694737b"
+    },
+    {
+      "path": "entities/r.0.0.mca",
+      "size": 40960,
+      "sha256": "4f1e56f2278ad21745ea9cd3e8c26cb93a76107a3fa72b40444cc0b02150031c"
+    },
+    {
+      "path": "level.dat",
+      "size": 1286,
+      "sha256": "fe9aebb8448aa27a1d17b743e4ec7ac6678a004f3f723b705222dfe12c093253"
+    },
+    {
+      "path": "playerdata/93d2d469-7e11-4249-9cae-fdbf48b6d703.dat",
+      "size": 643,
+      "sha256": "56fa8395f98be51038bec67e3cf890eb272c4f06ede5999e1fb12e7b41c86cc8"
+    },
+    {
+      "path": "playerdata/93d2d469-7e11-4249-9cae-fdbf48b6d703.dat_old",
+      "size": 637,
+      "sha256": "41b3a1a623fe48cc4aa2ed349d71f8e84a2ccfd732d163359c7de8b299c58f75"
+    },
+    {
+      "path": "region/r.-1.-1.mca",
+      "size": 1064960,
+      "sha256": "d54d8714bb64b3c61b54fd1e269ac3288f71b3d947501eba4dec661a26428a4d"
+    },
+    {
+      "path": "region/r.-1.0.mca",
+      "size": 245760,
+      "sha256": "32ffccc66050f5f7e03e8fcb4a11867b455564fc2da5c3f063befe62196d3098"
+    },
+    {
+      "path": "region/r.0.-1.mca",
+      "size": 3055616,
+      "sha256": "2fa1ec3aea43e6a0424c7573c37e118242103415c372c843f769faa62bb95d5d"
+    },
+    {
+      "path": "region/r.0.0.mca",
+      "size": 942080,
+      "sha256": "af6e274574c8bd9269db40dc36e58ef3a1f351ecfbfa8da872047ce5f36efce4"
+    },
+    {
+      "path": "session.lock",
+      "size": 3,
+      "sha256": "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+    },
+    {
+      "path": "stats/93d2d469-7e11-4249-9cae-fdbf48b6d703.json",
+      "size": 582,
+      "sha256": "d2a06a3f9b04a9a30ac829d1007613786906d8d1439f96d7cb6624c4df1d03ed"
+    }
+  ]
+}

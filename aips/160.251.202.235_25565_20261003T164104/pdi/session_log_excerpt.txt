@@ -1,0 +1,44 @@
+[16:40:34] [Render thread/INFO]: Connecting to 160.251.202.235, 25565
+[16:40:36] [Render thread/INFO]: [STDOUT]: World seems to be a replay. Not loading Baritone cache.
+[16:40:36] [Render thread/INFO]: Cleared hot cache
+[16:40:37] [Render thread/INFO]: Loaded 2 advancements
+[16:40:37] [Render thread/INFO]: [STDOUT]: Retrying to load Baritone cache
+[16:40:37] [Render thread/INFO]: [STDOUT]: Baritone world data dir: C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\160.251.202.235_25565\minecraft\overworld_384
+[16:40:37] [Render thread/INFO]: [STDOUT]: Cached world directory: C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\160.251.202.235_25565\minecraft\overworld_384\cache
+[16:40:37] [Render thread/INFO]: [STDOUT]: Would save waypoints to C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\160.251.202.235_25565\minecraft\overworld_384\waypoints
+[16:40:56] [Netty Client IO #4/INFO]: [System] [CHAT] [Meteor] (Open Portal)Possible build located near X120, Y70, Z-216
+[16:41:03] [Render thread/INFO]: [CHAT] [Baritone] > goto 120 70 -216
+[16:41:03] [Render thread/INFO]: [CHAT] [Baritone] Going to: GoalBlock{x=120,y=70,z=-216}
+[16:41:04] [Render thread/INFO]: Cleared hot cache
+[16:41:04] [Render thread/INFO]: [System] [CHAT] [WorldTools] Started capturing 160.251.202.235_25565...
+[16:41:04] [DefaultDispatcher-worker-1/INFO]: Started caching
+[16:41:04] [DefaultDispatcher-worker-1/INFO]: Saved 5 stats.
+[16:41:07] [ForkJoinPool.commonPool-worker-35/INFO]: [STDOUT]: Saving region 0,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\160.251.202.235_25565\minecraft\overworld_384\cache
+[16:41:07] [pool-8-thread-36/INFO]: [STDOUT]: Saving region -1,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\160.251.202.235_25565\minecraft\overworld_384\cache
+[16:41:07] [pool-8-thread-36/INFO]: [STDOUT]: Saved region successfully
+[16:41:07] [ForkJoinPool.commonPool-worker-35/INFO]: [STDOUT]: Saved region successfully
+[16:41:07] [pool-8-thread-36/INFO]: [STDOUT]: World save took 121ms
+[16:41:17] [pool-8-thread-28/INFO]: [STDOUT]: World save took 0ms
+[16:41:45] [Render thread/INFO]: [System] [CHAT] oPrism was slain by Zombie
+[16:41:45] [Render thread/INFO]: [CHAT] [Baritone] Death position saved.
+[16:41:45] [Render thread/INFO]: Loaded 38 advancements
+[16:41:55] [pool-8-thread-25/INFO]: [STDOUT]: World save took 0ms
+[16:42:10] [Render thread/INFO]: Saving
+[16:42:10] [Render thread/INFO]: Saved in 46 milliseconds.
+[16:42:11] [DefaultDispatcher-worker-5/INFO]: Saved level data.
+[16:42:11] [DefaultDispatcher-worker-5/INFO]: Saved favicon.
+[16:42:11] [DefaultDispatcher-worker-5/INFO]: Saved capture metadata.
+[16:42:11] [DefaultDispatcher-worker-5/INFO]: Zipping C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\160.251.202.235_25565\. to C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\160.251.202.235_25565-1791016931503.zip
+[16:42:11] [DefaultDispatcher-worker-5/INFO]: Finished zipping C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\160.251.202.235_25565\. with size 6.0 MB to C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\160.251.202.235_25565-1791016931503.zip with size 4.0 MB
+[16:42:11] [DefaultDispatcher-worker-5/INFO]: Canceled caching flow
+[16:42:11] [DefaultDispatcher-worker-5/INFO]: Cleared hot cache
+[16:42:11] [DefaultDispatcher-worker-5/INFO]: Finished caching
+[16:42:11] [Render thread/INFO]: [System] [CHAT] [WorldTools] Saved 832 chunks, 494 entities, 2 players and 27 containers in dimension overworld to saves directory 160.251.202.235_25565 (click to open)
+[16:42:27] [pool-8-thread-15/INFO]: [STDOUT]: World save took 0ms
+[16:42:27] [pool-8-thread-15/INFO]: [STDOUT]: mc.world unloaded unnoticed! Unloading Baritone cache now.
+[16:42:27] [pool-8-thread-38/INFO]: [STDOUT]: Started saving the world in a new thread
+[16:42:27] [ForkJoinPool.commonPool-worker-35/INFO]: [STDOUT]: Saving region 0,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\160.251.202.235_25565\minecraft\overworld_384\cache
+[16:42:27] [pool-8-thread-38/INFO]: [STDOUT]: Saving region -1,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\160.251.202.235_25565\minecraft\overworld_384\cache
+[16:42:27] [pool-8-thread-38/INFO]: [STDOUT]: Saved region successfully
+[16:42:27] [ForkJoinPool.commonPool-worker-35/INFO]: [STDOUT]: Saved region successfully
+[16:42:27] [pool-8-thread-38/INFO]: [STDOUT]: World save took 223ms

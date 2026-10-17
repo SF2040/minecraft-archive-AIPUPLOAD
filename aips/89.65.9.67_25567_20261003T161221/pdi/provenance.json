@@ -1,0 +1,82 @@
+{
+  "producer": "Auto-Archiver (Python/PyAutoGUI bot driving Minecraft)",
+  "tools": {
+    "minecraft": "1.21.4",
+    "fabric_loader": "0.18.4",
+    "mods": {
+      "baritone-meteor": "1.21.4-SNAPSHOT",
+      "cloth-config": "17.0.144",
+      "distanthorizons": "2.4.5-b",
+      "fabric-api": "0.119.4+1.21.4",
+      "fabric-language-kotlin": "1.13.7+kotlin.2.2.21",
+      "fabricloader": "0.18.4",
+      "immediatelyfast": "1.8.0+1.21.4",
+      "java": "21",
+      "lithium": "0.15.3+mc1.21.4",
+      "meteor-client": "1.21.4-42",
+      "minecraft": "1.21.4",
+      "sodium": "0.6.13+mc1.21.4",
+      "sodium-extra": "0.6.1+mc1.21.4",
+      "streak-addon": "1.4.5",
+      "viafabricplus": "4.0.4",
+      "worldtools": "1.2.8",
+      "session-id-login-mod": "1.2.0"
+    }
+  },
+  "discovery_and_visit": {
+    "processing_started": "2026-10-03 16:11:40",
+    "version": "1.21.4",
+    "country": "PL",
+    "connected": true,
+    "build_detected_line": "[16:11:56] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X72, Y67, Z760 (Block{minecraft:pale_oak_fence})",
+    "coordinates": {
+      "x": 72,
+      "y": 67,
+      "z": 760
+    },
+    "goto_command": "#goto 72 67 760",
+    "download_triggered": true,
+    "python_log_download_timeout": false,
+    "disconnected_at": "2026-10-03 16:12:45"
+  },
+  "capture": {
+    "worldtools_saved": true,
+    "saved": [
+      {
+        "dimension": "overworld",
+        "summary": "230 chunks, 693 entities and 1 player",
+        "chunks": 230,
+        "entities": 693,
+        "players": 1,
+        "containers": 0
+      }
+    ],
+    "capture_metadata_saved": true,
+    "worldtools_zip": {
+      "size_before": "2.3 MB",
+      "size_after": "1.6 MB",
+      "file": "89.65.9.67_25567-1791015164880.zip"
+    },
+    "errors": [
+      "Negative index in crash report handler (13/21)",
+      "An exception occurred while handling a packet | io.netty.channel.StacklessClosedChannelException: null",
+      "An exception occurred while handling a packet | io.netty.channel.StacklessClosedChannelException: null",
+      "An exception occurred while handling a packet | io.netty.channel.StacklessClosedChannelException: null",
+      "An exception occurred while handling a packet | io.netty.channel.StacklessClosedChannelException: null"
+    ]
+  },
+  "custody": [
+    {
+      "event": "captured",
+      "by": "Auto-Archiver",
+      "when_local": "2026-10-03T16:12:21"
+    },
+    {
+      "event": "ingested_into_aip",
+      "by": "build_aip.py",
+      "when_utc": "2026-10-17T07:03:10.739405+00:00",
+      "source": "folder 89.65.9.67_25567"
+    }
+  ],
+  "notes": []
+}

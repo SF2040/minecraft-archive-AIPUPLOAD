@@ -1,0 +1,8 @@
+{
+  "why_captured": "Meteor reported a possible player build",
+  "trigger_line": "[08:43:59] [Netty Client IO #3/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-8, Y-59, Z8 (Block{minecraft:oak_sign})",
+  "coordinates": null,
+  "meteor_messages_during_visit": [],
+  "country": "FR",
+  "minecraft_version_reported": "1.21.4"
+}

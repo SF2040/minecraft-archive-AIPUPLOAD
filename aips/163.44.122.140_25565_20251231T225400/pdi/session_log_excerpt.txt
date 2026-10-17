@@ -1,0 +1,1146 @@
+[22:52:57] [Render thread/INFO]: Connecting to 163.44.122.140, 25565
+[22:53:04] [Render thread/INFO]: Loading client level [Wrapped{ClientLevel@bs97c38u5loje@minecraft:overworld}]-[bs97c38u5loje@minecraft:overworld].
+[22:53:04] [Render thread/INFO]: Started 1 worker threads
+[22:53:04] [Render thread/INFO]: [STDOUT]: World seems to be a replay. Not loading Baritone cache.
+[22:53:04] [Render thread/INFO]: Cleared hot cache
+[22:53:04] [Render thread/INFO]: Client on ClientOnly mode connecting.
+[22:53:04] [Render thread/INFO]: Started DhWorld of type CLIENT_ONLY
+[22:53:04] [Render thread/INFO]: Shutting down PriorityTaskPicker thread pool...
+[22:53:04] [Render thread/INFO]: Loading [1] waiting client level wrappers.
+[22:53:04] [Render thread/INFO]: Loading client level [Wrapped{ClientLevel@bs97c38u5loje@minecraft:overworld}]-[bs97c38u5loje@minecraft:overworld].
+[22:53:04] [pool-8-thread-3/INFO]: [STDOUT]: Started saving the world in a new thread
+[22:53:04] [pool-8-thread-3/INFO]: [STDOUT]: Saving region -1,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\192.9.134.15_25565\minecraft\overworld_384\cache
+[22:53:04] [ForkJoinPool.commonPool-worker-5/INFO]: [STDOUT]: Saving region 0,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\192.9.134.15_25565\minecraft\overworld_384\cache
+[22:53:04] [ForkJoinPool.commonPool-worker-6/INFO]: [STDOUT]: Saving region -1,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\192.9.134.15_25565\minecraft\overworld_384\cache
+[22:53:04] [ForkJoinPool.commonPool-worker-7/INFO]: [STDOUT]: Saving region 0,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\192.9.134.15_25565\minecraft\overworld_384\cache
+[22:53:04] [Render thread/INFO]: Started DHLevel for Wrapped{ClientLevel@bs97c38u5loje@minecraft:overworld} with saves at [ClientOnlySaveStructure@(C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\bs97c38u5loje@minecraft@@overworld)]
+[22:53:04] [Render thread/INFO]: Loaded [0] waiting chunk wrappers.
+[22:53:04] [Render thread/INFO]: Stopping worker threads
+[22:53:04] [ForkJoinPool.commonPool-worker-7/INFO]: [STDOUT]: Saved region successfully
+[22:53:04] [pool-8-thread-3/INFO]: [STDOUT]: Saved region successfully
+[22:53:04] [DH-Full Data Migration Thread[0]/INFO]: No migration necessary.
+[22:53:04] [Render thread/INFO]: Started 1 worker threads
+[22:53:04] [Render thread/INFO]: Loaded 2 advancements
+[22:53:04] [Render thread/INFO]: [STDOUT]: Retrying to load Baritone cache
+[22:53:04] [ForkJoinPool.commonPool-worker-5/INFO]: [STDOUT]: Saved region successfully
+[22:53:04] [Render thread/INFO]: [STDOUT]: Baritone world data dir: C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.122.140_25565\minecraft\overworld_384
+[22:53:04] [Render thread/INFO]: [STDOUT]: Cached world directory: C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.122.140_25565\minecraft\overworld_384\cache
+[22:53:04] [Render thread/INFO]: [STDOUT]: Would save waypoints to C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.122.140_25565\minecraft\overworld_384\waypoints
+[22:53:04] [Render thread/INFO]: Loading shader with type: [35633]
+[22:53:04] [Render thread/INFO]: Shader loaded sucessfully.
+[22:53:04] [Render thread/INFO]: Loading shader with type: [35632]
+[22:53:04] [Render thread/INFO]: Shader loaded sucessfully.
+[22:53:04] [Render thread/INFO]: Vertex Attribute (GL43+) completed. It contains 1 binding points and a stride size of 12
+[22:53:04] [Render thread/INFO]: Loading shader with type: [35633]
+[22:53:04] [Render thread/INFO]: Shader loaded sucessfully.
+[22:53:04] [Render thread/INFO]: Loading shader with type: [35632]
+[22:53:04] [Render thread/INFO]: Shader loaded sucessfully.
+[22:53:04] [Render thread/INFO]: Vertex Attribute (GL43+) completed. It contains 1 binding points and a stride size of 12
+[22:53:04] [ForkJoinPool.commonPool-worker-6/INFO]: [STDOUT]: Saved region successfully
+[22:53:04] [pool-8-thread-3/INFO]: [STDOUT]: World save took 309ms
+[22:53:04] [pool-8-thread-4/INFO]: [STDOUT]: Loading region -1,-1 from disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.122.140_25565\minecraft\overworld_384\cache
+[22:53:04] [pool-8-thread-4/INFO]: [STDOUT]: Loaded region successfully in 178ms
+[22:53:04] [pool-8-thread-4/INFO]: [STDOUT]: Loading region -1,0 from disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.122.140_25565\minecraft\overworld_384\cache
+[22:53:04] [pool-8-thread-4/INFO]: [STDOUT]: Loaded region successfully in 130ms
+[22:53:05] [pool-8-thread-4/INFO]: [STDOUT]: Loading region 0,-1 from disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.122.140_25565\minecraft\overworld_384\cache
+[22:53:06] [pool-8-thread-4/INFO]: [STDOUT]: Loaded region successfully in 57ms
+[22:53:06] [pool-8-thread-4/INFO]: [STDOUT]: Loading region 0,0 from disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.122.140_25565\minecraft\overworld_384\cache
+[22:53:06] [pool-8-thread-4/INFO]: [STDOUT]: Loaded region successfully in 118ms
+[22:53:34] [ForkJoinPool.commonPool-worker-5/INFO]: [STDOUT]: Saving region 0,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.122.140_25565\minecraft\overworld_384\cache
+[22:53:34] [ForkJoinPool.commonPool-worker-7/INFO]: [STDOUT]: Saving region -1,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.122.140_25565\minecraft\overworld_384\cache
+[22:53:34] [pool-8-thread-5/INFO]: [STDOUT]: Saving region -1,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.122.140_25565\minecraft\overworld_384\cache
+[22:53:34] [ForkJoinPool.commonPool-worker-6/INFO]: [STDOUT]: Saving region 0,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.122.140_25565\minecraft\overworld_384\cache
+[22:53:34] [ForkJoinPool.commonPool-worker-5/INFO]: [STDOUT]: Saved region successfully
+[22:53:34] [ForkJoinPool.commonPool-worker-6/INFO]: [STDOUT]: Saved region successfully
+[22:53:34] [pool-8-thread-5/INFO]: [STDOUT]: Saved region successfully
+[22:53:34] [ForkJoinPool.commonPool-worker-7/INFO]: [STDOUT]: Saved region successfully
+[22:53:34] [pool-8-thread-5/INFO]: [STDOUT]: World save took 85ms
+[22:53:56] [Render thread/WARN]: Unable to play empty soundEvent: minecraft:entity.salmon.ambient
+[22:53:59] [Render thread/INFO]: [System] [CHAT] [Meteor] Toggled Flight §aon.
+[22:54:00] [Render thread/INFO]: Cleared hot cache
+[22:54:00] [Render thread/INFO]: [System] [CHAT] [WorldTools] Started capturing 163.44.122.140_25565...
+[22:54:00] [DefaultDispatcher-worker-1/INFO]: Started caching
+[22:54:02] [DefaultDispatcher-worker-2/INFO]: Saved 9 stats.
+[22:54:27] [Render thread/INFO]: Stopping worker threads
+[22:54:27] [Render thread/INFO]: Started 1 worker threads
+[22:54:27] [Render thread/INFO]: Saving
+[22:54:27] [Render thread/INFO]: Saved in 286 milliseconds.
+[22:54:27] [Render thread/INFO]: Client on ClientOnly mode disconnecting.
+[22:54:27] [level shutdown/INFO]: Shutting down ClientRenderState
+[22:54:27] [level shutdown/INFO]: Shutting down LodQuadTree...
+[22:54:27] [level shutdown/INFO]: Finished shutting down LodQuadTree
+[22:54:27] [level shutdown/INFO]: Closed [DhClientLevel] for [Wrapped{ClientLevel@bs97c38u5loje@minecraft:overworld}]
+[22:54:27] [Render thread/INFO]: Closed DhWorld of type [CLIENT_ONLY].
+[22:54:27] [Render thread/INFO]: Closed DhWorld of type [CLIENT_ONLY].
+[22:54:27] [Render thread/INFO]: Shutting down PriorityTaskPicker thread pool...
+[22:54:27] [Render thread/INFO]: Closing all [2] database connections...
+[22:54:27] [Render thread/INFO]: Closing database connection: [jdbc:dh_sqlite:C:\Users\<redacted>\AppData\Roaming\.minecraft\Distant_Horizons_server_data\Minecraft+Server\bs97c38u5loje@minecraft@@overworld\DistantHorizons.sqlite]
+[22:54:28] [Render thread/INFO]: Unloading client level [ClientLevelWrapper]-[bs97c38u5loje@minecraft:overworld].
+[22:54:28] [Render thread/INFO]: Stopping worker threads
+[22:54:29] [DefaultDispatcher-worker-1/INFO]: Saved level data.
+[22:54:29] [DefaultDispatcher-worker-1/INFO]: Saved favicon.
+[22:54:29] [DefaultDispatcher-worker-1/INFO]: Saved capture metadata.
+[22:54:29] [DefaultDispatcher-worker-1/INFO]: Zipping C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\163.44.122.140_25565\. to C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\163.44.122.140_25565-1767192869789.zip
+[22:54:30] [DefaultDispatcher-worker-1/INFO]: Finished zipping C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\163.44.122.140_25565\. with size 4.4 MB to C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\163.44.122.140_25565-1767192869789.zip with size 3.1 MB
+[22:54:30] [DefaultDispatcher-worker-1/INFO]: Canceled caching flow
+[22:54:30] [Render thread/INFO]: [System] [CHAT] [WorldTools] Saved 534 chunks, 217 entities and 1 player in dimension overworld to saves directory 163.44.122.140_25565 (click to open)
+[22:54:30] [DefaultDispatcher-worker-1/INFO]: Cleared hot cache
+[22:54:30] [DefaultDispatcher-worker-1/INFO]: Finished caching
+[22:54:52] [Render thread/INFO]: Stopping!
+[22:54:52] [Thread-15/INFO]: Saving
+[22:56:39] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:56:40] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:56:40] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[22:56:40] [main/INFO]: Forge Mod Loader version 11.15.1.2318 for Minecraft 1.8.9 loading
+[22:56:40] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\<redacted>\AppData\Local\Packages\Microsoft.4297127D64EC6_8wekyb3d8bbwe\LocalCache\Local\runtime\jre-legacy\windows-x64\jre-legacy
+[22:56:40] [main/INFO]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.8.9_HD_U_M5_MOD.jar
+[22:56:40] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:56:40] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[22:56:40] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:56:40] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:56:40] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:56:40] [main/INFO]: Calling tweak class optifine.OptiFineForgeTweaker
+[22:56:40] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[22:56:40] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[22:56:40] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ClassTransformer
+[22:56:40] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ZIP file: C:\Users\<redacted>\AppData\Roaming\.minecraft\mods\OptiFine_1.8.9_HD_U_M5_MOD.jar
+[22:56:40] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:56:42] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:56:42] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[22:56:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:56:42] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:56:43] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:56:43] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:56:43] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[22:56:43] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[22:56:43] [Client thread/INFO]: Setting user: oPrism
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.attack:key.mouse.left
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.mouse.left"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.use:key.mouse.right
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.mouse.right"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.forward:key.keyboard.w
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.w"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.left:key.keyboard.a
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.a"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.back:key.keyboard.s
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.s"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.right:key.keyboard.d
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.d"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.jump:key.keyboard.space
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.space"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.sneak:key.keyboard.left.shift
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.left.shift"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.sprint:key.keyboard.left.control
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.left.control"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.drop:key.keyboard.q
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.q"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.inventory:key.keyboard.e
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.e"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.chat:key.keyboard.t
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.t"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.playerlist:key.keyboard.tab
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.tab"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.pickItem:key.mouse.middle
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.mouse.middle"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.command:key.keyboard.slash
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.slash"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.screenshot:key.keyboard.f2
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.f2"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.togglePerspective:key.keyboard.f5
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.f5"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.smoothCamera:key.keyboard.unknown
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.unknown"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.fullscreen:key.keyboard.f11
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.f11"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.spectatorOutlines:key.keyboard.unknown
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.unknown"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.hotbar.1:key.keyboard.1
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.1"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.hotbar.2:key.keyboard.2
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.2"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.hotbar.3:key.keyboard.3
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.3"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.hotbar.4:key.keyboard.4
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.4"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.hotbar.5:key.keyboard.5
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.5"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.hotbar.6:key.keyboard.6
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.6"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.hotbar.7:key.keyboard.7
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.7"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.hotbar.8:key.keyboard.8
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.8"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/WARN]: Skipping bad option: key_key.hotbar.9:key.keyboard.9
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.9"
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.<init>(GameSettings.java:341)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:395)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:56:48] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:56:48] [Client thread/INFO]: [OptiFine] *** Reflector Forge ***
+[22:56:48] [Client thread/INFO]: [OptiFine] *** Reflector Vanilla ***
+[22:56:49] [Client thread/INFO]: LWJGL Version: 2.9.4
+[22:56:49] [Client thread/INFO]: [OptiFine] 
+[22:56:49] [Client thread/INFO]: [OptiFine] OptiFine_1.8.9_HD_U_M5
+[22:56:49] [Client thread/INFO]: [OptiFine] Build: 20210124-163719
+[22:56:49] [Client thread/INFO]: [OptiFine] OS: Windows 10 (amd64) version 10.0
+[22:56:49] [Client thread/INFO]: [OptiFine] Java: 1.8.0_51, Oracle Corporation
+[22:56:49] [Client thread/INFO]: [OptiFine] VM: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+[22:56:49] [Client thread/INFO]: [OptiFine] LWJGL: 2.9.4
+[22:56:49] [Client thread/INFO]: [OptiFine] OpenGL: NVIDIA GeForce GT 710/PCIe/SSE2, version 4.6.0 NVIDIA 475.14, NVIDIA Corporation
+[22:56:49] [Client thread/INFO]: [OptiFine] OpenGL Version: 4.6.0
+[22:56:49] [Client thread/INFO]: [OptiFine] Maximum texture size: 16384x16384
+[22:56:49] [VersionCheck/INFO]: [OptiFine] Checking for new version
+[22:56:49] [Client thread/INFO]: [Shaders] OpenGL Version: 4.6.0 NVIDIA 475.14
+[22:56:49] [Client thread/INFO]: [Shaders] Vendor:  NVIDIA Corporation
+[22:56:49] [Client thread/INFO]: [Shaders] Renderer: NVIDIA GeForce GT 710/PCIe/SSE2
+[22:56:49] [Client thread/INFO]: [Shaders] Capabilities:  2.0  2.1  3.0  3.2  4.0 
+[22:56:49] [Client thread/INFO]: [Shaders] GL_MAX_DRAW_BUFFERS: 8
+[22:56:49] [Client thread/INFO]: [Shaders] GL_MAX_COLOR_ATTACHMENTS_EXT: 8
+[22:56:49] [Client thread/INFO]: [Shaders] GL_MAX_TEXTURE_IMAGE_UNITS: 32
+[22:56:49] [Client thread/INFO]: [Shaders] Load shaders configuration.
+[22:56:50] [Client thread/INFO]: [Shaders] No shaderpack loaded.
+[22:56:50] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of block mappings after resources are loaded
+[22:56:50] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of item mappings after resources are loaded
+[22:56:50] [Client thread/INFO]: [OptiFine] [Shaders] Delayed loading of entity mappings after resources are loaded
+[22:56:50] [Client thread/WARN]: =============================================================
+[22:56:50] [Client thread/WARN]: MOD HAS DIRECT REFERENCE System.exit() THIS IS NOT ALLOWED REROUTING TO FML!
+[22:56:50] [Client thread/WARN]: Offendor: com/sun/jna/Native.main([Ljava/lang/String;)V
+[22:56:50] [Client thread/WARN]: Use FMLCommonHandler.exitJava instead
+[22:56:50] [Client thread/WARN]: =============================================================
+[22:56:50] [VersionCheck/INFO]: [OptiFine] Version found: M5
+[22:56:50] [Client thread/INFO]: Forge Mod Loader has detected optifine OptiFine_1.8.9_HD_U_M5, enabling compatibility features
+[22:56:50] [Client thread/INFO]: [net.minecraftforge.fml.client.SplashProgress:start:246]: ---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+Contact their authors BEFORE contacting forge
+
+// Hi. I'm Minecraft, and I'm a crashaholic.
+
+Time: 31/12/25 10:56 PM
+Description: Loading screen debug info
+	... (19 more lines)
+[22:56:50] [Client thread/INFO]: MinecraftForge v11.15.1.2318 Initialized
+[22:56:50] [Client thread/INFO]: Replaced 229 ore recipies
+[22:56:51] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[22:56:51] [Client thread/INFO]: Searching C:\Users\<redacted>\AppData\Roaming\.minecraft\mods for mods
+[22:56:52] [Client thread/INFO]: Forge Mod Loader has identified 3 mods to load
+[22:56:52] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge] at CLIENT
+[22:56:52] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge] at SERVER
+[22:56:53] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[22:56:53] [Client thread/INFO]: Processing ObjectHolder annotations
+[22:56:53] [Client thread/INFO]: Found 384 ObjectHolder annotations
+[22:56:53] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[22:56:53] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[22:56:53] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[22:56:53] [Client thread/INFO]: Applying holder lookups
+[22:56:53] [Client thread/INFO]: Holder lookups applied
+[22:56:53] [Client thread/INFO]: Injecting itemstacks
+[22:56:53] [Client thread/INFO]: Itemstack injection complete
+[22:56:53] [Forge Version Check/INFO]: [Forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:56:53] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[22:56:53] [Client thread/INFO]: [OptiFine] Resource packs: Default
+[22:56:53] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:56:54] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[22:56:54] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:56:54] [Thread-9/INFO]: OpenAL initialized.
+[22:56:54] [Sound Library Loader/INFO]: Sound engine started
+[22:56:56] [Client thread/INFO]: [OptiFine] Mipmap levels: 4
+[22:56:56] [Client thread/INFO]: [OptiFine] Multitexture: false
+[22:56:57] [Client thread/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[22:56:57] [Client thread/INFO]: Created: 16x16 textures-atlas
+[22:56:57] [Client thread/INFO]: [OptiFine] Animated sprites: 0
+[22:56:58] [Client thread/INFO]: Injecting itemstacks
+[22:56:58] [Client thread/INFO]: Itemstack injection complete
+[22:56:58] [Client thread/INFO]: Forge Mod Loader has successfully loaded 3 mods
+[22:56:58] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[22:56:58] [Client thread/INFO]: [OptiFine] *** Reloading textures ***
+[22:56:58] [Client thread/INFO]: [OptiFine] Resource packs: Default
+[22:56:58] [Client thread/INFO]: SoundSystem shutting down...
+[22:56:58] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[22:56:58] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[22:56:58] [Thread-11/INFO]: Initializing LWJGL OpenAL
+[22:56:58] [Thread-11/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:56:58] [Thread-11/INFO]: OpenAL initialized.
+[22:56:59] [Sound Library Loader/INFO]: Sound engine started
+[22:57:00] [Client thread/INFO]: [OptiFine] Mipmap levels: 4
+[22:57:00] [Client thread/INFO]: [OptiFine] Multitexture: false
+[22:57:00] [Client thread/INFO]: [OptiFine] BetterGrass: Parsing default configuration optifine/bettergrass.properties
+[22:57:01] [Client thread/INFO]: [OptiFine] Custom loader sprites: 1
+[22:57:01] [Client thread/INFO]: [OptiFine] Custom loader sprites (skipped): 1
+[22:57:01] [Client thread/INFO]: Created: 512x512 textures-atlas
+[22:57:01] [Client thread/INFO]: [OptiFine] Animated sprites: 11
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.attack:key.mouse.left
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.mouse.left"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.use:key.mouse.right
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.mouse.right"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.forward:key.keyboard.w
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.w"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.left:key.keyboard.a
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.a"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.back:key.keyboard.s
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.s"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.right:key.keyboard.d
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.d"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.jump:key.keyboard.space
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.space"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.sneak:key.keyboard.left.shift
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.left.shift"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.sprint:key.keyboard.left.control
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.left.control"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.drop:key.keyboard.q
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.q"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.inventory:key.keyboard.e
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.e"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.chat:key.keyboard.t
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.t"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.playerlist:key.keyboard.tab
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.tab"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.pickItem:key.mouse.middle
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.mouse.middle"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.command:key.keyboard.slash
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.slash"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.screenshot:key.keyboard.f2
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.f2"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.togglePerspective:key.keyboard.f5
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.f5"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.smoothCamera:key.keyboard.unknown
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.unknown"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.fullscreen:key.keyboard.f11
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.f11"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.spectatorOutlines:key.keyboard.unknown
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.unknown"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.hotbar.1:key.keyboard.1
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.1"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.hotbar.2:key.keyboard.2
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.2"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.hotbar.3:key.keyboard.3
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.3"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.hotbar.4:key.keyboard.4
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.4"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.hotbar.5:key.keyboard.5
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.5"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.hotbar.6:key.keyboard.6
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.6"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.hotbar.7:key.keyboard.7
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.7"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.hotbar.8:key.keyboard.8
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.8"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:01] [Client thread/WARN]: Skipping bad option: key_key.hotbar.9:key.keyboard.9
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: java.lang.NumberFormatException: For input string: "key.keyboard.9"
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.NumberFormatException.forInputString(NumberFormatException.java:65)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:580)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.Integer.parseInt(Integer.java:615)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.settings.GameSettings.func_74300_a(GameSettings.java:1240)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraftforge.fml.client.FMLClientHandler.finishMinecraftLoading(FMLClientHandler.java:349)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:495)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:329)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.client.main.Main.main(SourceFile:124)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at java.lang.reflect.Method.invoke(Method.java:497)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+[22:57:01] [Client thread/INFO]: [net.minecraft.client.settings.GameSettings:func_74300_a:1264]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[22:57:02] [Client thread/INFO]: [OptiFine] (Reflector) Class not present: mods.betterfoliage.client.BetterFoliageClient
+[22:57:02] [Client thread/INFO]: [OptiFine] *** Reloading custom textures ***
+[22:57:02] [Client thread/INFO]: [OptiFine] Enable face culling: acacia_leaves, birch_leaves, dark_oak_leaves, jungle_leaves, oak_leaves, spruce_leaves
+[22:58:06] [Netty Client IO #3/INFO]: Attempting connection with missing mods [mcp, FML, Forge] at SERVER
+[22:58:06] [Netty Client IO #4/INFO]: Attempting connection with missing mods [mcp, FML, Forge] at SERVER
+[22:58:08] [Client thread/WARN]: Unable to start LAN server detection: maximum number of DatagramSockets reached
+[22:58:08] [Netty Client IO #4/INFO]: Attempting connection with missing mods [mcp, FML, Forge] at SERVER
+[22:58:08] [Netty Client IO #0/INFO]: Attempting connection with missing mods [mcp, FML, Forge] at SERVER
+[22:58:08] [Netty Client IO #3/INFO]: Attempting connection with missing mods [mcp, FML, Forge] at SERVER

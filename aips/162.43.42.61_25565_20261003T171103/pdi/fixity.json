@@ -1,0 +1,85 @@
+{
+  "algorithm": "sha256",
+  "content_file": "content/162.43.42.61_25565.zip",
+  "sha256": "fada405ce615eae533f2012cf24f9f17716356ded846c3bfe7ba1f70b3ad7104",
+  "size_bytes": 4247941,
+  "file_count": 15,
+  "content_digest": "543224e8993f45eaf4aa0142262438df542a1bff9c17f4f76d7b7ce1dc0145f4",
+  "inventory": [
+    {
+      "path": "WorldTools/Dimension Tree.txt",
+      "size": 72,
+      "sha256": "b9f0c4e0d35b7725c10786a19d7e3d1f0be2bf7e14f576fb555b17fb98c9513f"
+    },
+    {
+      "path": "WorldTools/Player Entry List.csv",
+      "size": 970,
+      "sha256": "4bff7cacc36e78ff018bb442800351cb7330e66ede6b44b44ee1f995dfd9a3a6"
+    },
+    {
+      "path": "advancements/93d2d469-7e11-4249-9cae-fdbf48b6d703.json",
+      "size": 298,
+      "sha256": "98b44433a27bebcbb1ffddbbc65552fe4fb6f98b1d0a4dd3d0f7925a3fb7e3c0"
+    },
+    {
+      "path": "entities/r.-1.-1.mca",
+      "size": 61440,
+      "sha256": "144ed1fa5180772c767f3519fc0411e02cb987b8adf78031e8b14f54ee6e9f67"
+    },
+    {
+      "path": "entities/r.-1.0.mca",
+      "size": 81920,
+      "sha256": "708cd55c94aea09cadbc28b965da4d5152490e834e8384921044b2888b53e598"
+    },
+    {
+      "path": "entities/r.0.-1.mca",
+      "size": 241664,
+      "sha256": "122bb22deef9dd09af82dbd6ffad462ac76e70f727016c38ea899a2bbb462bd5"
+    },
+    {
+      "path": "entities/r.0.0.mca",
+      "size": 192512,
+      "sha256": "2a8f6e106e2a23893bb43320c4fb6e928f2ef6e705a17834c4b52c28cc3cbac2"
+    },
+    {
+      "path": "level.dat",
+      "size": 1295,
+      "sha256": "a5440d9c52b36b0aeca1ca8017f67430b41f6e2daf3431197226d7f0f22dd508"
+    },
+    {
+      "path": "playerdata/93d2d469-7e11-4249-9cae-fdbf48b6d703.dat",
+      "size": 641,
+      "sha256": "d1eae1249f446a085a6bf19b454ffcf0c42ee191194deef892d936b15042eebe"
+    },
+    {
+      "path": "region/r.-1.-1.mca",
+      "size": 770048,
+      "sha256": "79c09b705cbaea9877e4028a2d4a04ab57cf8a77f58e818211843e8c2241b43b"
+    },
+    {
+      "path": "region/r.-1.0.mca",
+      "size": 843776,
+      "sha256": "dd247340a8350dd0c7e0187be28bed379bd7ac8909856045784e5b656089a3b1"
+    },
+    {
+      "path": "region/r.0.-1.mca",
+      "size": 1912832,
+      "sha256": "2181d9fdcfd0fb594c997f7607c93974a277c9a62dac9d98c31ee9367ebcd377"
+    },
+    {
+      "path": "region/r.0.0.mca",
+      "size": 2011136,
+      "sha256": "dd3230a3748e6fc8ca111614e423cb151ee966535ddbc08ad2a3cb8d6261f4d1"
+    },
+    {
+      "path": "session.lock",
+      "size": 3,
+      "sha256": "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+    },
+    {
+      "path": "stats/93d2d469-7e11-4249-9cae-fdbf48b6d703.json",
+      "size": 401,
+      "sha256": "3493c10623aa2f9705a3ab3ef3f24267fa1174f7637dd6b52d498937265c2485"
+    }
+  ]
+}

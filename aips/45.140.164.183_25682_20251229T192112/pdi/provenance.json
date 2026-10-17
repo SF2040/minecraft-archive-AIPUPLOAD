@@ -1,0 +1,74 @@
+{
+  "producer": "Auto-Archiver (Python/PyAutoGUI bot driving Minecraft)",
+  "tools": {
+    "minecraft": "1.21.4",
+    "fabric_loader": "0.18.4",
+    "mods": {
+      "baritone-meteor": "1.21.4-SNAPSHOT",
+      "cloth-config": "17.0.144",
+      "distanthorizons": "2.4.5-b",
+      "fabric-api": "0.119.4+1.21.4",
+      "fabric-language-kotlin": "1.13.7+kotlin.2.2.21",
+      "fabricloader": "0.18.4",
+      "immediatelyfast": "1.8.0+1.21.4",
+      "java": "21",
+      "lithium": "0.15.3+mc1.21.4",
+      "meteor-client": "1.21.4-42",
+      "minecraft": "1.21.4",
+      "sodium": "0.6.13+mc1.21.4",
+      "sodium-extra": "0.6.1+mc1.21.4",
+      "streak-addon": "1.4.5",
+      "viafabricplus": "4.0.4",
+      "worldtools": "1.2.8",
+      "session-id-login-mod": "1.2.0"
+    }
+  },
+  "discovery_and_visit": {
+    "processing_started": "2025-12-29 19:20:34",
+    "version": "1.21.4",
+    "country": "FR",
+    "connected": true,
+    "build_detected_line": "[19:20:51] [Render thread/INFO]: [System] [CHAT] [Meteor] Illegal amount of entities located near X8, Z8",
+    "coordinates": null,
+    "goto_command": null,
+    "download_triggered": true,
+    "python_log_download_timeout": true,
+    "disconnected_at": "2025-12-29 19:22:14"
+  },
+  "capture": {
+    "worldtools_saved": true,
+    "saved": [
+      {
+        "dimension": "overworld",
+        "summary": "457 chunks, 414 entities and 1 player",
+        "chunks": 457,
+        "entities": 414,
+        "players": 1,
+        "containers": 0
+      }
+    ],
+    "capture_metadata_saved": true,
+    "worldtools_zip": {
+      "size_before": "4.0 MB",
+      "size_after": "2.6 MB",
+      "file": "45.140.164.183_25682-1767007338338.zip"
+    },
+    "errors": []
+  },
+  "custody": [
+    {
+      "event": "captured",
+      "by": "Auto-Archiver",
+      "when_local": "2025-12-29T19:21:12"
+    },
+    {
+      "event": "ingested_into_aip",
+      "by": "build_aip.py",
+      "when_utc": "2026-10-17T07:03:10.739405+00:00",
+      "source": "folder 45.140.164.183_25682"
+    }
+  ],
+  "notes": [
+    "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+  ]
+}

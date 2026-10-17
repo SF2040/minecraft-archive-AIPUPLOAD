@@ -1,0 +1,75 @@
+{
+  "algorithm": "sha256",
+  "content_file": "content/123.192.16.226_25567.zip",
+  "sha256": "3a33d6c67abde7dbe903cac5d4ecda66ff9d40570b516374f59223a4886b52b3",
+  "size_bytes": 4927816,
+  "file_count": 13,
+  "content_digest": "d3b6f099104ea4f4f41c1268d4b4f636802e5814f9429c11df1fd70acb0523cd",
+  "inventory": [
+    {
+      "path": "WorldTools/Capture Metadata.md",
+      "size": 363,
+      "sha256": "188be96a89d093206f65bb4ba8aa3afd0281c89bc8b7894fd8f0e779de3eb405"
+    },
+    {
+      "path": "entities/r.-1.-1.mca",
+      "size": 70458,
+      "sha256": "517de9945629b4f14e95b48f0678db3014ceab24f81514e3320dc45b07a5ad9e"
+    },
+    {
+      "path": "entities/r.-1.0.mca",
+      "size": 123175,
+      "sha256": "f121f2b97a8cbf51675bbaaebfca18a18f257afaa7e75e6833eb789c743f6af3"
+    },
+    {
+      "path": "entities/r.0.-1.mca",
+      "size": 201424,
+      "sha256": "916eb6f9bd88ed5f24ff314c6ea8e30141a4117afcd3640aeb38058960250788"
+    },
+    {
+      "path": "entities/r.0.0.mca",
+      "size": 247056,
+      "sha256": "2839096f3eb67c9553749115101662afbe6d40150353ff2963ac11264e1a7dcf"
+    },
+    {
+      "path": "level.dat",
+      "size": 1406,
+      "sha256": "8444e7c92d2cd9ea745b4bace88bf139aa5482577f114c21371c5dc31ff0f056"
+    },
+    {
+      "path": "playerdata/93d2d469-7e11-4249-9cae-fdbf48b6d703.dat",
+      "size": 766,
+      "sha256": "8d071f12269012c56c7dcf60a8eb40abfb3b30b4913077441d2cc40689318481"
+    },
+    {
+      "path": "playerdata/93d2d469-7e11-4249-9cae-fdbf48b6d703.dat_old",
+      "size": 769,
+      "sha256": "4cbeb1cec3ae4bfce313e9f5bc37fa3cb18335749c7f5c7e126aa37f3654109b"
+    },
+    {
+      "path": "region/r.-1.-1.mca",
+      "size": 926155,
+      "sha256": "472d789178e23c711b995fdcccb6180f38d4b12d1fcfd308f8d1b81d9fd806df"
+    },
+    {
+      "path": "region/r.-1.0.mca",
+      "size": 872031,
+      "sha256": "8d57668abce9d19683326de9488f07dc48a35ae8715a23cd23c3c4633a5fee20"
+    },
+    {
+      "path": "region/r.0.-1.mca",
+      "size": 1579654,
+      "sha256": "33ccfe8a602a448e9a626278197dbcd816d26e7e8bb418847017baad80e9071f"
+    },
+    {
+      "path": "region/r.0.0.mca",
+      "size": 2464039,
+      "sha256": "c0828f4a438df3a2f8e08ffc2f811da9751df5fffa2d4a8ff0146a17425885ff"
+    },
+    {
+      "path": "stats/93d2d469-7e11-4249-9cae-fdbf48b6d703.json",
+      "size": 1200,
+      "sha256": "d193fdc263b75af15e0ace0a8378ba38253f2aa868c5f2ba86f628e86013bacb"
+    }
+  ]
+}

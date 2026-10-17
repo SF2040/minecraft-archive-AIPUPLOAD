@@ -1,0 +1,42 @@
+{
+  "why_captured": "Meteor reported a possible player build",
+  "trigger_line": "[16:45:09] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (Skybuild)Possible build located near X-104, Y261, Z120",
+  "coordinates": {
+    "x": -104,
+    "y": 261,
+    "z": 120
+  },
+  "meteor_messages_during_visit": [
+    "[16:45:09] (Skybuild)Possible build located near X-104, Y261, Z120",
+    "[16:45:14] (Skybuild)Possible build located near X-120, Y261, Z120",
+    "[16:45:15] (Bubble Column)Possible build located near X72, Y-54, Z168",
+    "[16:45:17] (Skybuild)Possible build located near X-136, Y261, Z120",
+    "[16:45:18] (Skybuild)Possible build located near X-184, Y261, Z24",
+    "[16:45:19] (Skybuild)Possible build located near X-184, Y261, Z40",
+    "[16:45:19] (Skybuild)Possible build located near X-184, Y261, Z56",
+    "[16:45:21] (Skybuild)Possible build located near X-136, Y261, Z152",
+    "[16:45:22] (Skybuild)Possible build located near X-184, Y261, Z72",
+    "[16:45:22] (Skybuild)Possible build located near X-184, Y261, Z88",
+    "[16:45:24] (List1)Possible build located near X-136, Y69, Z168 (Block{minecraft:stripped_birch_log})",
+    "[16:45:24] (List1)Possible build located near X-120, Y63, Z184 (Block{minecraft:spruce_sapling})",
+    "[16:45:27] (List1)Possible build located near X-136, Y69, Z184 (Block{minecraft:stripped_birch_log})",
+    "[16:45:29] (List1)Possible build located near X-104, Y73, Z216 (Block{minecraft:cherry_stairs})",
+    "[16:45:30] Item Frame located near X-97.5, Y65.5, Z201.96875",
+    "[16:45:30] Item Frame located near X-97.5, Y64.5, Z201.96875",
+    "[16:45:30] Item Frame located near X-98.5, Y65.5, Z201.96875",
+    "[16:45:30] Item Frame located near X-98.5, Y66.5, Z201.96875",
+    "[16:45:30] Item Frame located near X-98.5, Y64.5, Z201.96875",
+    "[16:45:30] Item Frame located near X-99.5, Y65.5, Z201.96875",
+    "[16:45:30] Item Frame located near X-99.5, Y66.5, Z201.96875",
+    "[16:45:30] Item Frame located near X-99.5, Y64.5, Z201.96875",
+    "[16:45:30] Item Frame located near X-100.5, Y65.5, Z201.96875",
+    "[16:45:30] Item Frame located near X-100.5, Y64.5, Z201.96875",
+    "[16:45:32] (List1)Possible build located near X-88, Y76, Z232 (Block{minecraft:enchanting_table})",
+    "[16:45:36] (List1)Possible build located near X-88, Y74, Z248 (Block{minecraft:cherry_stairs})",
+    "[16:45:38] (Open Portal)Possible build located near X-104, Y-53, Z248",
+    "[16:45:38] (List1)Possible build located near X-152, Y63, Z232 (Block{minecraft:stripped_dark_oak_log})",
+    "[16:45:50] (List1)Possible build located near X-56, Y67, Z296 (Block{minecraft:cherry_sapling})"
+  ],
+  "country": "JP",
+  "minecraft_version_reported": "1.21.4"
+}

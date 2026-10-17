@@ -1,0 +1,98 @@
+[16:44:32] [Render thread/INFO]: Connecting to 163.44.101.7, 25565
+[16:44:35] [Render thread/INFO]: [STDOUT]: World seems to be a replay. Not loading Baritone cache.
+[16:44:35] [Render thread/INFO]: Cleared hot cache
+[16:44:35] [Render thread/INFO]: Loaded 2 advancements
+[16:44:35] [Render thread/INFO]: [STDOUT]: Retrying to load Baritone cache
+[16:44:35] [Render thread/INFO]: [STDOUT]: Baritone world data dir: C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.101.7_25565\minecraft\overworld_384
+[16:44:35] [Render thread/INFO]: [STDOUT]: Cached world directory: C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.101.7_25565\minecraft\overworld_384\cache
+[16:44:35] [Render thread/INFO]: [STDOUT]: Would save waypoints to C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.101.7_25565\minecraft\overworld_384\waypoints
+[16:45:05] [ForkJoinPool.commonPool-worker-34/INFO]: [STDOUT]: Saving region 0,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.101.7_25565\minecraft\overworld_384\cache
+[16:45:05] [ForkJoinPool.commonPool-worker-37/INFO]: [STDOUT]: Saving region -1,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.101.7_25565\minecraft\overworld_384\cache
+[16:45:05] [pool-8-thread-41/INFO]: [STDOUT]: Saving region -1,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.101.7_25565\minecraft\overworld_384\cache
+[16:45:05] [ForkJoinPool.commonPool-worker-38/INFO]: [STDOUT]: Saving region 0,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.101.7_25565\minecraft\overworld_384\cache
+[16:45:05] [ForkJoinPool.commonPool-worker-37/INFO]: [STDOUT]: Saved region successfully
+[16:45:06] [ForkJoinPool.commonPool-worker-34/INFO]: [STDOUT]: Saved region successfully
+[16:45:06] [ForkJoinPool.commonPool-worker-38/INFO]: [STDOUT]: Saved region successfully
+[16:45:06] [pool-8-thread-41/INFO]: [STDOUT]: Saved region successfully
+[16:45:06] [pool-8-thread-41/INFO]: [STDOUT]: World save took 64ms
+[16:45:09] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (Skybuild)Possible build located near X-104, Y261, Z120
+[16:45:11] [Render thread/INFO]: [CHAT] [Baritone] > goto -104 261 120
+[16:45:11] [Render thread/INFO]: [CHAT] [Baritone] Going to: GoalBlock{x=-104,y=261,z=120}
+[16:45:12] [pool-8-thread-42/INFO]: [STDOUT]: 922235 movements considered
+[16:45:12] [pool-8-thread-42/INFO]: [STDOUT]: Open set size: 20909
+[16:45:12] [pool-8-thread-42/INFO]: [STDOUT]: PathNode map size: 62828
+[16:45:12] [pool-8-thread-42/INFO]: [STDOUT]: 83840 nodes per second
+[16:45:12] [pool-8-thread-42/INFO]: [STDOUT]: Path goes for 164.4810019424736 blocks
+[16:45:12] [Render thread/INFO]: Cleared hot cache
+[16:45:12] [Render thread/INFO]: [System] [CHAT] [WorldTools] Started capturing 163.44.101.7_25565...
+[16:45:12] [DefaultDispatcher-worker-2/INFO]: Started caching
+[16:45:13] [DefaultDispatcher-worker-2/INFO]: Saved 4 stats.
+[16:45:14] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (Skybuild)Possible build located near X-120, Y261, Z120
+[16:45:15] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (Bubble Column)Possible build located near X72, Y-54, Z168
+[16:45:17] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (Skybuild)Possible build located near X-136, Y261, Z120
+[16:45:18] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (Skybuild)Possible build located near X-184, Y261, Z24
+[16:45:19] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (Skybuild)Possible build located near X-184, Y261, Z40
+[16:45:19] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (Skybuild)Possible build located near X-184, Y261, Z56
+[16:45:21] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (Skybuild)Possible build located near X-136, Y261, Z152
+[16:45:22] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (Skybuild)Possible build located near X-184, Y261, Z72
+[16:45:22] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (Skybuild)Possible build located near X-184, Y261, Z88
+[16:45:24] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-136, Y69, Z168 (Block{minecraft:stripped_birch_log})
+[16:45:24] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-120, Y63, Z184 (Block{minecraft:spruce_sapling})
+[16:45:27] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-136, Y69, Z184 (Block{minecraft:stripped_birch_log})
+[16:45:29] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-104, Y73, Z216 (Block{minecraft:cherry_stairs})
+[16:45:30] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X-97.5, Y65.5, Z201.96875
+[16:45:30] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X-97.5, Y64.5, Z201.96875
+[16:45:30] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X-98.5, Y65.5, Z201.96875
+[16:45:30] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X-98.5, Y66.5, Z201.96875
+[16:45:30] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X-98.5, Y64.5, Z201.96875
+[16:45:30] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X-99.5, Y65.5, Z201.96875
+[16:45:30] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X-99.5, Y66.5, Z201.96875
+[16:45:30] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X-99.5, Y64.5, Z201.96875
+[16:45:30] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X-100.5, Y65.5, Z201.96875
+[16:45:30] [Render thread/INFO]: [System] [CHAT] [Meteor] Item Frame located near X-100.5, Y64.5, Z201.96875
+[16:45:32] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-88, Y76, Z232 (Block{minecraft:enchanting_table})
+[16:45:36] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-88, Y74, Z248 (Block{minecraft:cherry_stairs})
+[16:45:38] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (Open Portal)Possible build located near X-104, Y-53, Z248
+[16:45:38] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-152, Y63, Z232 (Block{minecraft:stripped_dark_oak_log})
+[16:45:40] [pool-8-thread-42/INFO]: [STDOUT]: 5233536 movements considered
+[16:45:40] [pool-8-thread-42/INFO]: [STDOUT]: Open set size: 87834
+[16:45:40] [pool-8-thread-42/INFO]: [STDOUT]: PathNode map size: 325721
+[16:45:40] [pool-8-thread-42/INFO]: [STDOUT]: 59397 nodes per second
+[16:45:40] [pool-8-thread-42/INFO]: [STDOUT]: Path goes for 15.556349186104045 blocks
+[16:45:44] [pool-8-thread-42/INFO]: [STDOUT]: 5426432 movements considered
+[16:45:44] [pool-8-thread-42/INFO]: [STDOUT]: Open set size: 90541
+[16:45:44] [pool-8-thread-42/INFO]: [STDOUT]: PathNode map size: 337196
+[16:45:44] [pool-8-thread-42/INFO]: [STDOUT]: 61648 nodes per second
+[16:45:44] [pool-8-thread-42/INFO]: [STDOUT]: Warning: cost coefficient is greater than three! Probably means that
+[16:45:44] [pool-8-thread-42/INFO]: [STDOUT]: the path I found is pretty terrible (like sneak-bridging for dozens of blocks)
+[16:45:44] [pool-8-thread-42/INFO]: [STDOUT]: But I'm going to do it anyway, because yolo
+[16:45:44] [pool-8-thread-42/INFO]: [STDOUT]: Path goes for 5.385164807134504 blocks
+[16:45:49] [pool-8-thread-42/INFO]: [STDOUT]: 7356800 movements considered
+[16:45:49] [pool-8-thread-42/INFO]: [STDOUT]: Open set size: 116271
+[16:45:49] [pool-8-thread-42/INFO]: [STDOUT]: PathNode map size: 450670
+[16:45:49] [pool-8-thread-42/INFO]: [STDOUT]: 66866 nodes per second
+[16:45:50] [Netty Client IO #2/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-56, Y67, Z296 (Block{minecraft:cherry_sapling})
+[16:45:58] [pool-8-thread-19/INFO]: [STDOUT]: World save took 0ms
+[16:46:17] [Render thread/INFO]: Saving
+[16:46:17] [Render thread/INFO]: Saved in 41 milliseconds.
+[16:46:18] [DefaultDispatcher-worker-3/INFO]: Saved level data.
+[16:46:18] [DefaultDispatcher-worker-3/INFO]: Saved favicon.
+[16:46:18] [DefaultDispatcher-worker-3/INFO]: Saved capture metadata.
+[16:46:18] [DefaultDispatcher-worker-3/INFO]: Zipping C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\163.44.101.7_25565\. to C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\163.44.101.7_25565-1791017178863.zip
+[16:46:19] [DefaultDispatcher-worker-3/INFO]: Finished zipping C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\163.44.101.7_25565\. with size 7.4 MB to C:\Users\<redacted>\AppData\Roaming\.minecraft\saves\163.44.101.7_25565-1791017178863.zip with size 5.4 MB
+[16:46:19] [DefaultDispatcher-worker-3/INFO]: Canceled caching flow
+[16:46:19] [Render thread/INFO]: [System] [CHAT] [WorldTools] Saved 776 chunks, 350 entities and 1 player in dimension overworld to saves directory 163.44.101.7_25565 (click to open)
+[16:46:19] [DefaultDispatcher-worker-3/INFO]: Cleared hot cache
+[16:46:19] [DefaultDispatcher-worker-3/INFO]: Finished caching
+[16:46:35] [pool-8-thread-12/INFO]: [STDOUT]: World save took 0ms
+[16:46:35] [pool-8-thread-12/INFO]: [STDOUT]: mc.world unloaded unnoticed! Unloading Baritone cache now.
+[16:46:35] [pool-8-thread-42/INFO]: [STDOUT]: Started saving the world in a new thread
+[16:46:35] [pool-8-thread-42/INFO]: [STDOUT]: Saving region -1,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.101.7_25565\minecraft\overworld_384\cache
+[16:46:35] [ForkJoinPool.commonPool-worker-37/INFO]: [STDOUT]: Saving region 0,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.101.7_25565\minecraft\overworld_384\cache
+[16:46:35] [ForkJoinPool.commonPool-worker-38/INFO]: [STDOUT]: Saving region -1,-1 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.101.7_25565\minecraft\overworld_384\cache
+[16:46:35] [ForkJoinPool.commonPool-worker-34/INFO]: [STDOUT]: Saving region 0,0 to disk C:\Users\<redacted>\AppData\Roaming\.minecraft\baritone\163.44.101.7_25565\minecraft\overworld_384\cache
+[16:46:36] [ForkJoinPool.commonPool-worker-37/INFO]: [STDOUT]: Saved region successfully
+[16:46:36] [ForkJoinPool.commonPool-worker-34/INFO]: [STDOUT]: Saved region successfully
+[16:46:36] [ForkJoinPool.commonPool-worker-38/INFO]: [STDOUT]: Saved region successfully
+[16:46:36] [pool-8-thread-42/INFO]: [STDOUT]: Saved region successfully
+[16:46:36] [pool-8-thread-42/INFO]: [STDOUT]: World save took 167ms

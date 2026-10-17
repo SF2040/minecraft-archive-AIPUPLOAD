@@ -1,0 +1,23 @@
+{
+  "why_captured": "Meteor reported a possible player build",
+  "trigger_line": "[23:07:09] [Netty Client IO #3/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X-440, Y107, Z216 (Block{minecraft:bamboo_mosaic_stairs})",
+  "coordinates": {
+    "x": -440,
+    "y": 107,
+    "z": 216
+  },
+  "meteor_messages_during_visit": [
+    "[23:07:09] (List1)Possible build located near X-440, Y107, Z216 (Block{minecraft:bamboo_mosaic_stairs})",
+    "[23:08:04] (List1)Possible build located near X-328, Y122, Z264 (Block{minecraft:birch_sign})",
+    "[23:08:14] (List1)Possible build located near X-312, Y119, Z248 (Block{minecraft:bamboo_fence})",
+    "[23:08:18] (Open Portal)Possible build located near X-312, Y110, Z264",
+    "[23:08:22] (List1)Possible build located near X-312, Y98, Z280 (Block{minecraft:birch_wall_sign})",
+    "[23:08:28] (List1)Possible build located near X-296, Y119, Z248 (Block{minecraft:bamboo_fence})",
+    "[23:08:34] Written Sign located near X-304, Y124, Z264",
+    "[23:08:37] Item Frame located near X-301.5, Y133.5, Z274.96875",
+    "[23:08:37] Item Frame located near X-297.5, Y133.5, Z274.96875",
+    "[23:08:37] Item Frame located near X-300.5, Y133.5, Z274.96875"
+  ],
+  "country": "US",
+  "minecraft_version_reported": "1.21.4"
+}

@@ -1,0 +1,16 @@
+{
+  "why_captured": "Meteor reported a possible player build",
+  "trigger_line": "[16:30:55] [Netty Client IO #4/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X72, Y69, Z-8 (Block{minecraft:cherry_sign})",
+  "coordinates": {
+    "x": 72,
+    "y": 69,
+    "z": -8
+  },
+  "meteor_messages_during_visit": [
+    "[16:30:55] (List1)Possible build located near X72, Y69, Z-8 (Block{minecraft:cherry_sign})",
+    "[16:30:59] (List1)Possible build located near X-40, Y64, Z104 (Block{minecraft:cherry_planks})",
+    "[16:31:00] (List1)Possible build located near X-56, Y68, Z104 (Block{minecraft:cherry_planks})"
+  ],
+  "country": "CZ",
+  "minecraft_version_reported": "1.21.4"
+}

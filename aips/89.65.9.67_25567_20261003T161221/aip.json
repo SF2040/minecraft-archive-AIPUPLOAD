@@ -1,0 +1,81 @@
+{
+  "schema": "autoarchiver-aip/1",
+  "aip_id": "89.65.9.67_25567_20261003T161221",
+  "created_utc": "2026-10-17T07:03:10.739405+00:00",
+  "qa_status": "complete",
+  "qa_checks": [
+    {
+      "check": "zip_integrity",
+      "ok": true,
+      "detail": "all members readable"
+    },
+    {
+      "check": "level_dat_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "region_data_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "under_github_file_limit",
+      "ok": true,
+      "detail": "1601430 bytes"
+    },
+    {
+      "check": "capture_metadata_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "worldtools_reported_saved",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "no_storage_errors_in_log",
+      "ok": true,
+      "detail": "Negative index in crash report handler (13/21); An exception occurred while handling a packet | io.netty.channel.StacklessClosedChannelException: null"
+    }
+  ],
+  "representation_information": "../../docs/representation_information.md",
+  "files": [
+    {
+      "path": "content/89.65.9.67_25567.zip",
+      "size": 1601430,
+      "sha256": "ba67520aec8afcf03b3b4798c7ff748910ce76f03c62a55b0db78b8bf5885226"
+    },
+    {
+      "path": "pdi/access_rights.json",
+      "size": 446,
+      "sha256": "d815a800cab9507a55a95061bb11714c27cdb947cd5a1a0e120729ed4927971c"
+    },
+    {
+      "path": "pdi/context.json",
+      "size": 2042,
+      "sha256": "b3279c4b86203c59e9bae0bcd1f162722afa81535bab1bd3b19efd4fbb5226b9"
+    },
+    {
+      "path": "pdi/fixity.json",
+      "size": 1793,
+      "sha256": "4d16a6ab3b45674cb69656e766e2e4c0e2c9aa8646cd3cfbb18f457ec24c90c6"
+    },
+    {
+      "path": "pdi/provenance.json",
+      "size": 2716,
+      "sha256": "e37ced0f7f100ee015d17f8081cb5886a1568604f1176493def44308fdc6aee9"
+    },
+    {
+      "path": "pdi/reference.json",
+      "size": 294,
+      "sha256": "d27ad8aa575be21ebb2a3a30de2c1ac3827d8ac8fd3cb4a7cd359f88d7ec5f67"
+    },
+    {
+      "path": "pdi/session_log_excerpt.txt",
+      "size": 9574,
+      "sha256": "c2694d0f8034fc305a8cc2cee4fd46d70f390c9fedf972537228b5683875673b"
+    }
+  ]
+}

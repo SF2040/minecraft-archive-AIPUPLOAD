@@ -1,0 +1,22 @@
+{
+  "why_captured": "Meteor reported a possible player build",
+  "trigger_line": "[19:02:05] [Netty Client IO #1/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X40, Y72, Z-88 (Block{minecraft:birch_sapling})",
+  "coordinates": {
+    "x": 40,
+    "y": 72,
+    "z": -88
+  },
+  "meteor_messages_during_visit": [
+    "[19:02:05] (List1)Possible build located near X40, Y72, Z-88 (Block{minecraft:birch_sapling})",
+    "[19:02:14] (Bubble Column)Possible build located near X-56, Y-31, Z8",
+    "[19:02:19] (List1)Possible build located near X-72, Y64, Z-120 (Block{minecraft:birch_door})",
+    "[19:02:29] (List1)Possible build located near X104, Y69, Z-104 (Block{minecraft:pale_oak_fence})",
+    "[19:02:31] (List1)Possible build located near X120, Y63, Z-88 (Block{minecraft:pale_oak_fence})",
+    "[19:02:34] (List1)Possible build located near X136, Y63, Z-88 (Block{minecraft:pale_oak_fence})",
+    "[19:02:34] (List1)Possible build located near X136, Y63, Z-104 (Block{minecraft:pale_oak_fence})",
+    "[19:02:57] (List1)Possible build located near X104, Y63, Z-232 (Block{minecraft:bamboo_sapling})",
+    "[19:03:25] Possible modified spawner located near X216, Y-11, Z-152"
+  ],
+  "country": "US",
+  "minecraft_version_reported": "1.21.4"
+}

@@ -1,0 +1,9 @@
+{
+  "aip_id": "123.192.16.226_25567_20261003T155431",
+  "server_ip": "123.192.16.226",
+  "server_port": 25567,
+  "folder_name": "123.192.16.226_25567",
+  "captured_local": "2026-10-03T15:54:31",
+  "captured_utc": "2026-10-03T07:55:37.195000+00:00",
+  "time_source": "archival_log+minecraft_log"
+}

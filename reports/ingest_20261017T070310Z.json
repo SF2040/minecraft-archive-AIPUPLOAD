@@ -1,0 +1,2051 @@
+{
+  "run_utc": "2026-10-17T07:03:10.739405+00:00",
+  "saves": "C:\\Users\\<redacted>\\AppData\\Roaming\\.minecraft\\saves",
+  "log_files": [
+    "2025-12-20-1.log.gz",
+    "2025-12-20-2.log.gz",
+    "2025-12-20-3.log.gz",
+    "2025-12-20-4.log.gz",
+    "2025-12-20-5.log.gz",
+    "2025-12-20-6.log.gz",
+    "2025-12-20-7.log.gz",
+    "2025-12-21-1.log.gz",
+    "2025-12-21-2.log.gz",
+    "2025-12-21-3.log.gz",
+    "2025-12-22-1.log.gz",
+    "2025-12-22-2.log.gz",
+    "2025-12-22-3.log.gz",
+    "2025-12-22-4.log.gz",
+    "2025-12-22-5.log.gz",
+    "2025-12-23-1.log.gz",
+    "2025-12-24-1.log.gz",
+    "2025-12-25-1.log.gz",
+    "2025-12-26-1.log.gz",
+    "2025-12-26-2.log.gz",
+    "2025-12-27-1.log.gz",
+    "2025-12-28-1.log.gz",
+    "2025-12-29-1.log.gz",
+    "2025-12-29-2.log.gz",
+    "2025-12-29-3.log.gz",
+    "2025-12-29-4.log.gz",
+    "2025-12-29-5.log.gz",
+    "2025-12-29-6.log.gz",
+    "2025-12-31-1.log.gz",
+    "2025-12-31-2.log.gz",
+    "2025-12-31-3.log.gz",
+    "2025-12-31-4.log.gz",
+    "2026-01-01-1.log.gz",
+    "2026-01-01-2.log.gz",
+    "2026-01-02-1.log.gz",
+    "2026-01-02-2.log.gz",
+    "2026-01-02-3.log.gz",
+    "2026-01-03-1.log.gz",
+    "2026-01-03-2.log.gz",
+    "2026-01-03-3.log.gz",
+    "2026-01-03-4.log.gz",
+    "2026-01-03-5.log.gz",
+    "2026-01-05-1.log.gz",
+    "2026-01-06-1.log.gz",
+    "2026-01-07-1.log.gz",
+    "2026-01-08-1.log.gz",
+    "2026-01-09-1.log.gz",
+    "2026-01-10-1.log.gz",
+    "2026-01-11-1.log.gz",
+    "2026-01-12-1.log.gz",
+    "2026-01-12-2.log.gz",
+    "2026-01-12-3.log.gz",
+    "2026-01-12-4.log.gz",
+    "2026-01-12-5.log.gz",
+    "2026-01-13-1.log.gz",
+    "2026-01-13-2.log.gz",
+    "2026-01-14-1.log.gz",
+    "2026-01-14-2.log.gz",
+    "2026-01-15-1.log.gz",
+    "2026-01-15-2.log.gz",
+    "2026-01-16-1.log.gz",
+    "2026-01-16-2.log.gz",
+    "2026-01-16-3.log.gz",
+    "2026-01-17-1.log.gz",
+    "2026-01-17-2.log.gz",
+    "2026-01-18-1.log.gz",
+    "2026-01-18-2.log.gz",
+    "2026-01-19-1.log.gz",
+    "2026-01-22-1.log.gz",
+    "2026-01-23-1.log.gz",
+    "2026-01-24-1.log.gz",
+    "2026-01-24-2.log.gz",
+    "2026-01-25-1.log.gz",
+    "2026-01-25-2.log.gz",
+    "2026-01-25-3.log.gz",
+    "2026-01-30-1.log.gz",
+    "2026-01-31-1.log.gz",
+    "2026-01-31-2.log.gz",
+    "2026-02-02-1.log.gz",
+    "2026-02-02-2.log.gz",
+    "2026-02-06-1.log.gz",
+    "2026-02-07-1.log.gz",
+    "2026-02-09-1.log.gz",
+    "2026-02-10-1.log.gz",
+    "2026-02-10-2.log.gz",
+    "2026-02-18-1.log.gz",
+    "2026-02-18-2.log.gz",
+    "2026-02-18-3.log.gz",
+    "2026-02-21-1.log.gz",
+    "2026-02-24-1.log.gz",
+    "2026-02-24-2.log.gz",
+    "2026-02-24-3.log.gz",
+    "2026-03-02-1.log.gz",
+    "2026-03-02-2.log.gz",
+    "2026-03-02-3.log.gz",
+    "2026-03-02-4.log.gz",
+    "2026-10-03-1.log.gz",
+    "2026-10-03-2.log.gz",
+    "2026-10-03-3.log.gz",
+    "latest.log"
+  ],
+  "archival_log_visits": 439,
+  "skipped_not_server_worlds": [
+    "New World",
+    "New World (1)",
+    "New World (2)",
+    "New World-",
+    "New World--",
+    "TWST26"
+  ],
+  "worlds": [
+    {
+      "world": "104.246.165.82_25565",
+      "source": "folder 104.246.165.82_25565",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "3065226 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 104.246.165.82_25565_20261003T183107",
+      "aip_id": "104.246.165.82_25565_20261003T183107",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "108.181.58.94_25689",
+      "source": "folder 108.181.58.94_25689",
+      "qa_status": "unverified",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "3299752 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": null,
+          "detail": "no Minecraft log evidence found"
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": null,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_ip_port_only",
+      "outcome": "ingested as 108.181.58.94_25689_20251229T012842",
+      "aip_id": "108.181.58.94_25689_20251229T012842",
+      "notes": [
+        "archival_log entry matched on ip:port only (no Minecraft log timing)",
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result",
+        "no WorldTools lines for this world in the supplied Minecraft logs"
+      ]
+    },
+    {
+      "world": "116.202.162.47_25561",
+      "source": "folder 116.202.162.47_25561",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "3303710 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 116.202.162.47_25561_20251229T161948",
+      "aip_id": "116.202.162.47_25561_20251229T161948",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "123.192.16.226_25567",
+      "source": "zip 123.192.16.226_25567-1791014137195.zip",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "4927816 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 123.192.16.226_25567_20261003T155431",
+      "aip_id": "123.192.16.226_25567_20261003T155431",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "123.194.61.222_25567",
+      "source": "folder 123.194.61.222_25567",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "3579750 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 123.194.61.222_25567_20251229T182743",
+      "aip_id": "123.194.61.222_25567_20251229T182743",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "129.146.49.166_25565",
+      "source": "folder 129.146.49.166_25565",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "1483352 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 129.146.49.166_25565_20251229T225553",
+      "aip_id": "129.146.49.166_25565_20251229T225553",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "129.153.57.138_25575",
+      "source": "folder 129.153.57.138_25575",
+      "qa_status": "unverified",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "4024924 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": null,
+          "detail": "no Minecraft log evidence found"
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": null,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_ip_port_only",
+      "outcome": "ingested as 129.153.57.138_25575_20251229T012517",
+      "aip_id": "129.153.57.138_25575_20251229T012517",
+      "notes": [
+        "archival_log entry matched on ip:port only (no Minecraft log timing)",
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result",
+        "no WorldTools lines for this world in the supplied Minecraft logs"
+      ]
+    },
+    {
+      "world": "135.148.137.224_25629",
+      "source": "folder 135.148.137.224_25629",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "3643215 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 135.148.137.224_25629_20251229T181259",
+      "aip_id": "135.148.137.224_25629_20251229T181259",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "142.79.41.81_25565",
+      "source": "folder 142.79.41.81_25565",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "6041305 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 142.79.41.81_25565_20261003T184052",
+      "aip_id": "142.79.41.81_25565_20261003T184052",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "144.6.87.175_25566",
+      "source": "folder 144.6.87.175_25566",
+      "qa_status": "unverified",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "3323280 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": null,
+          "detail": "no Minecraft log evidence found"
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": null,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_ip_port_only",
+      "outcome": "ingested as 144.6.87.175_25566_20251229T015228",
+      "aip_id": "144.6.87.175_25566_20251229T015228",
+      "notes": [
+        "archival_log entry matched on ip:port only (no Minecraft log timing)",
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result",
+        "no WorldTools lines for this world in the supplied Minecraft logs"
+      ]
+    },
+    {
+      "world": "144.6.87.175_25567",
+      "source": "folder 144.6.87.175_25567",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "2722653 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 144.6.87.175_25567_20251229T191159",
+      "aip_id": "144.6.87.175_25567_20251229T191159",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "147.135.104.221_25744",
+      "source": "folder 147.135.104.221_25744",
+      "qa_status": "unverified",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "2530901 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": null,
+          "detail": "no Minecraft log evidence found"
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": null,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_ip_port_only",
+      "outcome": "ingested as 147.135.104.221_25744_20251229T003652",
+      "aip_id": "147.135.104.221_25744_20251229T003652",
+      "notes": [
+        "archival_log entry matched on ip:port only (no Minecraft log timing)",
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result",
+        "no WorldTools lines for this world in the supplied Minecraft logs"
+      ]
+    },
+    {
+      "world": "147.135.252.205_25566",
+      "source": "folder 147.135.252.205_25566",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "2983745 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 147.135.252.205_25566_20251229T153725",
+      "aip_id": "147.135.252.205_25566_20251229T153725",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "15.204.44.62_20144",
+      "source": "folder 15.204.44.62_20144",
+      "qa_status": "unverified",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "6236675 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": null,
+          "detail": "no Minecraft log evidence found"
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": null,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_ip_port_only",
+      "outcome": "ingested as 15.204.44.62_20144_20251229T003836",
+      "aip_id": "15.204.44.62_20144_20251229T003836",
+      "notes": [
+        "archival_log entry matched on ip:port only (no Minecraft log timing)",
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result",
+        "no WorldTools lines for this world in the supplied Minecraft logs"
+      ]
+    },
+    {
+      "world": "152.67.255.189_25565",
+      "source": "folder 152.67.255.189_25565",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "3167947 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 152.67.255.189_25565_20261003T170315",
+      "aip_id": "152.67.255.189_25565_20261003T170315",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "160.251.175.224_25565",
+      "source": "folder 160.251.175.224_25565",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "2490837 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 160.251.175.224_25565_20251229T215918",
+      "aip_id": "160.251.175.224_25565_20251229T215918",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "160.251.197.5_25565",
+      "source": "folder 160.251.197.5_25565",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "3209514 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 160.251.197.5_25565_20251229T231549",
+      "aip_id": "160.251.197.5_25565_20251229T231549",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "160.251.202.235_25565",
+      "source": "folder 160.251.202.235_25565",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "3999301 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 160.251.202.235_25565_20261003T164104",
+      "aip_id": "160.251.202.235_25565_20261003T164104",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "160.251.209.22_25565",
+      "source": "folder 160.251.209.22_25565",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "6214354 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 160.251.209.22_25565_20261003T175745",
+      "aip_id": "160.251.209.22_25565_20261003T175745",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "160.251.234.187_25565",
+      "source": "folder 160.251.234.187_25565",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "3255585 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 160.251.234.187_25565_20251229T224413",
+      "aip_id": "160.251.234.187_25565_20251229T224413",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "162.219.230.205_25565",
+      "source": "folder 162.219.230.205_25565",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "2837784 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 162.219.230.205_25565_20251229T230734",
+      "aip_id": "162.219.230.205_25565_20251229T230734",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "162.43.42.61_25565",
+      "source": "folder 162.43.42.61_25565",
+      "qa_status": "incomplete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "4247941 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": false,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": false,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": false,
+          "detail": "Unhandled storage flow error | java.lang.NullPointerException: Cannot invoke \"net.minecraft.class_2561.getString()\" because \"info.field_3753\" is null"
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 162.43.42.61_25565_20261003T171103",
+      "aip_id": "162.43.42.61_25565_20261003T171103",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result",
+        "WorldTools logged 'Unhandled storage flow error' during this capture"
+      ]
+    },
+    {
+      "world": "162.55.235.169_25560",
+      "source": "folder 162.55.235.169_25560",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "3794429 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": "Image minecraft:entity/conduit/wind size 2,22 is not multiple of frame size 2,32; Image minecraft:entity/conduit/wind_vertical size 2,22 is not multiple of frame size 2,32"
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 162.55.235.169_25560_20251229T141223",
+      "aip_id": "162.55.235.169_25560_20251229T141223",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "162.55.5.218_25567",
+      "source": "folder 162.55.5.218_25567",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "2940023 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 162.55.5.218_25567_20251229T151754",
+      "aip_id": "162.55.5.218_25567_20251229T151754",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "163.44.101.7_25565",
+      "source": "folder 163.44.101.7_25565",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "5442254 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 163.44.101.7_25565_20261003T164512",
+      "aip_id": "163.44.101.7_25565_20261003T164512",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "163.44.119.253_25565",
+      "source": "folder 163.44.119.253_25565",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "3785526 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 163.44.119.253_25565_20261003T163706",
+      "aip_id": "163.44.119.253_25565_20261003T163706",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "163.44.122.140_25565",
+      "source": "folder 163.44.122.140_25565",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "3112138 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 163.44.122.140_25565_20251231T225400",
+      "aip_id": "163.44.122.140_25565_20251231T225400",
+      "notes": []
+    },
+    {
+      "world": "172.96.172.2_10109",
+      "source": "folder 172.96.172.2_10109",
+      "qa_status": "unverified",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "4297584 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": null,
+          "detail": "no Minecraft log evidence found"
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": null,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_ip_port_only",
+      "outcome": "ingested as 172.96.172.2_10109_20251228T014645",
+      "aip_id": "172.96.172.2_10109_20251228T014645",
+      "notes": [
+        "archival_log entry matched on ip:port only (no Minecraft log timing)",
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result",
+        "no WorldTools lines for this world in the supplied Minecraft logs"
+      ]
+    },
+    {
+      "world": "199.127.63.153_25610",
+      "source": "folder 199.127.63.153_25610",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "2260913 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 199.127.63.153_25610_20251229T182309",
+      "aip_id": "199.127.63.153_25610_20251229T182309",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "209.192.186.149_25660",
+      "source": "folder 209.192.186.149_25660",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "3096952 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 209.192.186.149_25660_20251229T190223",
+      "aip_id": "209.192.186.149_25660_20251229T190223",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "216.225.156.80_9025",
+      "source": "zip 216.225.156.80_9025-1766941605546.zip",
+      "qa_status": "unverified",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "3069361 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": null,
+          "detail": "no Minecraft log evidence found"
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": null,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_ip_port_only",
+      "outcome": "ingested as 216.225.156.80_9025_20251229T011922",
+      "aip_id": "216.225.156.80_9025_20251229T011922",
+      "notes": [
+        "archival_log entry matched on ip:port only (no Minecraft log timing)",
+        "no WorldTools lines for this world in the supplied Minecraft logs"
+      ]
+    },
+    {
+      "world": "216.225.157.102_25600",
+      "source": "folder 216.225.157.102_25600",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "3309710 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 216.225.157.102_25600_20251229T183541",
+      "aip_id": "216.225.157.102_25600_20251229T183541",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "45.140.164.145_27309",
+      "source": "folder 45.140.164.145_27309",
+      "qa_status": "unverified",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "2926933 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": null,
+          "detail": "no Minecraft log evidence found"
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": null,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_ip_port_only",
+      "outcome": "ingested as 45.140.164.145_27309_20251229T004342",
+      "aip_id": "45.140.164.145_27309_20251229T004342",
+      "notes": [
+        "archival_log entry matched on ip:port only (no Minecraft log timing)",
+        "no WorldTools lines for this world in the supplied Minecraft logs"
+      ]
+    },
+    {
+      "world": "45.140.164.183_25682",
+      "source": "folder 45.140.164.183_25682",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "2565110 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 45.140.164.183_25682_20251229T192112",
+      "aip_id": "45.140.164.183_25682_20251229T192112",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "51.81.217.20_25571",
+      "source": "zip 51.81.217.20_25571-1791014375000.zip",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "5759740 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": "Can't ping play.pika-network.net: Disconnected"
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 51.81.217.20_25571_20261003T155828",
+      "aip_id": "51.81.217.20_25571_20261003T155828",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "72.12.254.108_25566",
+      "source": "folder 72.12.254.108_25566",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "2889476 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 72.12.254.108_25566_20251229T170657",
+      "aip_id": "72.12.254.108_25566_20251229T170657",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "76.76.240.23_25570",
+      "source": "folder 76.76.240.23_25570",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "3771808 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 76.76.240.23_25570_20251229T142524",
+      "aip_id": "76.76.240.23_25570_20251229T142524",
+      "notes": []
+    },
+    {
+      "world": "78.157.163.102_25565",
+      "source": "folder 78.157.163.102_25565",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "2874137 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 78.157.163.102_25565_20261003T163111",
+      "aip_id": "78.157.163.102_25565_20261003T163111",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "85.131.248.225_25565",
+      "source": "folder 85.131.248.225_25565",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "3852339 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": ""
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 85.131.248.225_25565_20251229T220317",
+      "aip_id": "85.131.248.225_25565_20251229T220317",
+      "notes": [
+        "archival_log.txt printed 'Download timeout'; that message is only the script's wait limit - worldtools_saved below is the authoritative result"
+      ]
+    },
+    {
+      "world": "89.65.9.67_25567",
+      "source": "folder 89.65.9.67_25567",
+      "qa_status": "complete",
+      "checks": [
+        {
+          "check": "zip_integrity",
+          "ok": true,
+          "detail": "all members readable"
+        },
+        {
+          "check": "level_dat_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "region_data_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "under_github_file_limit",
+          "ok": true,
+          "detail": "1601430 bytes"
+        },
+        {
+          "check": "capture_metadata_present",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "worldtools_reported_saved",
+          "ok": true,
+          "detail": ""
+        },
+        {
+          "check": "no_storage_errors_in_log",
+          "ok": true,
+          "detail": "Negative index in crash report handler (13/21); An exception occurred while handling a packet | io.netty.channel.StacklessClosedChannelException: null"
+        }
+      ],
+      "archival_log_match": "matched_by_time",
+      "outcome": "ingested as 89.65.9.67_25567_20261003T161221",
+      "aip_id": "89.65.9.67_25567_20261003T161221",
+      "notes": []
+    }
+  ],
+  "summary": {
+    "complete": 31,
+    "unverified": 8,
+    "incomplete": 1
+  }
+}

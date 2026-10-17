@@ -1,0 +1,15 @@
+{
+  "why_captured": "Meteor reported a possible player build",
+  "trigger_line": "[18:12:33] [Netty Client IO #5/INFO]: [System] [CHAT] [Meteor] (List1)Possible build located near X8, Y108, Z8 (Block{minecraft:powered_rail})",
+  "coordinates": {
+    "x": 8,
+    "y": 108,
+    "z": 8
+  },
+  "meteor_messages_during_visit": [
+    "[18:12:33] (List1)Possible build located near X8, Y108, Z8 (Block{minecraft:powered_rail})",
+    "[18:12:33] (List1)Possible build located near X-8, Y109, Z-8 (Block{minecraft:spruce_sign})"
+  ],
+  "country": "US",
+  "minecraft_version_reported": "1.21.4"
+}

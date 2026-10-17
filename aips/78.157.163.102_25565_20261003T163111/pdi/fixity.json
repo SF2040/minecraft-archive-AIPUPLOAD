@@ -1,0 +1,75 @@
+{
+  "algorithm": "sha256",
+  "content_file": "content/78.157.163.102_25565.zip",
+  "sha256": "886ba4bff60cff3f6f213bba65f84f9764d2c5f13593fea522a9d7688af6a5dc",
+  "size_bytes": 2874137,
+  "file_count": 13,
+  "content_digest": "1500b90a1c30373d9cdebce41c0b58713180051d601ff9ded13fe7fb2d1fdb6d",
+  "inventory": [
+    {
+      "path": "WorldTools/Capture Metadata.md",
+      "size": 363,
+      "sha256": "5d637c0fe9311fa42e1d2b31706bd45bde04cf079dcc5337bade989be10aaaee"
+    },
+    {
+      "path": "entities/r.-1.-1.mca",
+      "size": 135168,
+      "sha256": "b34388860059679d2e8a3133c331e92998f779518f0cb53b744d21fc579eb47f"
+    },
+    {
+      "path": "entities/r.-1.0.mca",
+      "size": 81920,
+      "sha256": "fb48fe6e1aeb764c7a8fcaa0bec71ef600ab12e5b9db385c38fcd4276a2964ba"
+    },
+    {
+      "path": "entities/r.0.-1.mca",
+      "size": 217088,
+      "sha256": "d17df9c2894c22ba767c0fc7e414194a57883af0606515128a46eee74cd975a6"
+    },
+    {
+      "path": "entities/r.0.0.mca",
+      "size": 188416,
+      "sha256": "1c79c74adf8e09f862f3a8a46e1a6c378731f13edec91cbb8dd8975153074257"
+    },
+    {
+      "path": "level.dat",
+      "size": 1283,
+      "sha256": "87aea6939a91591f992f7630173274d5b789151192dcc1a0f38bd2701c9352a0"
+    },
+    {
+      "path": "playerdata/93d2d469-7e11-4249-9cae-fdbf48b6d703.dat",
+      "size": 642,
+      "sha256": "b6ad30e45cdfba8b9e9d2b54f63968df235ce596bc701204cd105b5043e9a652"
+    },
+    {
+      "path": "region/r.-1.-1.mca",
+      "size": 634880,
+      "sha256": "d4f6dff517e563e615e2f14e0037e385dc81c7c990f8c4d6ed3c369b312e3b26"
+    },
+    {
+      "path": "region/r.-1.0.mca",
+      "size": 667648,
+      "sha256": "0c0865d7f2fc7bc1b90314d63da838ea7ba814ed009b0fadffa0a623e8e2ef8c"
+    },
+    {
+      "path": "region/r.0.-1.mca",
+      "size": 1490944,
+      "sha256": "33fd9a67673a2de656c4a318a084bac1deb815d16f0e17452f0b4df3fc38ff22"
+    },
+    {
+      "path": "region/r.0.0.mca",
+      "size": 1294336,
+      "sha256": "3a4d799b31ec476a70bb76101824367d33fad0e4afbc3ddb388460d878d048c0"
+    },
+    {
+      "path": "session.lock",
+      "size": 3,
+      "sha256": "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc"
+    },
+    {
+      "path": "stats/93d2d469-7e11-4249-9cae-fdbf48b6d703.json",
+      "size": 398,
+      "sha256": "bc8e3de3a215b4cd20c395fe0a032a3a2ebd11cdec3e831221843500c2c6aae4"
+    }
+  ]
+}

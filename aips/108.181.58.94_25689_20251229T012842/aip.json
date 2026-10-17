@@ -1,0 +1,81 @@
+{
+  "schema": "autoarchiver-aip/1",
+  "aip_id": "108.181.58.94_25689_20251229T012842",
+  "created_utc": "2026-10-17T07:03:10.739405+00:00",
+  "qa_status": "unverified",
+  "qa_checks": [
+    {
+      "check": "zip_integrity",
+      "ok": true,
+      "detail": "all members readable"
+    },
+    {
+      "check": "level_dat_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "region_data_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "under_github_file_limit",
+      "ok": true,
+      "detail": "3299752 bytes"
+    },
+    {
+      "check": "capture_metadata_present",
+      "ok": true,
+      "detail": ""
+    },
+    {
+      "check": "worldtools_reported_saved",
+      "ok": null,
+      "detail": "no Minecraft log evidence found"
+    },
+    {
+      "check": "no_storage_errors_in_log",
+      "ok": null,
+      "detail": ""
+    }
+  ],
+  "representation_information": "../../docs/representation_information.md",
+  "files": [
+    {
+      "path": "content/108.181.58.94_25689.zip",
+      "size": 3299752,
+      "sha256": "78d3ffd762c7e58843ec5d145435e405f1bd710a3c45ca1db7e03da5095a4c5b"
+    },
+    {
+      "path": "pdi/access_rights.json",
+      "size": 446,
+      "sha256": "d815a800cab9507a55a95061bb11714c27cdb947cd5a1a0e120729ed4927971c"
+    },
+    {
+      "path": "pdi/context.json",
+      "size": 297,
+      "sha256": "9cabe6d4d99154e9e8c477a194d3e8293399e978a9896db3ac4a1d48beb0adc2"
+    },
+    {
+      "path": "pdi/fixity.json",
+      "size": 4488,
+      "sha256": "f6f4f1af30f2e870a736ccb4059d8f327aebb2e90a173201e3cd6fb7f21f6455"
+    },
+    {
+      "path": "pdi/provenance.json",
+      "size": 1907,
+      "sha256": "9613cccbcb39afdf907d322ef1df9ff7ecce72120b16a7bf14e938fdb63bf92f"
+    },
+    {
+      "path": "pdi/reference.json",
+      "size": 289,
+      "sha256": "7a0db7543dd591b449b295c7714e0d61f76bc5b4930c5512e8c928467c773f4e"
+    },
+    {
+      "path": "pdi/session_log_excerpt.txt",
+      "size": 47,
+      "sha256": "1f58fec1e73c9af59bd39cc4dc931e29258d82d4196082ea70eb57695cbc9b25"
+    }
+  ]
+}
