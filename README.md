@@ -39,3 +39,25 @@ Times without a time zone come from the archiving PC's local clock.
 Worlds were captured from public servers by joining as an ordinary client. The server owners and
 players were not asked for permission, rights are unknown, and worlds may contain player data
 (UUIDs in `playerdata/` and `stats/`). Keep this repository private until that is reviewed.
+
+STACK
+(*) = REQUIRED
+- *Language: Python 3.12
+- *Automation: PyAutoGUI (mouse/keyboard control)
+- *Minecraft Java Edition (1.21.4) Fabric
+- Mods:
+  - *Meteor Client (structure detection via logs)
+	  - https://anticope.pages.dev/addons/?
+		    *https://anticope.pages.dev/addons/?addon=etianl%2FTrouser-Streak (Basefinder Module)
+	     https://www.meteoraddons.com/ (Meteor Addons)
+	  - *[WorldTools](https://www.curseforge.com/minecraft/mc-mods/worldtools) (World downloader)
+	  - *[ViaFabricPlus](https://modrinth.com/mod/viafabricplus) (cross-version compatibility, this archiver can download worlds on MOST versions but may lead to corruption)
+	  - *[Baritone](https://meteorclient.com/api/downloadBaritone)  
+	  - [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast) (Chunk loading performance for faster detections)
+	  - Lithium (performance)
+	  - *Fabric-api
+	  - *Fabric-language-koltin
+	  - *Cloth-config
+	  - Sodium (performance)
+		Sodium Extra (performance)
+- [Data Source](https://github.com/kgurchiek): Open port servers (https://api.cornbread2100.com/) 
